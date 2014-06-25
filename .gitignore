@@ -1,0 +1,6 @@
+# user environment
+.DS_Store
+
+# sass cache and final, compiled stylesheets excluded, we keep the sass files instead
+.sass-cache
+

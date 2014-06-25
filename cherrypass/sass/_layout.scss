@@ -1,0 +1,70 @@
+/*
+LAYOUT
+*/
+
+@import "compass/css3/box-shadow";
+
+nav#main-nav, footer {
+	padding: 0.3em;
+}
+
+nav#main-nav {
+	border-bottom: 1px solid $lightgrey;
+	overflow: auto;
+	@include single-box-shadow;
+}
+
+.site-width {
+        position: relative;
+        width: 90%;
+        margin: 0 auto;
+        clear: left;
+}
+
+.socialicons {
+	float: right;
+}
+
+.home-icon {
+	width: 2.25em;
+	margin-top: 0.37em;
+}
+
+.home-section {
+	padding: 0.832em 0px;
+	border-bottom: 1px solid #ddd;
+}
+
+.home-section:last-child {
+	border-bottom: none;
+}
+
+.home-section-more {
+	margin: 0.444em 0px;
+}
+
+.main-content {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+figure {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	border: 1px solid $lightgrey;
+	@include single-box-shadow;
+}
+
+.content-img {
+	max-width: 100%;
+}
+
+figcaption {
+	//margin: 0.132em;
+	padding: 0.444em;
+}
+
+footer {
+	border-top: 1px solid $lightgrey;
+	text-align: right;
+} 

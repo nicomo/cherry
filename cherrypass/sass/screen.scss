@@ -1,0 +1,24 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+
+/*
+BASE STYLES 
+-----------
+Importing typography, Images, Icons, Forms, etc.
+Scale - see http://modularscale.com/scale/?px1=16&px2=768&ra1=1.5&ra2=0
+-----------
+*/
+@import "colors";
+@import "mixins";
+@import "layout";
+@import "typography";
+@import "buttons";
+
+
+body {
+	background-color: #ffffff;
+}

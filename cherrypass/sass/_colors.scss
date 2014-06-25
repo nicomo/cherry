@@ -1,0 +1,21 @@
+/* 
+COLORS
+*/
+$darkgrey: #1f1d1d;
+$lightgrey: #ddd;
+$verylightgrey: #f9f9f9;
+$linkcolor: #06A4F3;
+
+
+$text_color: $darkgrey;
+
+h2, p {
+	color: $text_color;
+}
+
+.go-link {
+	color:$linkcolor;
+}
+
+// The default color for box shadows
+$default-box-shadow-color: $lightgrey;

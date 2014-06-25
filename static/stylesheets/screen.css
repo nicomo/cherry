@@ -1,0 +1,329 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 17, ../../../../.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/*
+BASE STYLES 
+-----------
+Importing typography, Images, Icons, Forms, etc.
+Scale - see http://modularscale.com/scale/?px1=16&px2=768&ra1=1.5&ra2=0
+-----------
+*/
+/* 
+COLORS
+*/
+/* line 12, ../../cherrypass/sass/_colors.scss */
+h2, p {
+  color: #1f1d1d;
+}
+
+/* line 16, ../../cherrypass/sass/_colors.scss */
+.go-link {
+  color: #06a4f3;
+}
+
+/* 
+MIXINS
+*/
+/*
+LAYOUT
+*/
+/* line 7, ../../cherrypass/sass/_layout.scss */
+nav#main-nav, footer {
+  padding: 0.3em;
+}
+
+/* line 11, ../../cherrypass/sass/_layout.scss */
+nav#main-nav {
+  border-bottom: 1px solid #dddddd;
+  overflow: auto;
+  -webkit-box-shadow: 0px 0px 5px #dddddd;
+  -moz-box-shadow: 0px 0px 5px #dddddd;
+  box-shadow: 0px 0px 5px #dddddd;
+}
+
+/* line 17, ../../cherrypass/sass/_layout.scss */
+.site-width {
+  position: relative;
+  width: 90%;
+  margin: 0 auto;
+  clear: left;
+}
+
+/* line 24, ../../cherrypass/sass/_layout.scss */
+.socialicons {
+  float: right;
+}
+
+/* line 28, ../../cherrypass/sass/_layout.scss */
+.home-icon {
+  width: 2.25em;
+  margin-top: 0.37em;
+}
+
+/* line 33, ../../cherrypass/sass/_layout.scss */
+.home-section {
+  padding: 0.832em 0px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* line 38, ../../cherrypass/sass/_layout.scss */
+.home-section:last-child {
+  border-bottom: none;
+}
+
+/* line 42, ../../cherrypass/sass/_layout.scss */
+.home-section-more {
+  margin: 0.444em 0px;
+}
+
+/* line 46, ../../cherrypass/sass/_layout.scss */
+.main-content {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+/* line 51, ../../cherrypass/sass/_layout.scss */
+figure {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border: 1px solid #dddddd;
+  -webkit-box-shadow: 0px 0px 5px #dddddd;
+  -moz-box-shadow: 0px 0px 5px #dddddd;
+  box-shadow: 0px 0px 5px #dddddd;
+}
+
+/* line 58, ../../cherrypass/sass/_layout.scss */
+.content-img {
+  max-width: 100%;
+}
+
+/* line 62, ../../cherrypass/sass/_layout.scss */
+figcaption {
+  padding: 0.444em;
+}
+
+/* line 67, ../../cherrypass/sass/_layout.scss */
+footer {
+  border-top: 1px solid #dddddd;
+  text-align: right;
+}
+
+/* 
+TYPOGRAPHY
+*/
+@font-face {
+  font-family: "Mono Social Icons Font";
+  src: url('fonts/MonoSocialIconsFont-1.10.eot');
+  src: url('fonts/MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'), url('fonts/MonoSocialIconsFont-1.10.woff') format('woff'), url('fonts/MonoSocialIconsFont-1.10.ttf') format('truetype'), url('fonts/MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* FAMILIES */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local("Lato Light"), local("Lato-Light"), url(http://themes.googleusercontent.com/static/fonts/lato/v6/kcf5uOXucLcbFOydGU24WALUuEpTyoUstqEm5AMlJo4.woff) format("woff");
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Lato Regular"), local("Lato-Regular"), url(http://themes.googleusercontent.com/static/fonts/lato/v6/qIIYRU-oROkIk8vfvxw6QvesZW2xOQ-xsNqO47m55DA.woff) format("woff");
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local("Lato Bold"), local("Lato-Bold"), url(http://themes.googleusercontent.com/static/fonts/lato/v6/qdgUG4U09HnJwhYI-uK18wLUuEpTyoUstqEm5AMlJo4.woff) format("woff");
+}
+
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Libre Baskerville"), local("LibreBaskerville-Regular"), url(http://themes.googleusercontent.com/static/fonts/librebaskerville/v1/pR0sBQVcY0JZc_ciXjFsK5gtRqbDAavNCEBluaoIIJc.woff) format("woff");
+}
+
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: italic;
+  font-weight: 400;
+  src: local("Libre Baskerville Italic"), local("LibreBaskerville-Italic"), url(http://themes.googleusercontent.com/static/fonts/librebaskerville/v1/QHIOz1iKF3bIEzRdDFaf5SO-5kXrvlsa0llgP70kI5w.woff) format("woff");
+}
+
+/* line 51, ../../cherrypass/sass/_typography.scss */
+html {
+  font-family: "Libre Baskerville", serif;
+  font-size: 16px;
+  line-height: 1.375;
+}
+
+/* line 57, ../../cherrypass/sass/_typography.scss */
+h2 {
+  font-family: "Lato", Helvetica, sans-serif;
+  font-size: 1.873em;
+}
+
+/* line 62, ../../cherrypass/sass/_typography.scss */
+h3 {
+  font-family: "Lato", Helvetica, sans-serif;
+  font-size: 1.249em;
+}
+
+/* line 67, ../../cherrypass/sass/_typography.scss */
+p {
+  margin-bottom: 0.667em;
+}
+
+/* line 71, ../../cherrypass/sass/_typography.scss */
+.home-section-more p {
+  font-style: italic;
+}
+
+/* line 75, ../../cherrypass/sass/_typography.scss */
+figcaption {
+  font-family: "Lato", Helvetica, sans-serif;
+  font-size: 0.555em;
+  text-align: right;
+}
+
+/* line 82, ../../cherrypass/sass/_typography.scss */
+.symbol {
+  font-size: 2.25em;
+}
+
+/* line 86, ../../cherrypass/sass/_typography.scss */
+.symbol, a.symbol:before {
+  font-family: 'Mono Social Icons Font';
+  -webkit-text-rendering: optimizeLegibility;
+  -moz-text-rendering: optimizeLegibility;
+  -ms-text-rendering: optimizeLegibility;
+  -o-text-rendering: optimizeLegibility;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -ms-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+/* line 101, ../../cherrypass/sass/_typography.scss */
+a.symbol:before {
+  content: attr(title);
+  margin-right: 0.2em;
+  font-size: 130%;
+}
+
+/* line 107, ../../cherrypass/sass/_typography.scss */
+a {
+  text-decoration: none;
+}
+
+/* line 111, ../../cherrypass/sass/_typography.scss */
+ul.chronology {
+  font-size: 0.832em;
+}
+
+/* line 115, ../../cherrypass/sass/_typography.scss */
+.date {
+  font-style: italic;
+}
+
+/* line 120, ../../cherrypass/sass/_typography.scss */
+footer p {
+  font-size: 0.832em;
+  font-style: italic;
+}
+
+/*
+BUTTONS
+*/
+/* GO LINK - USED ON HOME */
+/* line 9, ../../cherrypass/sass/_buttons.scss */
+.go-link {
+  background-color: #f9f9f9;
+  border: 0.247em solid #06a4f3;
+  height: 1.873em;
+  line-height: 1.873em;
+  width: 1.873em;
+  text-decoration: none;
+  text-align: center;
+  -webkit-border-radius: 50% 50%;
+  -moz-border-radius: 50% / 50%;
+  border-radius: 50% / 50%;
+}
+
+/* line 22, ../../cherrypass/sass/screen.scss */
+body {
+  background-color: #ffffff;
+}
