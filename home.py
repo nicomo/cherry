@@ -7,8 +7,12 @@ class Cherry(object):
         return file('index.html')
 
     @cherrypy.expose
-    def dailymood(self):
-        return file('dailymood/index.html')
+    def legal(self):
+        return file('legal.html')
+
+    @cherrypy.expose
+    def nanomood(self):
+        return file('nanohmood/index.html')
 
     @cherrypy.expose
     def xbr(self):

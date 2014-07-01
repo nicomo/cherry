@@ -4,6 +4,12 @@ LAYOUT
 
 @import "compass/css3/box-shadow";
 
+.clearfix:after {
+content: "";
+display: table;
+clear: both;
+}
+
 nav#main-nav, footer {
 	padding: 0.3em;
 }
@@ -63,6 +69,15 @@ figcaption {
 	//margin: 0.132em;
 	padding: 0.444em;
 }
+
+.section-header {
+	margin: 1em 0;
+}
+
+.section-header-txt {
+	float: left;
+}
+
 
 footer {
 	border-top: 1px solid $lightgrey;

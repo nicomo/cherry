@@ -2,17 +2,8 @@
 BUTTONS
 */
 
-/* GO LINK - USED ON HOME */
-
-@import "compass/css3/border-radius";
-
-.go-link {
-	background-color: $verylightgrey;	
-	border: 0.247em solid $linkcolor;
-	height: 1.873em;
-	line-height: 1.873em;
-	width: 1.873em;
-	text-decoration:none;
-	text-align:center;
-	@include border-radius(50%, 50%);
+.more-icon {
+  width: 1.249em;
+  vertical-align: middle;
+  margin: 0 0 0 0.832em;
 }
