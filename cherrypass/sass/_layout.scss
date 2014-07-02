@@ -61,6 +61,24 @@ figure {
 	@include single-box-shadow;
 }
 
+.page-intro {
+	overflow: hidden;
+}
+
+.page-intro figure {
+	@media screen and (min-width: $break-medium) {
+		float: left;
+		max-width: 50%;
+		margin: 1em 1em 1em 0;
+	}
+}
+
+.page-intro p {
+	@media screen and (min-width: $break-medium) {
+		margin: 1em;
+	}
+}
+
 .content-img {
 	max-width: 100%;
 }
