@@ -332,7 +332,12 @@ a {
   font-style: italic;
 }
 
-/* line 116, ../../cherrypass/sass/_typography.scss */
+/* line 115, ../../cherrypass/sass/_typography.scss */
+.title {
+  font-style: italic;
+}
+
+/* line 119, ../../cherrypass/sass/_typography.scss */
 footer p {
   font-size: 0.832em;
   font-style: italic;
