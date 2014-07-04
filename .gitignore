@@ -4,3 +4,5 @@
 # sass cache and final, compiled stylesheets excluded, we keep the sass files instead
 .sass-cache
 
+# credentials
+/static/data/credentials.json
