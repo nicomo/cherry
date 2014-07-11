@@ -295,12 +295,19 @@ figcaption {
   text-align: right;
 }
 
-/* line 82, ../../cherrypass/sass/_typography.scss */
+/* line 81, ../../cherrypass/sass/_typography.scss */
+li {
+  padding-bottom: 0.555em;
+  padding-left: 1.249em;
+  text-indent: -1.249em;
+}
+
+/* line 88, ../../cherrypass/sass/_typography.scss */
 .symbol {
   font-size: 2.25em;
 }
 
-/* line 86, ../../cherrypass/sass/_typography.scss */
+/* line 92, ../../cherrypass/sass/_typography.scss */
 .symbol, a.symbol:before {
   font-family: 'Mono Social Icons Font';
   -webkit-text-rendering: optimizeLegibility;
@@ -315,29 +322,29 @@ figcaption {
   font-smoothing: antialiased;
 }
 
-/* line 101, ../../cherrypass/sass/_typography.scss */
+/* line 107, ../../cherrypass/sass/_typography.scss */
 a.symbol:before {
   content: attr(title);
   margin-right: 0.2em;
   font-size: 130%;
 }
 
-/* line 107, ../../cherrypass/sass/_typography.scss */
+/* line 113, ../../cherrypass/sass/_typography.scss */
 a {
   text-decoration: none;
 }
 
-/* line 111, ../../cherrypass/sass/_typography.scss */
+/* line 117, ../../cherrypass/sass/_typography.scss */
 .date {
   font-style: italic;
 }
 
-/* line 115, ../../cherrypass/sass/_typography.scss */
+/* line 121, ../../cherrypass/sass/_typography.scss */
 .title {
   font-style: italic;
 }
 
-/* line 119, ../../cherrypass/sass/_typography.scss */
+/* line 125, ../../cherrypass/sass/_typography.scss */
 footer p {
   font-size: 0.832em;
   font-style: italic;

@@ -32,6 +32,23 @@
             <p>I try to gather resources about her life and work on this page. If you find something amiss, or want to point to resources not yet listed here, please <a href="mailto:nicolas.morin@gmail.com?subject=XBR">contact me</a>.</p>
         </div>
         <section>
+            <div class="section-header clearfix" id="xbr_biblio_toggle">
+                <div class="section-header-txt">
+                    <h3>Bibliography</h3>
+                </div>
+                <img class="more-icon" src="../static/images/icon_more.svg" alt="more" />
+            </div>
+
+            <script type="text/javascript">
+                $( "#xbr_biblio_toggle" ).click(function() {
+                    $( "#xbr_biblio" ).toggle(600);
+                });
+            </script>
+
+            <ul style="display: none" id="xbr_biblio">
+            </ul>
+        </section>
+        <section>
             <div class="section-header clearfix" id="xbr_chrono_toggle">
                 <div class="section-header-txt">
                     <h3>Chronology</h3>
@@ -98,25 +115,7 @@
                 <li><time datetime="2007-10-26"><span class="date">Oct. 26th, 2007</span>. Death of Jerzy Pietrkiewicz</li>
                 <li><time datetime="2012-03-21"><span class="date">March, 3d, 2012</span>. Death of XBR.</li>
             </ul>      
-        </section>
-        <section>
-            <div class="section-header clearfix" id="xbr_biblio_toggle">
-                <div class="section-header-txt">
-                    <h3>Bibliography</h3>
-                </div>
-                <img class="more-icon" src="../static/images/icon_more.svg" alt="more" />
-            </div>
-
-            <script type="text/javascript">
-                $( "#xbr_biblio_toggle" ).click(function() {
-                    $( "#xbr_biblio" ).toggle(600);
-                });
-            </script>
-
-            <ul style="display: none" id="xbr_biblio">
-            </ul>
-        </section>
-    
+        </section>    
     </div>
 
     <footer>
