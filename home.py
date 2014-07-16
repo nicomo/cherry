@@ -11,10 +11,6 @@ class Cherry(object):
         return file('legal.html')
 
     @cherrypy.expose
-    def nanomood(self):
-        return file('nanohmood/index.html')
-
-    @cherrypy.expose
     def xbr(self):
     	return file('xbr/index.html')
 
