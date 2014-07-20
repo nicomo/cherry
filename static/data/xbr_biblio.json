@@ -136,7 +136,6 @@
 		"title": "Verbivoracious Festschrift Volume One: Christine Brooke-Rose",
 		"publisher": "Verbivoraciouspress",
 		"number-of-pages": "320",
-		"abstract": "David Auerbach — Christine Brooke-Rose and the Liberty of Literature\nSilvia Barlaam — Thru My Words\nScott Beauchamp — Reading the Horoscope After Reading Christine\nJoanne Blair-Hayley — Three Recovered Manuscript Excerpts\nChretine Broke-Prose — The Logαλφαgeis of kLeubʰ: /la:f/; /lʌv/\nGianni Dane — Terpsichori\nJoseph Andrew Darlington — Everything You Always Wanted to Know About Christine Brooke-Rose’s Distant Relatives (But Were Too Poststructuralist to Ask)\nEditor — The (lack of)di-facile-facere=>do/schwer/sweer/serio in the Work of Christine Brooke-Rose\nNatalie Ferris — Christine Brooke-Rose Paris\nG.N. Forester — In the Labyrinth, translated by Christine Brooke-Rose: A Review\nNathan Gaddis — Prayer for the BURIED\nGottfried Gottlieb — Mein Gott!\nFrançoise Gramet (with G.N. Forester and Wee Teck Lim) — Translation, Pastiche & Things\nAdam Guy — Brooke-Rose, Lastness\nD. Lecter — Postscript: What Tess Would Have Said\nWee Teck Lim — Landscapes of My Childhood\nNadine Mainard — Le Diner\nAli Millar — Talking to Mirrors\nJonathan Morton — The Origin of Myth / Subscript\nM.J. Nicholls — Reset\nJean-Michel Rabaté — An Introduction\nEmily Rhodes — A Long Way from San Francisco\nS.D. Stewart — Walking a Disappearing Line: Christine Brooke-Rose’s Treatment of Language Ambiguity in Xorandor\nNicolas Tredell — (W)rite of Passage\nIgo Wodan — Versions\n\nChristine Brooke-Rose:\n\nAn Interview with Maria del Sapio Garbero\nGold: A Poem\nSelected Poems\nSelected Spectator Pieces\nSelected Essays",
 		"ISBN": "9789810794071",
 		"shortTitle": "Verbivoracious Festschrift Volume One",
 		"language": "Anglais",
@@ -153,9 +152,7 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2014",
-					3,
-					21
+					"2014"
 				]
 			]
 		}
@@ -352,13 +349,16 @@
 		"type": "chapter",
 		"title": "Between the Frontiers: Polyglottism and Female Definitions of Self in Christine Brooke-Rose",
 		"container-title": "Liminal Postmodernisms: The Postmodern, the (Post-)Colonial, and the (Post-)Feminist",
-		"publisher-place": "Atlanta",
-		"event-place": "Atlanta",
+		"publisher": "Rodopi B.V.",
+		"publisher-place": "Amsterdam",
+		"event-place": "Amsterdam",
 		"author": [
 			{
 				"family": "Del Sapio Garbero",
 				"given": "Maria"
-			},
+			}
+		],
+		"editor": [
 			{
 				"family": "Bertens",
 				"given": "Hans"
@@ -963,8 +963,9 @@
 		"type": "chapter",
 		"title": "The Fictionality of Fiction: Christine Brooke-Rose's Sense of Absence",
 		"container-title": "British Postmodern Fiction",
-		"publisher-place": "Atlanta",
-		"event-place": "Atlanta",
+		"publisher": "Rodopi B.V.",
+		"publisher-place": "Amsterdam",
+		"event-place": "Amsterdam",
 		"author": [
 			{
 				"family": "Del Sapio Garbero",
@@ -1286,6 +1287,33 @@
 		}
 	},
 	{
+		"id": 40,
+		"type": "chapter",
+		"title": "His Name in the Record",
+		"container-title": "The Modern Movement: A TLS Companion",
+		"publisher": "The University of Chicago Press",
+		"ISBN": "9780226309873",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gross",
+				"given": "John"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
 		"id": 57,
 		"type": "book",
 		"title": "The snow goose and other stories",
@@ -1314,6 +1342,7 @@
 		"type": "chapter",
 		"title": "Humoring the Sentence: Women's Dialogic Comedy",
 		"container-title": "Women's Comic Visions",
+		"publisher": "Wayne State University Press",
 		"publisher-place": "Detroit",
 		"event-place": "Detroit",
 		"author": [
@@ -1497,8 +1526,9 @@
 		"type": "chapter",
 		"title": "A Conversation with Christine Brooke-Rose",
 		"container-title": "British Postmodern Fiction",
-		"publisher-place": "Atlanta",
-		"event-place": "Atlanta",
+		"publisher": "Rodopi B.V.",
+		"publisher-place": "Amsterdam",
+		"event-place": "Amsterdam",
 		"author": [
 			{
 				"family": "Del Sapio Garbero",
@@ -1733,9 +1763,9 @@
 		"type": "book",
 		"title": "In Babel's shadow: multilingual literatures, monolingual states",
 		"publisher": "University of Minnesota Press",
-		"publisher-place": "Minneapolis; London",
+		"publisher-place": "Minneapolis",
 		"source": "http://www.worldcat.org/oclc/852716607",
-		"event-place": "Minneapolis; London",
+		"event-place": "Minneapolis",
 		"ISBN": "9780816665013  081666501X  9780816665020  0816665028",
 		"shortTitle": "In Babel's shadow",
 		"language": "English",
@@ -1831,11 +1861,12 @@
 		"title": "Literature's ghosts. Realism and innovation in the novels of Christine Brooke-Rose and A. S. Byatt",
 		"publisher": "University of Queensland",
 		"source": "Open WorldCat",
+		"URL": "http://espace.library.uq.edu.au/view/UQ:177169",
 		"language": "English",
 		"author": [
 			{
 				"family": "Williamson",
-				"given": "Andrew David"
+				"given": "Andrew"
 			}
 		],
 		"issued": {

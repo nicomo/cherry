@@ -82,7 +82,9 @@ $( document ).ready(function() {
             }
           }
           if (item.hasOwnProperty('editor')) {
-            html += " " + item['editor'][j].given + " " + item['editor'][j].family + ", ed. ";
+            for (var j = 0; j < item.editor.length; j++) {
+              html += " " + item.editor[j].given + " " + item.editor[j].family + ", ed. ";              
+            }
           }
           if (item.hasOwnProperty('volume')) {
             html += " Vol. "+ item.volume; 
@@ -90,11 +92,6 @@ $( document ).ready(function() {
           if (item.hasOwnProperty('issue')) {
             html += " Issue " + item.issue + " ";
           };
-
-
-
-
-
 
         } else if (item.type === "thesis") {
           if (item.hasOwnProperty('title')) {
