@@ -11,6 +11,10 @@ class Cherry(object):
         return file('legal.html')
 
     @cherrypy.expose
+    def four0four(self):
+        return file('404.html')
+
+    @cherrypy.expose
     def xbr(self):
     	return file('xbr/index.html')
 
