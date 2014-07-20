@@ -238,7 +238,7 @@
 		"id": 267,
 		"type": "article-journal",
 		"title": "Mobility and Masochism: Christine Brooke-Rose and J. G. Ballard",
-		"container-title": "NOVEL: A Forum on Fiction",
+		"container-title": "Novel: A Forum on Fiction",
 		"page": "292-310",
 		"volume": "21",
 		"issue": "2/3",
@@ -343,6 +343,35 @@
 			"date-parts": [
 				[
 					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": 35,
+		"type": "chapter",
+		"title": "Between the Frontiers: Polyglottism and Female Definitions of Self in Christine Brooke-Rose",
+		"container-title": "Liminal Postmodernisms: The Postmodern, the (Post-)Colonial, and the (Post-)Feminist",
+		"publisher-place": "Atlanta",
+		"event-place": "Atlanta",
+		"author": [
+			{
+				"family": "Del Sapio Garbero",
+				"given": "Maria"
+			},
+			{
+				"family": "Bertens",
+				"given": "Hans"
+			},
+			{
+				"family": "D'Haen",
+				"given": "Theo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
 				]
 			]
 		}
@@ -686,6 +715,33 @@
 		}
 	},
 	{
+		"id": 1,
+		"type": "motion_picture",
+		"title": "Crazy German Water Park",
+		"source": "YouTube",
+		"dimensions": "195 seconds",
+		"abstract": "follow me on snapchat - caseyneistat\n\ncheck out my second channel - https://www.youtube.com/snapstories\n\non http://instagram.com/caseyneistat\non https://www.facebook.com/cneistat\non https://twitter.com/CaseyNeistat",
+		"URL": "http://www.youtube.com/watch?v=ZFMa_kAANGE&feature=youtube_gdata_player",
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					16
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					16
+				]
+			]
+		}
+	},
+	{
 		"id": 269,
 		"type": "article-journal",
 		"title": "Ambiguity and Narrative Levels: Christine Brooke-Rose's Thru",
@@ -849,6 +905,38 @@
 		}
 	},
 	{
+		"id": 2,
+		"type": "chapter",
+		"title": "Christine Brooke-Rose",
+		"container-title": "British Writers",
+		"publisher": "Charles Scribner's Sons",
+		"page": "97-118",
+		"volume": "Supplement IV",
+		"author": [
+			{
+				"family": "Miller",
+				"given": "Tyrus"
+			}
+		],
+		"editor": [
+			{
+				"family": "Stade",
+				"given": "George"
+			},
+			{
+				"family": "Howard",
+				"given": "Carol"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
 		"id": 5,
 		"type": "book",
 		"title": "A rhetoric of the unreal : studies in narrative and structure, especially of the fantastic",
@@ -866,6 +954,37 @@
 			"date-parts": [
 				[
 					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": 34,
+		"type": "chapter",
+		"title": "The Fictionality of Fiction: Christine Brooke-Rose's Sense of Absence",
+		"container-title": "British Postmodern Fiction",
+		"publisher-place": "Atlanta",
+		"event-place": "Atlanta",
+		"author": [
+			{
+				"family": "Del Sapio Garbero",
+				"given": "Maria"
+			}
+		],
+		"editor": [
+			{
+				"family": "D'Haen",
+				"given": "Theo"
+			},
+			{
+				"family": "Bertens",
+				"given": "Hans"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
 				]
 			]
 		}
@@ -1191,6 +1310,33 @@
 		}
 	},
 	{
+		"id": 33,
+		"type": "chapter",
+		"title": "Humoring the Sentence: Women's Dialogic Comedy",
+		"container-title": "Women's Comic Visions",
+		"publisher-place": "Detroit",
+		"event-place": "Detroit",
+		"author": [
+			{
+				"family": "Little",
+				"given": "Judy"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Sochen",
+				"given": "June"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
 		"id": 26,
 		"type": "chapter",
 		"title": "Ill Iterations",
@@ -1224,7 +1370,7 @@
 	{
 		"id": 255,
 		"type": "book",
-		"title": "Kärlekens språk [Language of love]",
+		"title": "Kärlekens språk [The Languages of Love]",
 		"publisher": "Sven-Erik Berghs Bokförlag",
 		"publisher-place": "Stockholm; New York",
 		"source": "http://www.worldcat.org/oclc/30764810",
@@ -1272,6 +1418,39 @@
 		}
 	},
 	{
+		"id": 18,
+		"type": "chapter",
+		"title": "Metaphor in Paradise Lost: A Grammatical Analysis",
+		"container-title": "Language and Style in Milton: a symposium in honor of the tercentenary of Paradise lost",
+		"publisher": "Frederick Ungar",
+		"publisher-place": "New York",
+		"page": "253-303",
+		"event-place": "New York",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"editor": [
+			{
+				"family": "Shawcross",
+				"given": "John T."
+			},
+			{
+				"family": "Emma",
+				"given": "Ronald David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1967"
+				]
+			]
+		}
+	},
+	{
 		"id": 4,
 		"type": "book",
 		"title": "A grammar of metaphor",
@@ -1288,6 +1467,58 @@
 			"date-parts": [
 				[
 					"1958"
+				]
+			]
+		}
+	},
+	{
+		"id": 23,
+		"type": "article-journal",
+		"title": "Christine Brooke-Rose Interviewed",
+		"container-title": "Textual Practice",
+		"issue": "7",
+		"author": [
+			{
+				"family": "Seed",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			],
+			"season": "Summer"
+		}
+	},
+	{
+		"id": 21,
+		"type": "chapter",
+		"title": "A Conversation with Christine Brooke-Rose",
+		"container-title": "British Postmodern Fiction",
+		"publisher-place": "Atlanta",
+		"event-place": "Atlanta",
+		"author": [
+			{
+				"family": "Del Sapio Garbero",
+				"given": "Maria"
+			}
+		],
+		"editor": [
+			{
+				"family": "D'Haen",
+				"given": "Theo"
+			},
+			{
+				"family": "Bertens",
+				"given": "Hans"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
 				]
 			]
 		}
@@ -1343,6 +1574,27 @@
 			"date-parts": [
 				[
 					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": 24,
+		"type": "article-journal",
+		"title": "Textasy: Christine Brooke-Rose's Thru",
+		"container-title": "International Fiction Review",
+		"volume": "7",
+		"issue": "1",
+		"author": [
+			{
+				"family": "Kafalenos",
+				"given": "Emma"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
 				]
 			]
 		}
@@ -1576,7 +1828,8 @@
 	{
 		"id": 242,
 		"type": "thesis",
-		"title": "Literature's ghosts realism and innovation in the novels of Christine Brooke-Rose and A. S. Byatt",
+		"title": "Literature's ghosts. Realism and innovation in the novels of Christine Brooke-Rose and A. S. Byatt",
+		"publisher": "University of Queensland",
 		"source": "Open WorldCat",
 		"language": "English",
 		"author": [
@@ -1794,6 +2047,27 @@
 		}
 	},
 	{
+		"id": 29,
+		"type": "article-journal",
+		"title": "Amalgamemnon and the Politics of Narrative",
+		"container-title": "Review of Contemporary Fiction",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Little",
+				"given": "Judy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			],
+			"season": "Fall"
+		}
+	},
+	{
 		"id": 246,
 		"type": "article-journal",
 		"title": "\"You are here\": Reading and Representation in Christine Brooke-Rose's Thru",
@@ -1993,6 +2267,27 @@
 			"date-parts": [
 				[
 					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": 25,
+		"type": "article-journal",
+		"title": "Utterly Other Discourses: The Anticanon of Experimental Women Writers from Dorothy Richardson to Christine Brooke-Rose",
+		"container-title": "Modern Fiction Studies",
+		"volume": "34",
+		"issue": "3",
+		"author": [
+			{
+				"family": "Friedman",
+				"given": "Ellen G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
 				]
 			]
 		}
