@@ -715,33 +715,6 @@
 		}
 	},
 	{
-		"id": 1,
-		"type": "motion_picture",
-		"title": "Crazy German Water Park",
-		"source": "YouTube",
-		"dimensions": "195 seconds",
-		"abstract": "follow me on snapchat - caseyneistat\n\ncheck out my second channel - https://www.youtube.com/snapstories\n\non http://instagram.com/caseyneistat\non https://www.facebook.com/cneistat\non https://twitter.com/CaseyNeistat",
-		"URL": "http://www.youtube.com/watch?v=ZFMa_kAANGE&feature=youtube_gdata_player",
-		"issued": {
-			"date-parts": [
-				[
-					"2014",
-					7,
-					16
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2014",
-					7,
-					16
-				]
-			]
-		}
-	},
-	{
 		"id": 269,
 		"type": "article-journal",
 		"title": "Ambiguity and Narrative Levels: Christine Brooke-Rose's Thru",
