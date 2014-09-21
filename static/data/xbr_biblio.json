@@ -393,7 +393,7 @@
 		"author": [
 			{
 				"family": "Lawrence",
-				"given": "K. R."
+				"given": "Karen R."
 			}
 		],
 		"issued": {
@@ -426,15 +426,6 @@
 			"date-parts": [
 				[
 					"2002"
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2014",
-					6,
-					22
 				]
 			]
 		}
@@ -1399,6 +1390,28 @@
 		}
 	},
 	{
+		"id": 44,
+		"type": "book",
+		"title": "In the scales of fate: an autobiography",
+		"publisher": "M. Boyars",
+		"publisher-place": "London ; New York",
+		"source": "http://www.worldcat.org/oclc/26307174",
+		"event-place": "London ; New York",
+		"author": [
+			{
+				"family": "Peterkiewicz",
+				"given": "Jerzy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
 		"id": 270,
 		"type": "article-journal",
 		"title": "Notes on the Metre of Auden's ‘The Age of Anxiety’",
@@ -1492,6 +1505,27 @@
 				]
 			],
 			"season": "Summer"
+		}
+	},
+	{
+		"id": 218,
+		"type": "article-newspaper",
+		"title": "Christine Brooke-Rose: The Texterminator, an Interview.",
+		"container-title": "The Independent on Sunday",
+		"author": [
+			{
+				"family": "Boncza-Tomaszewski",
+				"given": "Tom"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					3,
+					27
+				]
+			]
 		}
 	},
 	{
