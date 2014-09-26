@@ -1390,6 +1390,29 @@
 		}
 	},
 	{
+		"id": 227,
+		"type": "article-journal",
+		"title": "(De-)Constructing translingual identity. Interpreters as literary characters in Simultan by Ingeborg Bachmann and Between by Christine Brooke-Rose",
+		"container-title": "TRANS-",
+		"issue": "6",
+		"abstract": "The story Simultan by the Austrian author Ingeborg Bachmann and the novel Between by the British writer Christine Brooke-Rose both have a female interpreter as their central character. In depicting the influences of multilinguality and transculturality on the construction of identity, both texts reflect on the connection between language and identity. Moreover, they explore the conditions and possibilities for the representation of characters in language(s). Most of the literary techniques employed can be analyzed in terms of the Bakhtinian notion of polyphony or heteroglossia. The analysis that follows deals briefly with these main topics, before focusing on the discursive level, taking into account notions of multifocalisation, polyphony, multilinguality as well as intertextuality.",
+		"URL": "http://trans.revues.org/283",
+		"ISSN": "1778-3887",
+		"author": [
+			{
+				"family": "Schopohl",
+				"given": "Eva"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
 		"id": 44,
 		"type": "book",
 		"title": "In the scales of fate: an autobiography",
@@ -1556,6 +1579,30 @@
 			"date-parts": [
 				[
 					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": 229,
+		"type": "article-journal",
+		"title": "Betweenness or an Interstitial Search for a Self",
+		"container-title": "Language and Literature : European Landmarks of Identity",
+		"page": "463-468",
+		"volume": "8",
+		"abstract": "The constant shifting of geographical coordinates, the various cultures and languages the heroine from Between encounters and translates leave a mark on her (paradoxical) being in between events, places, people, yet never managing to be herself. The choice of Brooke-Rose to make the character a simultaneous translator once more emphasizes the simultaneity the heroine permanently has to deal with, as well as the condition under which she carries out her work - the lack of thinking time as to ordinate and chose the best term, the lack of access to specific /necessary tools (such as guides or dictionaries), her being annulled and excluded as a being from the event as she is reduced to a mere mediator the operates with two languages. The presence of a translator is invisible just as that of the heroine of this novel, unless interaction outside the borders of the situational context is required (such as interaction with participants), then and only then can she hope to be(come) visible. Considering these I can state that the nameless heroine of “Between” is a vanishing presence – she never marks lexically her textual interventions (using person-specific pronouns), nor does she claim ontological territory in the narrative.",
+		"URL": "http://www.upit.ro/index.php?page=language-and-literature-european-landmarks-of-identity",
+		"note": "noemibartha@gmail.com",
+		"author": [
+			{
+				"family": "Bartha",
+				"given": "Noemi-Alice"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
 				]
 			]
 		}
