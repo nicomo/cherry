@@ -18,6 +18,10 @@ class Cherry(object):
     def xbr(self):
     	return file('xbr/index.html')
 
+    @cherrypy.expose
+    def marches(self):
+        return file ('marches/index.html')
+
 	tools.staticdir.debug = True
 	log.screen = True
     

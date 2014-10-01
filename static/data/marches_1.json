@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "km": 0,
+        "txt": "Je vais m’engager sur le pont..",
+        "LatLng": {
+            "Lat": 49.775825,
+            "Lng": 4.727935
+        }
+    },
+    {
+        "id": 1,
+        "km": 0.2,
+        "txt": "Je tourne le dos à Gespunsart, qu’on prononce Gesse-pon-ssar, à Aiglemont, village de mes grands-parents maternels, sur une hauteur où l’on montait en contournant l’Église et le « Nicolas », je laisse aussi derrière moi Montcy-St-Pierre où habitait ma Grand-mère. Inutile de la nommer, elle est Grand-mère par antonomase. À droite en longeant la Meuse, je sais la place de l’Agriculture — c’est le nom que lui donnaient les vieux de mon enfance — son parking et son sex shop, et le Musée Rimbaud dans l’ancien moulin un peu plus bas. Mais si je digresse et m’éloigne de ma route au premier virage, jamais je n’arriverais. Donc, poursuivons.",
+        "LatLng": {
+            "Lat": 49.775617,
+            "Lng": 4.727844
+        }
+    },
+    {
+        "id": 2,
+        "km": 2,
+        "txt": "some lame text for now.",
+        "LatLng": {
+            "Lat": 49,
+            "Lng": 4
+        }
+    }
+]

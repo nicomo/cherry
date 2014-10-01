@@ -22,7 +22,7 @@ nav#main-nav {
 
 .site-width {
         position: relative;
-        width: 90%;
+        width: 100%;
         max-width: 1200px;
         margin: 0 auto;
         clear: left;
@@ -55,9 +55,14 @@ nav#main-nav {
 	margin-bottom: 1em;
 }
 
-figure {
+figure, .marches_map {
 	margin-top: 1em;
 	margin-bottom: 1em;
+	border: 1px solid $lightgrey;
+	@include single-box-shadow;
+}
+
+#marches_txt {
 	border: 1px solid $lightgrey;
 	@include single-box-shadow;
 }
@@ -97,6 +102,32 @@ figcaption {
 	float: left;
 }
 
+html#marches {
+	//background: url(../images/marches_img/marches_1_1.png) no-repeat center center fixed; 
+	// set by jquery
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+#marches_maps {
+	float: right;
+}
+
+#marches_txt {
+	float: left;
+	width: 60%;
+	margin-right: 1em;
+}
+
+#marches_next {
+	text-align: center;
+}
+
+#marches_next img {
+	width: 3em;
+}
 
 footer {
 	border-top: 1px solid $lightgrey;

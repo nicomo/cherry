@@ -59,10 +59,26 @@ h2 {
   font-size: 1.5em;
 }
 
+html#marches h2, #marches_txt, #marches_next  {
+  background-color: rgba(250,250,250,0.75);
+  padding: 0.666em;
+  margin-bottom: 1em;
+}
+
 h3 {
   font-family: $font-sans;
   font-size: 1.249em;
 }
+
+#marches_txt {
+  font-size: 1.375em;
+  line-height: 1.873em;
+}
+
+#marches_txt p {
+  text-indent: 1.5em; 
+}
+
 
 p {
   margin-bottom: 0.667em;
