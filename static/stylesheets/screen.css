@@ -215,37 +215,40 @@ figcaption {
   float: left;
 }
 
-/* line 105, ../../cherrypass/sass/_layout.scss */
+/*
+* HANDLED BY JQUERY IN marches.js
+*
 html#marches {
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-/* line 114, ../../cherrypass/sass/_layout.scss */
+	//background: url(../images/marches_img/marches_1_1.png) no-repeat center center fixed; 
+	// set by jquery
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}*/
+/* line 117, ../../cherrypass/sass/_layout.scss */
 #marches_maps {
   float: right;
 }
 
-/* line 118, ../../cherrypass/sass/_layout.scss */
+/* line 121, ../../cherrypass/sass/_layout.scss */
 #marches_txt {
   float: left;
   width: 60%;
   margin-right: 1em;
 }
 
-/* line 124, ../../cherrypass/sass/_layout.scss */
+/* line 127, ../../cherrypass/sass/_layout.scss */
 #marches_next {
   text-align: center;
 }
 
-/* line 128, ../../cherrypass/sass/_layout.scss */
+/* line 131, ../../cherrypass/sass/_layout.scss */
 #marches_next img {
   width: 3em;
 }
 
-/* line 132, ../../cherrypass/sass/_layout.scss */
+/* line 135, ../../cherrypass/sass/_layout.scss */
 footer {
   border-top: 1px solid #dddddd;
   text-align: right;

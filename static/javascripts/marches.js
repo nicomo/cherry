@@ -25,7 +25,13 @@ $( document ).ready(function() {
 			// background image
 			var img_url = '../static/images/marches_img/marches_1_' + id + '.png';
 			console.log(img_url);
-			$('html#marches').css("background", "url(" + img_url + ") no-repeat center center fixed");
+			$('html#marches').css({
+				'background': 'url("' + img_url + '") no-repeat center center fixed',
+				'-webkit-background-size': 'cover',
+				'-moz-background-size': 'cover',
+				'-o-background-size': 'cover',
+				'background-size': 'cover'
+			});
 
 			// kilometer value in title
 			var km = data[my_id].km;
