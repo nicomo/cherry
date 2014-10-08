@@ -115,5 +115,42 @@
             "Lat": 49.755497,
             "Lng": 4.704626
         }
+    },
+    {
+        "id": 13,
+        "km": 3.8,
+        "txt": "« Prix-Les-M. — Centre ». Je ne suis pas sûr de savoir de quel centre il s’agit. C’est un ancien village, rattrapé par le faubourg dont je sors, maintenant proche banlieue. Le centre en question c’est, j’imagine, la rue principale. Où il y avait, jadis, la seule boulangerie. Une vieille peau mal aimable y vendait des malabars et des baguettes de la veille. Quand on voulait un gâteau, où ne serait-ce qu’une tarte au sucre, il fallait commander. Son mari sortait alors de son arrière-boutique pour promettre d’un grognement qu’il ferait bien le gâteau escompté. Mais pas avant 11 heures. Peut-être midi. Puis cette maison, à l’angle du village et de la route qu’empruntent ceux qui, sortant du boulot, rentrent chez eux, dans les villages des environs, a été rachetée. Un jeune s’est installé. Il y a des places de parking, des baguettes du jour. Et plus personne ne va à Prix-les-M.-Centre, de toute façon.",
+        "LatLng": {
+            "Lat": 49.755172,
+            "Lng": 4.699962
+        }
+    },
+    {
+        "id": 14,
+        "km": 4.5,
+        "txt": "Ma première ferme. J'en suis plutôt content. Elle est incroyablement propre. Fenêtres et portes sont neuves, avec encore des étiquettes collées sur l'intérieur. Dans l'appentis, un pick-up truck. Le hangard au fond de la cour est presqu'entièrement vide. Il y a bien un tracteur garé là, immobile. J'imagine qu'il y a encore une exploitation, mais ça n'est pas certain. Un homme passe devant le tracteur, il téléphone. Pas de bêtes, pas de foin. Pas d'odeurs. Le trottoir a cédé la place au bas-côté. ",
+        "LatLng": {
+            "Lat": 49.750514,
+            "Lng": 4.693262
+        }
+    },
+    {
+        "id": 15,
+        "km": 5.2,
+        "txt": "L’absurde maison bourgeoise de mon frère. Tellement prétentieux qu’il ne la cache pas derrière un haut mur, mais simplement vous en éloigne d’une petite barrière blanche et de beaucoup de terrain. Il doit être retraité maintenant. Et continuer de se lever à 6 h à toute saison. Je me souviens qu’il allait, en attendant que le café coule, faire son relevé de bénévole pour météo france, avec son petit équipement, le thermomètre, le pluviomètre, le carnet dans son abri en bois, sur l’arrière de la maison, surplombant la ville qui s’étend au nord. M’a toujours emmerdé, le premier de la classe. Je vais au moins pisser sur sa clôture avant de poursuivre.",
+        "LatLng": {
+            "Lat": 49.746449, 
+            "Lng": 4.686800
+        }
+    },
+    {
+        "id": 16,
+        "km": 5.6,
+        "txt": "On tournait, avec le père, à droite entre ces deux maisons pour descendre au « pré de l’as de pique ». Il y a une bonne pente bordée d’arbres, et en bas un pré qui longe un ruisseau sans nom. J’étais enfant, je ne me souviens pas de ce qu’on faisait dans ce pré, sans doute rien d’autre qu’y mettre des vaches à paître. Je me souviens seulement de l’as de trèfle sur la façade de la maison. Je devrais aussi pisser dessus, peut-être, dissoudre ce crépis gris, terne, qui cache les magnifiques pierres dont on faisait les maisons du coin. Et l’as de trèfle se dissoudrait lui aussi, et la rouille des volets.",
+        "LatLng": {
+            "Lat": 49.745084, 
+            "Lng": 4.682142
+        }
     }
+
 ]
