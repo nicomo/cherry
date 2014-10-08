@@ -9,11 +9,12 @@ $linkcolor: #06A4F3;
 
 $text_color: $darkgrey;
 
-h2, p {
+p {
 	color: $text_color;
 }
 
-.go-link {
+
+#home-section-main h2, .go-link {
 	color:$linkcolor;
 }
 

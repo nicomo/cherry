@@ -78,12 +78,12 @@ Scale - see http://modularscale.com/scale/?px1=16&px2=768&ra1=1.5&ra2=0
 COLORS
 */
 /* line 12, ../../cherrypass/sass/_colors.scss */
-h2, p {
+p {
   color: #1f1d1d;
 }
 
-/* line 16, ../../cherrypass/sass/_colors.scss */
-.go-link {
+/* line 17, ../../cherrypass/sass/_colors.scss */
+#home-section-main h2, .go-link {
   color: #06a4f3;
 }
 
@@ -124,39 +124,46 @@ nav#main-nav {
 }
 
 /* line 31, ../../cherrypass/sass/_layout.scss */
-.socialicons {
+.social_icons {
   float: right;
 }
 
 /* line 35, ../../cherrypass/sass/_layout.scss */
+.social_icons img {
+  margin: 0.832em 0.37em;
+  height: 1em;
+}
+
+/* line 41, ../../cherrypass/sass/_layout.scss */
 .home-icon {
   width: 2.25em;
   margin-top: 0.37em;
 }
 
-/* line 40, ../../cherrypass/sass/_layout.scss */
+/* line 46, ../../cherrypass/sass/_layout.scss */
 .home-section {
+  margin: 0px 1em;
   padding: 0.832em 0px;
   border-bottom: 1px solid #ddd;
 }
 
-/* line 45, ../../cherrypass/sass/_layout.scss */
+/* line 52, ../../cherrypass/sass/_layout.scss */
 .home-section:last-child {
   border-bottom: none;
 }
 
-/* line 49, ../../cherrypass/sass/_layout.scss */
+/* line 56, ../../cherrypass/sass/_layout.scss */
 .home-section-more {
   margin: 0.444em 0px;
 }
 
-/* line 53, ../../cherrypass/sass/_layout.scss */
+/* line 60, ../../cherrypass/sass/_layout.scss */
 .main-content {
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-/* line 58, ../../cherrypass/sass/_layout.scss */
+/* line 65, ../../cherrypass/sass/_layout.scss */
 figure, .marches_map {
   margin-top: 1em;
   margin-bottom: 1em;
@@ -166,7 +173,7 @@ figure, .marches_map {
   box-shadow: 0px 0px 5px #dddddd;
 }
 
-/* line 65, ../../cherrypass/sass/_layout.scss */
+/* line 72, ../../cherrypass/sass/_layout.scss */
 #marches_txt {
   border: 1px solid #dddddd;
   -webkit-box-shadow: 0px 0px 5px #dddddd;
@@ -174,13 +181,13 @@ figure, .marches_map {
   box-shadow: 0px 0px 5px #dddddd;
 }
 
-/* line 70, ../../cherrypass/sass/_layout.scss */
+/* line 77, ../../cherrypass/sass/_layout.scss */
 .page-intro {
   overflow: hidden;
 }
 
 @media screen and (min-width: 960px) {
-  /* line 74, ../../cherrypass/sass/_layout.scss */
+  /* line 81, ../../cherrypass/sass/_layout.scss */
   .page-intro figure {
     float: left;
     max-width: 50%;
@@ -189,28 +196,28 @@ figure, .marches_map {
 }
 
 @media screen and (min-width: 960px) {
-  /* line 82, ../../cherrypass/sass/_layout.scss */
+  /* line 89, ../../cherrypass/sass/_layout.scss */
   .page-intro p {
     margin: 1em;
   }
 }
 
-/* line 88, ../../cherrypass/sass/_layout.scss */
+/* line 95, ../../cherrypass/sass/_layout.scss */
 .content-img {
   max-width: 100%;
 }
 
-/* line 92, ../../cherrypass/sass/_layout.scss */
+/* line 99, ../../cherrypass/sass/_layout.scss */
 figcaption {
   padding: 0.444em;
 }
 
-/* line 97, ../../cherrypass/sass/_layout.scss */
+/* line 104, ../../cherrypass/sass/_layout.scss */
 .section-header {
   margin: 1em 0;
 }
 
-/* line 101, ../../cherrypass/sass/_layout.scss */
+/* line 108, ../../cherrypass/sass/_layout.scss */
 .section-header-txt {
   float: left;
 }
@@ -226,29 +233,29 @@ html#marches {
   	-o-background-size: cover;
   	background-size: cover;
 }*/
-/* line 117, ../../cherrypass/sass/_layout.scss */
+/* line 124, ../../cherrypass/sass/_layout.scss */
 #marches_maps {
   float: right;
 }
 
-/* line 121, ../../cherrypass/sass/_layout.scss */
+/* line 128, ../../cherrypass/sass/_layout.scss */
 #marches_txt {
   float: left;
   width: 60%;
   margin-right: 1em;
 }
 
-/* line 127, ../../cherrypass/sass/_layout.scss */
+/* line 134, ../../cherrypass/sass/_layout.scss */
 #marches_next {
   text-align: center;
 }
 
-/* line 131, ../../cherrypass/sass/_layout.scss */
+/* line 138, ../../cherrypass/sass/_layout.scss */
 #marches_next img {
   width: 3em;
 }
 
-/* line 135, ../../cherrypass/sass/_layout.scss */
+/* line 142, ../../cherrypass/sass/_layout.scss */
 footer {
   border-top: 1px solid #dddddd;
   text-align: right;

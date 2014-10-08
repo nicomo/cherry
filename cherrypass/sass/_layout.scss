@@ -28,8 +28,14 @@ nav#main-nav {
         clear: left;
 }
 
-.socialicons {
+.social_icons {
 	float: right;
+}
+
+.social_icons img {
+	margin: 0.832em 0.37em;
+	height: 1em;
+
 }
 
 .home-icon {
@@ -38,6 +44,7 @@ nav#main-nav {
 }
 
 .home-section {
+	margin: 0px 1em;	
 	padding: 0.832em 0px;
 	border-bottom: 1px solid #ddd;
 }
