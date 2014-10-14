@@ -119,7 +119,7 @@
     {
         "id": 13,
         "km": 3.8,
-        "txt": "« Prix-Les-M. — Centre ». Je ne suis pas sûr de savoir de quel centre il s’agit. C’est un ancien village, rattrapé par le faubourg dont je sors, maintenant proche banlieue. Le centre en question c’est, j’imagine, la rue principale. Où il y avait, jadis, la seule boulangerie. Une vieille peau mal aimable y vendait des malabars et des baguettes de la veille. Quand on voulait un gâteau, où ne serait-ce qu’une tarte au sucre, il fallait commander. Son mari sortait alors de son arrière-boutique pour promettre d’un grognement qu’il ferait bien le gâteau escompté. Mais pas avant 11 heures. Peut-être midi. Puis cette maison, à l’angle du village et de la route qu’empruntent ceux qui, sortant du boulot, rentrent chez eux, dans les villages des environs, a été rachetée. Un jeune s’est installé. Il y a des places de parking, des baguettes du jour. Et plus personne ne va à Prix-les-M.-Centre, de toute façon.",
+        "txt": "« Prix-Les-M. — Centre ». Je ne suis pas sûr de savoir de quel centre il s’agit. C’est un ancien village, rattrapé par le faubourg dont je sors, et devenu proche banlieue. Le centre en question c’est, j’imagine, la rue principale. Où il y avait, jadis, la seule boulangerie du village. Une vieille peau mal aimable y vendait des malabars et des baguettes de la veille. Quand on voulait un gâteau, où ne serait-ce qu’une tarte au sucre, il fallait commander. Son mari sortait alors de son arrière-boutique pour promettre d’un grognement qu’il ferait bien le gâteau escompté. Mais pas avant 11 heures. Peut-être midi. Puis cette maison, à l’angle du village et de la route qu’empruntent ceux qui, sortant du boulot, rentrent chez eux, dans les villages des environs, a été rachetée. Un jeune s’est installé. Il y a des places de parking, des baguettes du jour. Et plus personne ne va à Prix-les-M.-Centre, de toute façon.",
         "LatLng": {
             "Lat": 49.755172,
             "Lng": 4.699962
@@ -137,7 +137,7 @@
     {
         "id": 15,
         "km": 5.2,
-        "txt": "L’absurde maison bourgeoise de mon frère. Tellement prétentieux qu’il ne la cache pas derrière un haut mur, mais simplement vous en éloigne d’une petite barrière blanche et de beaucoup de terrain. Il doit être retraité maintenant. Et continuer de se lever à 6 h à toute saison. Je me souviens qu’il allait, en attendant que le café coule, faire son relevé de bénévole pour météo france, avec son petit équipement, le thermomètre, le pluviomètre, le carnet dans son abri en bois, sur l’arrière de la maison, surplombant la ville qui s’étend au nord. M’a toujours emmerdé, le premier de la classe. Je vais au moins pisser sur sa clôture avant de poursuivre.",
+        "txt": "L’absurde maison bourgeoise de mon frère. Tellement prétentieux qu’il ne prend pas la peine de la cacher derrière un haut mur, il vous éloigne tout simplement d’une petite barrière blanche, quelques arbres et une bonne étendue de pelouse. Il doit être retraité maintenant. Et continuer de se lever à 6 h à toute saison. Je me souviens qu’il allait, en attendant que le café coule, faire son relevé de bénévole pour météo france, avec son petit équipement, le thermomètre, le pluviomètre, le carnet dans son abri en bois, sur l’arrière de la maison, surplombant la ville qui s’étend au nord. M’a toujours emmerdé, le premier de la classe. Je vais au moins pisser sur sa clôture avant de poursuivre.",
         "LatLng": {
             "Lat": 49.746449, 
             "Lng": 4.686800
@@ -146,11 +146,40 @@
     {
         "id": 16,
         "km": 5.6,
-        "txt": "On tournait, avec le père, à droite entre ces deux maisons pour descendre au « pré de l’as de pique ». Il y a une bonne pente bordée d’arbres, et en bas un pré qui longe un ruisseau sans nom. J’étais enfant, je ne me souviens pas de ce qu’on faisait dans ce pré, sans doute rien d’autre qu’y mettre des vaches à paître. Je me souviens seulement de l’as de trèfle sur la façade de la maison. Je devrais aussi pisser dessus, peut-être, dissoudre ce crépis gris, terne, qui cache les magnifiques pierres dont on faisait les maisons du coin. Et l’as de trèfle se dissoudrait lui aussi, et la rouille des volets.",
+        "txt": "On tournait, avec le père, à droite entre ces deux maisons pour descendre au « Pré de l’As de pique ». Il y avait-là une bonne pente bordée d’arbres, et en bas un champ bordé par un ruisseau. J’étais enfant, je ne me souviens pas précisement de ce qu’on faisait ici, du blé, de l'orge, peut-être rien d’autre qu’y mettre des vaches à paître. Je me souviens seulement de l’as de trèfle sur la façade de la maison. Je devrais aussi pisser dessus, peut-être ? Dissoudre ce crépis gris, terne, qui cache les magnifiques pierres dont on faisait les maisons du coin. Et l’as de trèfle se dissoudrait lui aussi, et la rouille des volets. Il est tellement ironique, finalement, que ce soit mon frère qui ait acheté justement cette grosse maison, à côté de l'As de pique.",
         "LatLng": {
             "Lat": 49.745084, 
             "Lng": 4.682142
         }
+    },
+    {
+        "id": 17,
+        "km": 6.3,
+        "txt": "La maison Delteil. Il avait sa petite barrière blanche lui aussi, et un portail de la même couleur. J’allais là couper la pelouse avec le tracteur de mon père, et tailler les arbres pour me faire un peu d’argent de poche. Il doit être mort, et les héritiers ont sans doute quitté la région : tout est fermé, on rase tout pour faire quoi ? Une quatre voies ? Plus besoin de pisser sur sa clôture en tout cas, on s’en est chargé pour moi. Je me demande ce que c’est, qu’ils ont fait en face. En montant dans le champ un peu plus haut, il y avait un terrain de tennis. Et pendant longtemps des pancartes, un fantasme de construction de golf.",
+        "LatLng": {
+            "Lat": 49.741776, 
+            "Lng": 4.674222
+        }
+    },
+    {
+        "id": 18,
+        "km": 6.8,
+        "txt": "Moins de dix kilomètres parcourus, et c’est déjà la campagne d’août, le soleil qui s’irise entre les feuilles, les balles de paille — dans mon adolescence c’étaient encore de petits cuboïdes qu’on piquait à la fourche, on se penchait en arrière, on poussait la fourche vers le haut et l’avant, on pivotait le poignet pour faire retomber la balle sur la charrette. Si les Ardennes avaient uniquement consisté en soleil d’août, en balles de paille d’une taille raisonnable, et s’il n’y avait pas eu, surtout, le lecteur de cassettes posé sur le garde-boue du tracteur pour m’appeler, je serais sans doute encore dans un champ, celui-ci ou l’As de trèfle. Quand on écoute The Clash et les filles de Slits, avec Charleville dans son dos en bas de la pente, et la route devant qui va plein sud, on a vite fait de planter la fourche et de s’en aller.",
+        "LatLng": {
+            "Lat": 49.739830, 
+            "Lng": 4.667700
+        }
+    },
+    {
+        "id": 19,
+        "km": 7.7,
+        "txt": "Do-It-Yourself. Je ne connaissais pas l’expression, mais je voulais certainement construire mon propre ciel. Un soleil électrique pousserait les fumigènes sur le devant de la scène, le bleu serait écrasé de blanc, on aurait peur bien sûr, mais on n’oserait rien d’autre que de se laisser porter par le besoin de dire, soi et son pote, sa copine, dire le groupe et sentir la scène vibrer sous nos semelles. Le ciel est celui de Tromsø, Kiel, Leeds, on tourne, on tourne, on fume, on écoute du dub reggae sur l’autoradio du van.",
+        "LatLng": {
+            "Lat": 49.735402, 
+            "Lng": 4.658263
+        }
     }
+
+
 
 ]
