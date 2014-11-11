@@ -2211,6 +2211,30 @@
 		}
 	},
 	{
+		"id": 252,
+		"type": "article-journal",
+		"title": "Christine Brooke-Rose's routes of belonging : Remake",
+		"container-title": "SPELL : Swiss papers in English language and literature",
+		"volume": "19",
+		"source": "Primo",
+		"DOI": "10.5169/seals-100055",
+		"ISSN": "0940-0478",
+		"shortTitle": "Christine Brooke-Rose's routes of belonging",
+		"author": [
+			{
+				"family": "Cambiaghi",
+				"given": "Mara"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
 		"id": 20,
 		"type": "book",
 		"title": "Verbivore",
