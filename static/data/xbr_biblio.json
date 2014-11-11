@@ -1,5 +1,37 @@
 [
 	{
+		"id": 288,
+		"type": "chapter",
+		"title": "Ill locutions",
+		"container-title": "Narrative in culture: the uses of storytelling in the sciences, philosophy, and literature",
+		"collection-title": "Warwick studies in philosophy and literature",
+		"publisher": "Routledge",
+		"publisher-place": "London ; New York",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "London ; New York",
+		"ISBN": "0415041562",
+		"call-number": "PN212 .N376 1990",
+		"container-author": [
+			{
+				"family": "Nash",
+				"given": "Cristopher"
+			}
+		],
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
 		"id": 259,
 		"type": "article-journal",
 		"title": "Woman as a Semiotic Object",
@@ -79,6 +111,37 @@
 		}
 	},
 	{
+		"id": 290,
+		"type": "chapter",
+		"title": "Ill wit and sick tragedy : Jude the Obscure",
+		"container-title": "Alternative Hardy",
+		"publisher": "Macmillan",
+		"publisher-place": "Basingstoke, Hampshire",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "Basingstoke, Hampshire",
+		"ISBN": "0333427696",
+		"call-number": "PR4754 .A48 1989b",
+		"container-author": [
+			{
+				"family": "Butler",
+				"given": "Lance St John"
+			}
+		],
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
 		"id": 244,
 		"type": "thesis",
 		"title": "The politics of experimentalism in the fiction of Alain Robbe-Grillet, Christine Brooke-Rose, and Wilson Harris",
@@ -126,6 +189,36 @@
 			"date-parts": [
 				[
 					"1964"
+				]
+			]
+		}
+	},
+	{
+		"id": 310,
+		"type": "chapter",
+		"title": "On terms",
+		"container-title": "The fourth ghost book",
+		"publisher": "Barrie & Rockliff",
+		"publisher-place": "London",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "London",
+		"call-number": "PR1309.G5 F68 1965",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Turner",
+				"given": "James"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1965"
 				]
 			]
 		}
@@ -210,6 +303,69 @@
 		}
 	},
 	{
+		"id": 283,
+		"type": "chapter",
+		"title": "[unkown]",
+		"container-title": "Near encounters: festschrift for Richard Martin",
+		"publisher": "P. Lang",
+		"publisher-place": "Frankfurt am Main ; New York",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "Frankfurt am Main ; New York",
+		"ISBN": "3631485522",
+		"call-number": "PS221 .N43 1995",
+		"editor": [
+			{
+				"family": "Berressem",
+				"given": "Hanjo"
+			},
+			{
+				"family": "Herzogenrath",
+				"given": "Bernd"
+			},
+			{
+				"family": "Martin",
+				"given": "Richard"
+			},
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": 285,
+		"type": "chapter",
+		"title": "Postmodern \"Vessels of conception\": Brooke-Rose and Brophy",
+		"container-title": "Penelope voyages: women and travel in the British literary tradition",
+		"collection-title": "Reading women writing",
+		"publisher": "Cornell University Press",
+		"publisher-place": "Ithaca, N.Y",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "Ithaca, N.Y",
+		"ISBN": "0801426103",
+		"call-number": "PR778.T72 L38 1994",
+		"author": [
+			{
+				"family": "Lawrence",
+				"given": "Karen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
 		"id": 31,
 		"type": "article-newspaper",
 		"title": "Christine Brooke-Rose: the great British experimentalist you've never heard of",
@@ -255,6 +411,66 @@
 					"1988",
 					1,
 					1
+				]
+			]
+		}
+	},
+	{
+		"id": 312,
+		"type": "chapter",
+		"title": "Piers Plowman in the modern wasteland",
+		"container-title": "Ezra Pound perspectives: essays in honor of his eightieth birthday",
+		"publisher": "H. Regnery Co",
+		"publisher-place": "Chicago",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "Chicago",
+		"call-number": "PS3531.O82 Z842",
+		"container-author": [
+			{
+				"family": "Stock",
+				"given": "Noel"
+			}
+		],
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1965"
+				]
+			]
+		}
+	},
+	{
+		"id": 296,
+		"type": "chapter",
+		"title": "Quelques remarques d'ouverture (pour placer le débat critique dans un contexte historique)",
+		"container-title": "Théorie de la littérature et enseignement: colloque des 26 et 27 avril 1980, [Paris VIII/British Council]",
+		"publisher": "Service de la Recherche de l'Université de Paris VIII",
+		"publisher-place": "Saint-Denis [France]",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "Saint-Denis [France]",
+		"call-number": "PN59 .T53 1981",
+		"editor": [
+			{
+				"family": "Zuppinger",
+				"given": "Renaud"
+			}
+		],
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
 				]
 			]
 		}
@@ -534,6 +750,36 @@
 		}
 	},
 	{
+		"id": 299,
+		"type": "chapter",
+		"title": "Lay me by Aurelie : an examination of Pound's use of historical and semi-historical sources",
+		"container-title": "New approaches to Ezra Pound: a co-ordinated investigation of Pound's poetry and ideas",
+		"publisher": "University of California Press",
+		"publisher-place": "Berkeley",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "Berkeley",
+		"call-number": "PS3531.O82 Z644 1969b",
+		"editor": [
+			{
+				"family": "Hesse",
+				"given": "Eva"
+			}
+		],
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969"
+				]
+			]
+		}
+	},
+	{
 		"id": 253,
 		"type": "book",
 		"title": "Xorandor",
@@ -557,6 +803,40 @@
 			"date-parts": [
 				[
 					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": 271,
+		"type": "book",
+		"title": "Teoría de los géneros literarios",
+		"collection-title": "Serie Lecturas (Madrid, Spain)",
+		"publisher": "Arco/Libros",
+		"publisher-place": "Madrid",
+		"number-of-pages": "385",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "Madrid",
+		"ISBN": "8476350333",
+		"call-number": "PN45.5 .T46 1988",
+		"editor": [
+			{
+				"family": "Garrido Gallardo",
+				"given": "Miguel Ángel"
+			},
+			{
+				"family": "Todorov",
+				"given": "Tzvetan"
+			},
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
 				]
 			]
 		}
@@ -786,6 +1066,36 @@
 		}
 	},
 	{
+		"id": 305,
+		"type": "chapter",
+		"title": "Red Rubber Gloves",
+		"container-title": "Tales of unease",
+		"publisher": "Pan Books",
+		"publisher-place": "London",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "London",
+		"call-number": "PR1309.H6 T27 1966",
+		"container-author": [
+			{
+				"family": "Burke",
+				"given": "John Frederick"
+			}
+		],
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1966"
+				]
+			]
+		}
+	},
+	{
 		"id": 258,
 		"type": "article-journal",
 		"title": "Stories, Theories, and Things",
@@ -955,6 +1265,36 @@
 		}
 	},
 	{
+		"id": 301,
+		"type": "chapter",
+		"title": "The foot",
+		"container-title": "The unlikely ghosts: a collection of twelve ghost stories",
+		"publisher": "Cassell",
+		"publisher-place": "London",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "London",
+		"call-number": "PR1309.G5 U55 1967",
+		"container-author": [
+			{
+				"family": "Turner",
+				"given": "James"
+			}
+		],
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1967"
+				]
+			]
+		}
+	},
+	{
 		"id": 249,
 		"type": "article-journal",
 		"title": "Palimprestes en paragrammes : une phrase narrative bien cachée",
@@ -996,6 +1336,32 @@
 			"date-parts": [
 				[
 					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": 275,
+		"type": "book",
+		"title": "Moments of truth: twelve twentieth-century women writers",
+		"publisher": "Fourth Estate",
+		"publisher-place": "London",
+		"number-of-pages": "252",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "London",
+		"ISBN": "1841156353",
+		"call-number": "PR888.W6 S23 2001",
+		"shortTitle": "Moments of truth",
+		"author": [
+			{
+				"family": "Sage",
+				"given": "Lorna"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
 				]
 			]
 		}
@@ -1146,6 +1512,36 @@
 			"date-parts": [
 				[
 					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": 273,
+		"type": "book",
+		"title": "Children of chaos",
+		"publisher": "Macgibbon & Kee",
+		"publisher-place": "London",
+		"number-of-pages": "250",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "London",
+		"call-number": "PQ6613.O79 D813 1958",
+		"author": [
+			{
+				"family": "Goytisolo",
+				"given": "Juan"
+			}
+		],
+		"translator": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1958"
 				]
 			]
 		}
@@ -1413,6 +1809,31 @@
 		}
 	},
 	{
+		"id": 260,
+		"type": "book",
+		"title": "In transit: an heroi-cyclic novel",
+		"publisher": "Dalkey Archive Press",
+		"publisher-place": "Chicago, Ill",
+		"number-of-pages": "235",
+		"edition": "1st Dalkey Archive ed",
+		"event-place": "Chicago, Ill",
+		"ISBN": "1564783235",
+		"shortTitle": "In transit",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
 		"id": 44,
 		"type": "book",
 		"title": "In the scales of fate: an autobiography",
@@ -1510,6 +1931,36 @@
 		}
 	},
 	{
+		"id": 279,
+		"type": "chapter",
+		"container-title": "The tiger garden: a book of writers' dreams",
+		"publisher": "Serpent's Tail",
+		"publisher-place": "London ; New York, NY",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "London ; New York, NY",
+		"ISBN": "1852425334",
+		"call-number": "PN56.D75 T54 1996",
+		"container-author": [
+			{
+				"family": "Royle",
+				"given": "Nicholas"
+			}
+		],
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
 		"id": 23,
 		"type": "article-journal",
 		"title": "Christine Brooke-Rose Interviewed",
@@ -1528,6 +1979,36 @@
 				]
 			],
 			"season": "Summer"
+		}
+	},
+	{
+		"id": 303,
+		"type": "chapter",
+		"title": "Medium loser. Small winner",
+		"container-title": "A coin has two sides: a collection of double stories on the theme of love",
+		"publisher": "Cassell",
+		"publisher-place": "London",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "London",
+		"call-number": "PR1309.L68 C64 1967",
+		"container-author": [
+			{
+				"family": "Turner",
+				"given": "James"
+			}
+		],
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1967"
+				]
+			]
 		}
 	},
 	{
@@ -1632,13 +2113,44 @@
 		}
 	},
 	{
+		"id": 293,
+		"type": "chapter",
+		"title": "Id is, is id?",
+		"container-title": "Discourse in psychoanalysis and literature",
+		"collection-title": "University paperbacks",
+		"publisher": "Methuen",
+		"publisher-place": "London ; New York",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "London ; New York",
+		"ISBN": "0416004520",
+		"call-number": "PN56.P92 D57 1987",
+		"container-author": [
+			{
+				"family": "Rimmon-Kenan",
+				"given": "Shlomith"
+			}
+		],
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
 		"id": 41,
 		"type": "chapter",
-		"title": "The dissolution of character in the novel",
+		"title": "Toward a relational individualism : the mediation of self through psychoanalysis",
 		"container-title": "Reconstructing individualism : autonomy, individuality, and the self in Western thought",
 		"publisher": "Stanford University Press",
 		"publisher-place": "Stanford Calif.",
-		"page": "184-196",
 		"source": "http://www.worldcat.org/oclc/12840158",
 		"event-place": "Stanford Calif.",
 		"ISBN": "9780804712927",
@@ -1856,6 +2368,36 @@
 			"date-parts": [
 				[
 					"1959"
+				]
+			]
+		}
+	},
+	{
+		"id": 314,
+		"type": "chapter",
+		"title": "The troglodyte",
+		"container-title": "Voices",
+		"publisher": "M. Joseph",
+		"publisher-place": "London",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "London",
+		"call-number": "PN6120.2 .V64 1963",
+		"container-author": [
+			{
+				"family": "Rubens",
+				"given": "Robert"
+			}
+		],
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1963"
 				]
 			]
 		}
@@ -2107,6 +2649,44 @@
 		}
 	},
 	{
+		"id": 277,
+		"type": "chapter",
+		"title": "Illiterazioni",
+		"container-title": "Letteratura e femminismi: teorie della critica in area inglese e americana",
+		"collection-title": "Leone e l'unicorno",
+		"collection-number": "11",
+		"publisher": "Liguori",
+		"publisher-place": "Napoli",
+		"edition": "1. ed. italiana",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "Napoli",
+		"ISBN": "8820730847",
+		"call-number": "PN481 .L53 2000",
+		"container-author": [
+			{
+				"family": "Chialant",
+				"given": "Maria Teresa"
+			},
+			{
+				"family": "Rao",
+				"given": "Eleonora"
+			}
+		],
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
 		"id": 56,
 		"type": "book",
 		"title": "The Christine Brooke-Rose omnibus: four novels.",
@@ -2230,6 +2810,35 @@
 			"date-parts": [
 				[
 					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": 281,
+		"type": "book",
+		"title": "L'ansia della scrittura: parola e silenzio nella narrativa inglese contemporanea",
+		"collection-title": "Leone e l'unicorno",
+		"collection-number": "2",
+		"publisher": "Liguori",
+		"publisher-place": "Napoli",
+		"number-of-pages": "198",
+		"edition": "1. ed",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "Napoli",
+		"ISBN": "8820724324",
+		"call-number": "PR881 .C36 1995",
+		"shortTitle": "L'ansia della scrittura",
+		"author": [
+			{
+				"family": "Carpi",
+				"given": "Daniela"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
 				]
 			]
 		}
@@ -2376,6 +2985,36 @@
 			"date-parts": [
 				[
 					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": 307,
+		"type": "chapter",
+		"title": "George and the seraph",
+		"container-title": "Voices 2",
+		"publisher": "M. Joseph",
+		"publisher-place": "London",
+		"source": "catalog.lib.utexas.edu Library Catalog",
+		"event-place": "London",
+		"call-number": "PN6120.2 .V64 1965",
+		"container-author": [
+			{
+				"family": "Ratcliffe",
+				"given": "Michael"
+			}
+		],
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1965"
 				]
 			]
 		}
