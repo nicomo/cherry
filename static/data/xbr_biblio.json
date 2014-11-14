@@ -366,6 +366,30 @@
 		}
 	},
 	{
+		"id": 317,
+		"type": "article-journal",
+		"title": "\"Is there a story? That's another story.\" Reading Christine Brooke-Rose's Out as an indictment of realism",
+		"container-title": "AAA-ARBEITEN AUS ANGLISTIK UND AMERIKANISTIK",
+		"page": "21-41",
+		"volume": "39",
+		"issue": "1",
+		"abstract": "Christine Brooke-Rose's Out (1964) is an experimental novel which contains numerous challenges to reader expectations. This paper uses close reading of some of its narratological and thematic elements to conclude that the novel systematically denies access to a referent that could be read as a coherent reality, and thus cannot legitimately be read as serving a programme of representation. Research on Out has failed to fully consider the novel's radical uncertainty and ambiguity, as well as the ways in which it undermines and defers meaning, when reading the novel in e.g. post-colonial or post-histoire terms. This paper argues for a purely metafictional agenda to Out, which uses its particular features to question realism's narrative conventions as well as the discourses that feed into it. Whereas Out's radical uncertainty enables a huge array of interpretational possibilities, it simultaneously takes them all away, highlighting in the process the degree of reader agency involved in any interpretation of the novel.",
+		"ISSN": "0171-5410",
+		"author": [
+			{
+				"family": "Vidaurre",
+				"given": "Rodrigo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
 		"id": 31,
 		"type": "article-newspaper",
 		"title": "Christine Brooke-Rose: the great British experimentalist you've never heard of",
@@ -665,6 +689,28 @@
 			"date-parts": [
 				[
 					"1964"
+				]
+			]
+		}
+	},
+	{
+		"id": 318,
+		"type": "article-journal",
+		"title": "The Deconstruction of Racial Identity in Christine Brooke-Rose's Out",
+		"container-title": "Annuli anglistica",
+		"page": "161-189",
+		"volume": "4",
+		"issue": "1",
+		"author": [
+			{
+				"family": "Canepari-Labib",
+				"given": "Michela"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
 				]
 			]
 		}
@@ -1397,6 +1443,29 @@
 		}
 	},
 	{
+		"id": 319,
+		"type": "article-journal",
+		"title": "Just Words on a Page: The Novels of Christine Brooke-Rose",
+		"container-title": "Review of Contemporary Fiction",
+		"page": "110-123",
+		"volume": "9",
+		"issue": "3",
+		"ISSN": "0276-0045",
+		"author": [
+			{
+				"family": "Martin",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
 		"id": 9,
 		"type": "book",
 		"title": "Stories, theories, and things",
@@ -1811,7 +1880,7 @@
 	{
 		"id": 260,
 		"type": "book",
-		"title": "In transit: an heroi-cyclic novel",
+		"title": "Introduction to \"In transit: an heroi-cyclic novel\" by Brigid Brophy",
 		"publisher": "Dalkey Archive Press",
 		"publisher-place": "Chicago, Ill",
 		"number-of-pages": "235",
@@ -1821,8 +1890,8 @@
 		"shortTitle": "In transit",
 		"author": [
 			{
-				"family": "Brooke-Rose",
-				"given": "Christine"
+				"family": "Brophy",
+				"given": "Brigid"
 			}
 		],
 		"issued": {
@@ -1933,6 +2002,7 @@
 	{
 		"id": 279,
 		"type": "chapter",
+		"title": "[Unknown]",
 		"container-title": "The tiger garden: a book of writers' dreams",
 		"publisher": "Serpent's Tail",
 		"publisher-place": "London ; New York, NY",

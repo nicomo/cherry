@@ -178,6 +178,24 @@
             "Lat": 49.735402, 
             "Lng": 4.658263
         }
+    },
+    {
+        "id": 20,
+        "km": 8.1,
+        "txt": "Warnécourt — prononcez Ouarnécour. C’est le premier village. De grosses fermes de réforme, solides comme les Percherons qu’elles n’abritent plus. Toujours personne dans les rues, ni hommes, ni bêtes, quelques voitures garées, pas de circulation. Les anciennes fermes sont en belle pierre jaune des carrières locales, plusieurs fois centenaires peut-être. C’est avril, il fait beau, pas trop chaud, parfait pour marcher. À droite en contrebas je sais l’église et, à quelques kilomètres à peine un autre village, Neuville-les-Thys, où j’allais parfois jouer au foot. Le maillot était celui de l’Écosse, avec le nom d’une entreprise locale de peinture en blanc et vert sur le devant. Il me fallait une demi-heure avec ma mobylette pour aller à l’entraînement.",
+        "LatLng": {
+            "Lat": 49.731942, 
+            "Lng": 4.654439
+        }
+    },
+    {
+        "id": 21,
+        "km": ,
+        "txt": "Quand on est partis pour de bon, tirant tout droit dans la côte, c’est Jean-Marc qui conduisait. Lui seul avait le permis. Et une Ami 8, récupérée à la casse et bricolée chez son frère qui tenait un garage. Elle sentait l’huile et l’humidité. On était cinq là-dedans, toutes fenêtres ouvertes — la ventilation était en panne, la buée qu’on faisait empêchait d’y voir à dix mètres, on chantait pour se réchauffer. Dans la côte, l’Ami roulait moins vite qu’un tracteur, mais arrivé en haut, sur le plateau, on ne s'est pas retourné. La campagne m'a toujours emmerdée.",
+        "LatLng": {
+            "Lat": 49.731942, 
+            "Lng": 4.654439
+        }
     }
 
 
