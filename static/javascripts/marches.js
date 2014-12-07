@@ -1,29 +1,35 @@
 $( document ).ready(function() {
 
 	// let's set the id and cookie for this page's content
-	var id;
-	if ($.cookie('nicomo_marches_id')) {
-		console.log('cookie: ' + $.cookie('nicomo_marches_id')); // => "value"
-		id = $.cookie('nicomo_marches_id');
+	var part_id;
+	var step_id;
+	if ($.cookie('nicomo_marches_part_id') && $.cookie('nicomo_marches_step_id')) {
+		console.log(
+			'cookie part: ' + $.cookie('nicomo_marches_step_id') +
+			' step: ' + $.cookie('nicomo_marches_step_id')); // => "value"
+		part_id = $.cookie('nicomo_marches_part_id');
+		step_id = $.cookie('nicomo_marches_step_id');
 	} else {
 		console.log("no cookie");
-		id = 0;
-		$.cookie('nicomo_marches_id', id, { expires: 20 });
-	}
+		part_id = 0
+		step_id = 0;
+		$.cookie('nicomo_marches_part_id', part_id, { expires: 20 });		
+		$.cookie('nicomo_marches_step_id', step_id, { expires: 20 });
+	};
 
 	// init page content for 1st time
-	src_initialize(id);
+	src_initialize(part_id, step_id);
 
-	function src_initialize(my_id) {
+	function src_initialize(my_part_id, my_step_id) {
 		//
 		// TODO READ JSON JUST ONCE RATHER THAN EACH TIME AROUND
 		//
 
 		// read our data in json file
-		$.getJSON('../static/data/marches_1.json', function(data) {
+		$.getJSON('../static/data/marches_' + my_part_id +'.json', function(data) {
 			
 			// background image
-			var img_url = '../static/images/marches_img/marches_1_' + id + '.png';
+			var img_url = '../static/images/marches_img/marches_' + my_part_id + '_' + my_step_id + '.png';
 			console.log(img_url);
 			$('html#marches').css({
 				'background': 'url("' + img_url + '") no-repeat center center fixed',
@@ -33,17 +39,30 @@ $( document ).ready(function() {
 				'background-size': 'cover'
 			});
 
+			// insert name of character (hardcoded, could not be bothered...)
+			var marcheur;
+			switch(my_part_id) {
+				case 0:
+					marcheur = "Jean";
+					$('#marcheur').html(marcheur);
+					break;
+				case 1:
+					marcheur = "João";
+					$('#marcheur').html(marcheur);
+					break;
+			}
+
 			// kilometer value in title
-			var km = data[my_id].km;
+			var km = data[my_step_id].km;
 			$('#km').html(km);
 
 			// main text
-			var my_txt = '<p>' + data[my_id].txt + '</p>';
+			var my_txt = '<p>' + data[my_step_id].txt + '</p>';
 			$('#marches_txt').html(my_txt);
 
 			// set our maps
-			var lat = data[my_id].LatLng.Lat;
-			var lng = data[my_id].LatLng.Lng;
+			var lat = data[my_step_id].LatLng.Lat;
+			var lng = data[my_step_id].LatLng.Lng;
 			map_initialize(lat,lng);
 
 			// if at the end, remove the next button
@@ -56,14 +75,14 @@ $( document ).ready(function() {
 
 	// when the user clicks / touches bottom button, we run initialize again
 	$("#marches_next").on('touchstart click', function(){
-		// increment the id and update the cookie	
-		++id;
-		$.cookie('nicomo_marches_id', id, { expires: 25 });
-		console.log('button id=' + id);
-		console.log('cookie: ' + $.cookie('nicomo_marches_id')); // => "value"
+		// increment the step_id and update the cookie	
+		++step_id;
+		$.cookie('nicomo_marches_step_id', step_id, { expires: 25 });
+		console.log('button step_id=' + step_id);
+		console.log('cookie: ' + $.cookie('nicomo_marches_step_id')); // => "value"
 
 		// update data in page
-		src_initialize(id);
+		src_initialize(step_id);
 	});
 
 	function map_initialize(lat, lng) {
