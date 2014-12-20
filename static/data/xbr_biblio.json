@@ -1,8 +1,30 @@
 [
 	{
+		"id": 353,
+		"type": "chapter",
+		"title": "Ezra Pound",
+		"container-title": "Littérature De Notre Temps. Écrivains Américains / Recueil 1",
+		"publisher": "Casterman",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
 		"id": 288,
 		"type": "chapter",
-		"title": "Ill locutions",
+		"title": "Ill Locutions",
 		"container-title": "Narrative in culture: the uses of storytelling in the sciences, philosophy, and literature",
 		"collection-title": "Warwick studies in philosophy and literature",
 		"publisher": "Routledge",
@@ -113,7 +135,7 @@
 	{
 		"id": 290,
 		"type": "chapter",
-		"title": "Ill wit and sick tragedy : Jude the Obscure",
+		"title": "Ill Wit and Sick Tragedy : Jude the Obscure",
 		"container-title": "Alternative Hardy",
 		"publisher": "Macmillan",
 		"publisher-place": "Basingstoke, Hampshire",
@@ -164,8 +186,9 @@
 	{
 		"id": 43,
 		"type": "article-journal",
-		"title": "[unknown]",
+		"title": "L'imagination baroque de Robbe-Grillet",
 		"container-title": "Revue des Lettres Modernes",
+		"page": "129-152",
 		"issue": "94-99",
 		"source": "http://www.worldcat.org/oclc/25438629",
 		"abstract": "Situation (3) : Un Nouveau roman ? Recherches et tradition, la critique étrangère",
@@ -189,6 +212,50 @@
 			"date-parts": [
 				[
 					"1964"
+				]
+			]
+		}
+	},
+	{
+		"id": 375,
+		"type": "article-journal",
+		"title": "A for But: \"The Custom House\" in Hawthorne's The Scarlet Letter",
+		"container-title": "Word and Image",
+		"page": "143-55",
+		"volume": "3",
+		"issue": "2",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": 363,
+		"type": "article-journal",
+		"title": "The Squirm of the True III: Surface Structure in Narrative",
+		"container-title": "Poetics and Theory of Literature",
+		"page": "517-62",
+		"volume": "2",
+		"issue": "3",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
 				]
 			]
 		}
@@ -219,6 +286,27 @@
 			"date-parts": [
 				[
 					"1965"
+				]
+			]
+		}
+	},
+	{
+		"id": 339,
+		"type": "article-magazine",
+		"title": "Return from Avilion",
+		"container-title": "The Times Literary Supplement",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1959",
+					12,
+					25
 				]
 			]
 		}
@@ -303,6 +391,28 @@
 		}
 	},
 	{
+		"id": 347,
+		"type": "article-newspaper",
+		"title": "Making it New",
+		"container-title": "Observer",
+		"abstract": "Review of \"The Inquisitory by Robert Pinget, and \"Degrees\" by Michel Butor",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1966",
+					10,
+					2
+				]
+			]
+		}
+	},
+	{
 		"id": 283,
 		"type": "chapter",
 		"title": "[unkown]",
@@ -340,6 +450,27 @@
 		}
 	},
 	{
+		"id": 370,
+		"type": "article-journal",
+		"title": "Fiction, figment, feindre",
+		"container-title": "Fabula",
+		"page": "121-32",
+		"issue": "3",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
 		"id": 285,
 		"type": "chapter",
 		"title": "Postmodern \"Vessels of conception\": Brooke-Rose and Brophy",
@@ -369,7 +500,7 @@
 		"id": 317,
 		"type": "article-journal",
 		"title": "\"Is there a story? That's another story.\" Reading Christine Brooke-Rose's Out as an indictment of realism",
-		"container-title": "AAA-ARBEITEN AUS ANGLISTIK UND AMERIKANISTIK",
+		"container-title": "AAA-Arbeiten aus Anglistik une Amerikanistik",
 		"page": "21-41",
 		"volume": "39",
 		"issue": "1",
@@ -385,6 +516,28 @@
 			"date-parts": [
 				[
 					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": 377,
+		"type": "article-journal",
+		"title": "Diary",
+		"container-title": "London Review of Books",
+		"page": "25",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990",
+					5,
+					10
 				]
 			]
 		}
@@ -407,6 +560,20 @@
 					"2012",
 					3,
 					23
+				]
+			]
+		}
+	},
+	{
+		"id": 388,
+		"type": "interview",
+		"title": "Christine Brooke-Rose in Conversation with Nicholas Tredell",
+		"medium": "P.N. Review",
+		"issued": {
+			"date-parts": [
+				[
+					"1990",
+					9
 				]
 			]
 		}
@@ -435,6 +602,27 @@
 					"1988",
 					1,
 					1
+				]
+			]
+		}
+	},
+	{
+		"id": 364,
+		"type": "article-newspaper",
+		"title": "Imitations Are Proof of New Writing's Power",
+		"container-title": "The Times",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977",
+					5,
+					31
 				]
 			]
 		}
@@ -560,6 +748,21 @@
 		}
 	},
 	{
+		"id": 385,
+		"type": "interview",
+		"title": "Woman's Hour",
+		"medium": "BBC Radio 4",
+		"issued": {
+			"date-parts": [
+				[
+					"1984",
+					9,
+					25
+				]
+			]
+		}
+	},
+	{
 		"id": 234,
 		"type": "book",
 		"title": "Die Erneuerung des Romans im Zeichen postmoderner Realitätsauffassung: Sinnstiftung und Sinnzerstörung in Christine Brooke-Roses Werk",
@@ -646,6 +849,28 @@
 		}
 	},
 	{
+		"id": 332,
+		"type": "article-journal",
+		"title": "La syntaxe et le symbolisme dans la poésie de Hopkins",
+		"container-title": "Europe",
+		"page": "30-9",
+		"volume": "25",
+		"issue": "17",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1947"
+				]
+			]
+		}
+	},
+	{
 		"id": 231,
 		"type": "book",
 		"title": "Word-worlds language, identity and reality in the work of Christine Brooke-Rose",
@@ -716,6 +941,29 @@
 		}
 	},
 	{
+		"id": 372,
+		"type": "article-journal",
+		"title": "Un poème sur tout",
+		"container-title": "Quinzaine littéraire",
+		"page": "5-6",
+		"volume": "16",
+		"issue": "31",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986",
+					5
+				]
+			]
+		}
+	},
+	{
 		"id": 238,
 		"type": "chapter",
 		"title": "Effects predicts cause. Brooke-Rose's Out",
@@ -742,12 +990,54 @@
 		}
 	},
 	{
+		"id": 356,
+		"type": "article-journal",
+		"title": "The Squirm of the True II: The Long Glasses",
+		"container-title": "Poetics and Theory of Literature",
+		"page": "513-46",
+		"volume": "1",
+		"issue": "3",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": 351,
+		"type": "article-newspaper",
+		"title": "La dévaluation du livre",
+		"container-title": "Le Monde",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1968",
+					1,
+					24
+				]
+			]
+		}
+	},
+	{
 		"id": 27,
 		"type": "article-magazine",
 		"title": "The armchair, the world",
 		"container-title": "The Times Literary Supplement",
 		"page": "21-22",
-		"issue": "5373",
 		"URL": "http://www.the-tls.co.uk/tls/public/article745493.ece",
 		"author": [
 			{
@@ -761,6 +1051,107 @@
 					"2006",
 					3,
 					24
+				]
+			]
+		}
+	},
+	{
+		"id": 324,
+		"type": "article-journal",
+		"title": "Once Upon a Time",
+		"container-title": "Truth",
+		"issue": "479",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1956",
+					4,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": 352,
+		"type": "article-newspaper",
+		"title": "Claude Lévi-Strauss: A New Multi-Dimensional Way of Thinking",
+		"container-title": "The Times",
+		"abstract": "Review of \"Structural Anthropology\" by Claude Lévi-Strauss",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1968",
+					3,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 354,
+		"type": "article-magazine",
+		"title": "Viewpoint",
+		"container-title": "The Times Literary Supplement",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": 389,
+		"type": "interview",
+		"title": "news of the Day Programme Four: Lorna Sage Talks to Christine Brooke-Rose",
+		"medium": "University of East Anglia Video Archive",
+		"issued": {
+			"date-parts": [
+				[
+					"1990",
+					1,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": 329,
+		"type": "article-journal",
+		"title": "The Isle of Reil",
+		"container-title": "Botteghe Oscure",
+		"page": "101-5",
+		"issue": "21",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1958"
 				]
 			]
 		}
@@ -796,6 +1187,28 @@
 		}
 	},
 	{
+		"id": 330,
+		"type": "article-journal",
+		"title": "To My Mother, Taking the Veil",
+		"container-title": "London Magazine",
+		"issue": "61",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1963",
+					1,
+					25
+				]
+			]
+		}
+	},
+	{
 		"id": 299,
 		"type": "chapter",
 		"title": "Lay me by Aurelie : an examination of Pound's use of historical and semi-historical sources",
@@ -826,6 +1239,39 @@
 		}
 	},
 	{
+		"id": 378,
+		"type": "chapter",
+		"title": "Palimpsest History",
+		"container-title": "Interpretation and Over-Interpretation",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge",
+		"page": "125-38",
+		"event-place": "Cambridge",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Eco",
+				"given": "Umberto"
+			},
+			{
+				"family": "Rorty",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
 		"id": 253,
 		"type": "book",
 		"title": "Xorandor",
@@ -849,6 +1295,27 @@
 			"date-parts": [
 				[
 					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": 338,
+		"type": "article-magazine",
+		"title": "The Critic's Eye",
+		"container-title": "The Times Literary Supplement",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1959",
+					3,
+					20
 				]
 			]
 		}
@@ -912,6 +1379,27 @@
 		}
 	},
 	{
+		"id": 325,
+		"type": "article-magazine",
+		"title": "The Lunatic Fringe",
+		"container-title": "The Times Literary Supplement",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1956",
+					8,
+					17
+				]
+			]
+		}
+	},
+	{
 		"id": 237,
 		"type": "article-journal",
 		"title": "Une lecture d'Amalgamemnon, de Christine Brooke-Rose",
@@ -958,7 +1446,7 @@
 	{
 		"id": 59,
 		"type": "chapter",
-		"title": "Ill wit and good humour: women's comedy and the canon",
+		"title": "Ill Wit and Good Humour: Women's Comedy and the Canon",
 		"container-title": "Comparative Criticism",
 		"collection-title": "Comparative Criticism",
 		"collection-number": "10",
@@ -1010,6 +1498,29 @@
 		}
 	},
 	{
+		"id": 333,
+		"type": "thesis",
+		"title": "The Use of Metaphor in Some Old French and Middle English Lyrics and Romances",
+		"publisher": "University College London",
+		"publisher-place": "London",
+		"source": "http://ucl-primo.hosted.exlibrisgroup.com/UCL_VU1:UCL_LMS_DS001650276",
+		"event-place": "London",
+		"abstract": "Ph.D thesis published under XBR's married name : Christine R. E. B. Pietrkiewicz",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1955"
+				]
+			]
+		}
+	},
+	{
 		"id": 17,
 		"type": "book",
 		"title": "A ZBC of Ezra Pound",
@@ -1027,6 +1538,70 @@
 			"date-parts": [
 				[
 					"1971"
+				]
+			]
+		}
+	},
+	{
+		"id": 331,
+		"type": "article-magazine",
+		"title": "Today the Acupuncturist",
+		"container-title": "The Times Literary Supplement",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1963",
+					1,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 342,
+		"type": "article-journal",
+		"title": "Lady Precious Stream",
+		"container-title": "London Magazine",
+		"page": "80-6",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1964",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": 376,
+		"type": "article-journal",
+		"title": "Ill Locations",
+		"container-title": "Review of Contemporary Fiction",
+		"page": "67-81",
+		"volume": "8",
+		"issue": "3",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
 				]
 			]
 		}
@@ -1060,6 +1635,27 @@
 		}
 	},
 	{
+		"id": 335,
+		"type": "article-journal",
+		"title": "The Mickiewicz Centenary",
+		"container-title": "Tablet",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1955",
+					11,
+					26
+				]
+			]
+		}
+	},
+	{
 		"id": 262,
 		"type": "article-journal",
 		"title": "Historical Genres/Theoretical Genres: A Discussion of Todorov on the Fantastic",
@@ -1083,6 +1679,43 @@
 					"1976",
 					10,
 					1
+				]
+			]
+		}
+	},
+	{
+		"id": 362,
+		"type": "article-journal",
+		"title": "Self-Confrontation and the Writer",
+		"container-title": "New Literary History",
+		"page": "129-36",
+		"volume": "9",
+		"issue": "1",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": 383,
+		"type": "interview",
+		"title": "A Novel Theory",
+		"medium": "The Guardian",
+		"issued": {
+			"date-parts": [
+				[
+					"1970",
+					11,
+					16
 				]
 			]
 		}
@@ -1142,6 +1775,27 @@
 		}
 	},
 	{
+		"id": 36,
+		"type": "article-magazine",
+		"title": "His Name in the Record",
+		"container-title": "The Times Literary Supplement",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1960",
+					6,
+					10
+				]
+			]
+		}
+	},
+	{
 		"id": 258,
 		"type": "article-journal",
 		"title": "Stories, Theories, and Things",
@@ -1165,6 +1819,21 @@
 					"1989",
 					10,
 					1
+				]
+			]
+		}
+	},
+	{
+		"id": 387,
+		"type": "interview",
+		"title": "Global Wordcrunching",
+		"medium": "City Limits",
+		"issued": {
+			"date-parts": [
+				[
+					"1990",
+					3,
+					9
 				]
 			]
 		}
@@ -1195,6 +1864,27 @@
 			"date-parts": [
 				[
 					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": 361,
+		"type": "article-newspaper",
+		"title": "Paris Letter: All the City's a Stage",
+		"container-title": "Spectator",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976",
+					7,
+					24
 				]
 			]
 		}
@@ -1257,12 +1947,55 @@
 		}
 	},
 	{
+		"id": 344,
+		"type": "article-newspaper",
+		"title": "Out of the Past",
+		"container-title": "Spectator",
+		"abstract": "Review of \"The day the Call Came\" by Thomas Hinde, \"Berg\" by Ann Quin, \"The Deep Freeze Girl\" by Eva Defago, \"Smoke Island\" by Anthony Trew",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1964",
+					6,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": 341,
+		"type": "article-journal",
+		"title": "Buzzards, Bloody Owls and One Hawk",
+		"container-title": "London Magazine",
+		"page": "76-80",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1961",
+					9
+				]
+			]
+		}
+	},
+	{
 		"id": 5,
 		"type": "book",
-		"title": "A rhetoric of the unreal : studies in narrative and structure, especially of the fantastic",
+		"title": "A rhetoric of the unreal: studies in narrative and structure, especially of the fantastic",
 		"publisher": "Cambridge University Press",
-		"publisher-place": "Cambridge [Eng.] ;;New York",
-		"event-place": "Cambridge [Eng.] ;;New York",
+		"publisher-place": "Cambridge",
+		"event-place": "Cambridge",
 		"ISBN": "9780521225618",
 		"author": [
 			{
@@ -1466,6 +2199,28 @@
 		}
 	},
 	{
+		"id": 368,
+		"type": "article-journal",
+		"title": "Eximplosions",
+		"container-title": "Genre",
+		"page": "9-21",
+		"volume": "14",
+		"issue": "11",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
 		"id": 9,
 		"type": "book",
 		"title": "Stories, theories, and things",
@@ -1483,6 +2238,27 @@
 			"date-parts": [
 				[
 					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": 345,
+		"type": "article-journal",
+		"title": "Dynamic Gradients",
+		"container-title": "London Magazine",
+		"page": "89-96",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1965",
+					12
 				]
 			]
 		}
@@ -1559,6 +2335,29 @@
 			"date-parts": [
 				[
 					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": 327,
+		"type": "article-journal",
+		"title": "Mourning",
+		"container-title": "Truth",
+		"volume": "1",
+		"issue": "386",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1957",
+					12,
+					6
 				]
 			]
 		}
@@ -1795,9 +2594,101 @@
 		}
 	},
 	{
+		"id": 355,
+		"type": "article-journal",
+		"title": "The Squirm of the True I: An Essay in Non-Methodology",
+		"container-title": "Poetics and Theory of Literature",
+		"page": "265-94",
+		"volume": "1",
+		"issue": "2",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": 390,
+		"type": "interview",
+		"title": "Reclaim the Brain",
+		"medium": "Edinburgh Review 84",
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": 382,
+		"type": "interview",
+		"title": "Writer out on a Limb",
+		"medium": "Scotsman",
+		"issued": {
+			"date-parts": [
+				[
+					"1965",
+					4,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": 357,
+		"type": "article-newspaper",
+		"title": "Paris Letter: Dramatics",
+		"container-title": "Spectator",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976",
+					2,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": 343,
+		"type": "article-journal",
+		"title": "Where Have All the Lovers Gone?",
+		"container-title": "London Magazine",
+		"page": "80-6",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1964",
+					6
+				]
+			]
+		}
+	},
+	{
 		"id": 26,
 		"type": "chapter",
-		"title": "Ill Iterations",
+		"title": "Illiterations",
 		"container-title": "Breaking the Sequence",
 		"publisher": "Princeton University Press",
 		"page": "55-71",
@@ -1821,6 +2712,27 @@
 			"date-parts": [
 				[
 					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": 367,
+		"type": "article-journal",
+		"title": "Where Do We Go From Here?",
+		"container-title": "Granta",
+		"page": "161-88",
+		"issue": "3",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
 				]
 			]
 		}
@@ -1850,6 +2762,62 @@
 			"date-parts": [
 				[
 					"1958"
+				]
+			]
+		}
+	},
+	{
+		"id": 348,
+		"type": "article-journal",
+		"title": "Lettres d'Angleterre",
+		"container-title": "Nouvelle Revue Française",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1967",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": 386,
+		"type": "interview",
+		"title": "Bookmark 16: The Yorshire Ripper, Melvyn Bragg, Christine Brooke-Rose",
+		"medium": "BBC 2",
+		"issued": {
+			"date-parts": [
+				[
+					"1987",
+					5,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": 336,
+		"type": "article-journal",
+		"title": "Samuel Beckett and the Anti-Novel",
+		"container-title": "London Magazine",
+		"page": "38-46",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1958",
+					12
 				]
 			]
 		}
@@ -1890,8 +2858,8 @@
 		"shortTitle": "In transit",
 		"author": [
 			{
-				"family": "Brophy",
-				"given": "Brigid"
+				"family": "Brooke-Rose",
+				"given": "Christine"
 			}
 		],
 		"issued": {
@@ -1920,6 +2888,27 @@
 			"date-parts": [
 				[
 					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": 350,
+		"type": "article-newspaper",
+		"title": "French Fiction: The Long Revolution",
+		"container-title": "The Times",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1968",
+					8,
+					3
 				]
 			]
 		}
@@ -2031,6 +3020,28 @@
 		}
 	},
 	{
+		"id": 366,
+		"type": "article-journal",
+		"title": "Round and Round the Jakobson Diagram: A Survey",
+		"container-title": "Hebrew University Studies in Literature",
+		"page": "153-82",
+		"volume": "8",
+		"issue": "2",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
 		"id": 23,
 		"type": "article-journal",
 		"title": "Christine Brooke-Rose Interviewed",
@@ -2135,6 +3146,51 @@
 		}
 	},
 	{
+		"id": 233,
+		"type": "article-newspaper",
+		"title": "The American Literary Scene: Writers in Search of a Community",
+		"container-title": "Observer",
+		"page": "28",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1961",
+					4,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": 371,
+		"type": "chapter",
+		"title": "Ill Logics of Irony",
+		"container-title": "new Essays on The Red BAdge of Courage",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge",
+		"page": "129-46",
+		"event-place": "Cambridge",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
 		"id": 229,
 		"type": "article-journal",
 		"title": "Betweenness or an Interstitial Search for a Self",
@@ -2183,6 +3239,27 @@
 		}
 	},
 	{
+		"id": 1,
+		"type": "article-magazine",
+		"title": "Southey Ends His Song",
+		"container-title": "The Times Literary Supplement",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1960",
+					4,
+					1
+				]
+			]
+		}
+	},
+	{
 		"id": 293,
 		"type": "chapter",
 		"title": "Id is, is id?",
@@ -2215,9 +3292,37 @@
 		}
 	},
 	{
+		"id": 369,
+		"type": "chapter",
+		"title": "Théorie des genres: la science-fiction",
+		"container-title": "Poétique(s): Domaine Anglais",
+		"publisher": "Presses Universitaires de Lyon",
+		"publisher-place": "Lyon",
+		"event-place": "Lyon",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Bony",
+				"given": "Alain"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
 		"id": 41,
 		"type": "chapter",
-		"title": "Toward a relational individualism : the mediation of self through psychoanalysis",
+		"title": "The Dissolution of Character in the Novel",
 		"container-title": "Reconstructing individualism : autonomy, individuality, and the self in Western thought",
 		"publisher": "Stanford University Press",
 		"publisher-place": "Stanford Calif.",
@@ -2272,7 +3377,7 @@
 		"publisher": "Cent pages",
 		"publisher-place": "Grenoble",
 		"event-place": "Grenoble",
-		"abstract": "A short story from Go when you see the green man walking, translated into French",
+		"abstract": "French translation of 'The Foot', a short story from \"Go when you see the green man walking\".",
 		"ISBN": "9782906724259",
 		"language": "French",
 		"author": [
@@ -2367,6 +3472,27 @@
 		}
 	},
 	{
+		"id": 340,
+		"type": "article-magazine",
+		"title": "Anatomy of Originophobia",
+		"container-title": "The Times Literary Supplement",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1961",
+					5,
+					19
+				]
+			]
+		}
+	},
+	{
 		"id": 261,
 		"type": "article-journal",
 		"title": "The Evil Ring: Realism and the Marvelous",
@@ -2390,6 +3516,33 @@
 					"1980",
 					7,
 					1
+				]
+			]
+		}
+	},
+	{
+		"id": 380,
+		"type": "book",
+		"title": "In the Labyrinth",
+		"publisher": "Calder and Boyars",
+		"publisher-place": "London",
+		"event-place": "London",
+		"author": [
+			{
+				"family": "Robbe-Grillet",
+				"given": "Alain"
+			}
+		],
+		"translator": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1968"
 				]
 			]
 		}
@@ -2473,6 +3626,85 @@
 		}
 	},
 	{
+		"id": 349,
+		"type": "article-journal",
+		"title": "Lettres d'Angleterre",
+		"container-title": "Nouvelle Revue Française",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1967",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": 326,
+		"type": "article-journal",
+		"title": "Responses",
+		"container-title": "Truth",
+		"volume": "1",
+		"issue": "196",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1957",
+					10,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": 381,
+		"type": "interview",
+		"title": "Out's Out - It's In to be Anti",
+		"medium": "The Guardian",
+		"issued": {
+			"date-parts": [
+				[
+					"1964",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": 337,
+		"type": "article-journal",
+		"title": "Mood of the Month - XI",
+		"container-title": "London Magazine",
+		"page": "45-50",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1959",
+					9
+				]
+			]
+		}
+	},
+	{
 		"id": 60,
 		"type": "book",
 		"title": "A writer's constraints: James Bryce memorial lecture, delivered in the Wolfson Hall, Somerville College on Tuesday, 2 March 1993",
@@ -2495,6 +3727,28 @@
 			"date-parts": [
 				[
 					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": 217,
+		"type": "article-newspaper",
+		"title": "The Vanishing Author",
+		"container-title": "Observer",
+		"page": "26",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1961",
+					2,
+					12
 				]
 			]
 		}
@@ -2539,6 +3793,49 @@
 			"date-parts": [
 				[
 					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": 373,
+		"type": "article-journal",
+		"title": "Problématique de la réception",
+		"container-title": "Revue française des études américaines",
+		"page": "393-8",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": 374,
+		"type": "article-journal",
+		"title": "cheng Ming Chi'i'd'",
+		"container-title": "PN Review",
+		"page": "29-37",
+		"volume": "13",
+		"issue": "5",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
 				]
 			]
 		}
@@ -2691,6 +3988,28 @@
 		}
 	},
 	{
+		"id": 391,
+		"type": "article-journal",
+		"title": "Thru the Looking Glass: A Journey into the Universe of Discourse",
+		"container-title": "Review of Contemporary Fiction",
+		"page": "128-33",
+		"volume": "9",
+		"issue": "3",
+		"author": [
+			{
+				"family": "Berressem",
+				"given": "Hanjo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
 		"id": 257,
 		"type": "article-journal",
 		"title": "Whatever Happened to Narratology?",
@@ -2714,6 +4033,27 @@
 					"1990",
 					7,
 					1
+				]
+			]
+		}
+	},
+	{
+		"id": 328,
+		"type": "article-journal",
+		"title": "The World A Catechumen",
+		"container-title": "Botteghe Oscure",
+		"page": "123-33",
+		"issue": "19",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1958"
 				]
 			]
 		}
@@ -2838,6 +4178,27 @@
 		}
 	},
 	{
+		"id": 360,
+		"type": "article-newspaper",
+		"title": "Paris Letter: Le Pop",
+		"container-title": "Spectator",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976",
+					6,
+					12
+				]
+			]
+		}
+	},
+	{
 		"id": 10,
 		"type": "book",
 		"title": "Xorandor",
@@ -2936,6 +4297,48 @@
 		}
 	},
 	{
+		"id": 334,
+		"type": "article-magazine",
+		"title": "The Voice of Eternity",
+		"container-title": "The Times Literary Supplement",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1955",
+					6,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": 358,
+		"type": "article-newspaper",
+		"title": "Paris Letter: Ganging Up",
+		"container-title": "Spectator",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976",
+					3,
+					27
+				]
+			]
+		}
+	},
+	{
 		"id": 46,
 		"type": "book",
 		"title": "Gold: a poem",
@@ -2978,6 +4381,75 @@
 			"date-parts": [
 				[
 					"1957"
+				]
+			]
+		}
+	},
+	{
+		"id": 322,
+		"type": "article-journal",
+		"title": "The Five Senses",
+		"container-title": "Whidow",
+		"page": "20-21",
+		"issue": "9",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1956"
+				]
+			]
+		}
+	},
+	{
+		"id": 379,
+		"type": "book",
+		"title": "Fertility and Survival: Population Problems from Malthus to Mao Tse Tung",
+		"publisher": "Criterion Books",
+		"publisher-place": "New York",
+		"event-place": "New York",
+		"author": [
+			{
+				"family": "Sauvy",
+				"given": "Alfred"
+			}
+		],
+		"translator": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1960"
+				]
+			]
+		}
+	},
+	{
+		"id": 359,
+		"type": "article-newspaper",
+		"title": "Paris Letter: Tricolore Tape",
+		"container-title": "Spectator",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976",
+					5,
+					22
 				]
 			]
 		}
@@ -3038,6 +4510,27 @@
 		}
 	},
 	{
+		"id": 45,
+		"type": "article-magazine",
+		"title": "Feeding Mind",
+		"container-title": "The Times Literary Supplement",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1960",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
 		"id": 7,
 		"type": "book",
 		"title": "Life, end of",
@@ -3055,6 +4548,35 @@
 			"date-parts": [
 				[
 					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": 365,
+		"type": "chapter",
+		"title": "The Readerhood of Man",
+		"container-title": "The Reader in the Text: essays in Audience and Interpretation",
+		"publisher": "Princeton University Press",
+		"publisher-place": "Princeton, NJ",
+		"page": "120-48",
+		"event-place": "Princeton, NJ",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Suleiman",
+				"given": "Susan E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
 				]
 			]
 		}
@@ -3157,6 +4679,27 @@
 		}
 	},
 	{
+		"id": 346,
+		"type": "article-newspaper",
+		"title": "How Far de Lonh?",
+		"container-title": "The Times Literary Supplement",
+		"author": [
+			{
+				"family": "Brooke-Rose",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1966",
+					4,
+					14
+				]
+			]
+		}
+	},
+	{
 		"id": 8,
 		"type": "book",
 		"title": "The dear deceit : a novel",
@@ -3201,7 +4744,7 @@
 	{
 		"id": 250,
 		"type": "article-journal",
-		"title": "Illusions of Parody in Humour",
+		"title": "Illusions of Parody",
 		"container-title": "Amerikastudien, American studies",
 		"page": "225-233",
 		"volume": "30",
@@ -3217,6 +4760,19 @@
 			"date-parts": [
 				[
 					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": 384,
+		"type": "interview",
+		"title": "An Interview with Christine Brooke-Rose",
+		"medium": "Contemporary Literature",
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
 				]
 			]
 		}
