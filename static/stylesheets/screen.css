@@ -316,7 +316,7 @@ html {
 }
 
 /* line 57, ../../cherrypass/sass/_typography.scss */
-h2 {
+h2, #marches_next_marcheur {
   font-family: "Lato", Helvetica, sans-serif;
   font-size: 1.5em;
 }

@@ -1,8 +1,11 @@
 $( document ).ready(function() {
 
 	// let's set the id and cookie for this page's content
+	var last_part = false;
 	var part_id;
 	var step_id;
+	var data_length;
+
 	if ($.cookie('nicomo_marches_part_id') && $.cookie('nicomo_marches_step_id')) {
 		console.log(
 			'cookie part: ' + $.cookie('nicomo_marches_step_id') +
@@ -28,6 +31,8 @@ $( document ).ready(function() {
 		// read our data in json file
 		$.getJSON('../static/data/marches_' + my_part_id +'.json', function(data) {
 			
+			data_length = data.length;
+
 			// background image
 			var img_url = '../static/images/marches_img/marches_' + my_part_id + '_' + my_step_id + '.png';
 			console.log(img_url);
@@ -40,17 +45,10 @@ $( document ).ready(function() {
 			});
 
 			// insert name of character (hardcoded, could not be bothered...)
-			var marcheur;
-			switch(my_part_id) {
-				case 0:
-					marcheur = "Jean";
-					$('#marcheur').html(marcheur);
-					break;
-				case 1:
-					marcheur = "João";
-					$('#marcheur').html(marcheur);
-					break;
-			}
+			
+			var marcheurs = ["Jean", "João"];
+			$('#marcheur').html(marcheurs[my_part_id]);
+			
 
 			// kilometer value in title
 			var km = data[my_step_id].km;
@@ -65,24 +63,37 @@ $( document ).ready(function() {
 			var lng = data[my_step_id].LatLng.Lng;
 			map_initialize(lat,lng);
 
-			// if at the end, remove the next button
-			console.log("data length: " + data.length);
-			if (id >= data.length -1) {
+			// if at the end of this particular walk
+			if ((part_id >= marcheurs.length -1) && (step_id >= data.length -1)) {
+				// hides button
 				$('#marches_next').hide();
+			} else if ((part_id < marcheurs.length -1) && (step_id >= data.length -1)) {
+				// change button
+				$('#marches_next_icon').hide();
+				console.log(marcheurs[my_part_id+1]);
+
+				$('#marches_next_marcheur').html('<p>'+marcheurs[my_part_id+1]+'</p>').show();
+			} else {
+				$('#marches_next_marcheur').hide();
+				$('#marches_next_icon').show();
 			}
 		});
 	}
 
 	// when the user clicks / touches bottom button, we run initialize again
 	$("#marches_next").on('touchstart click', function(){
-		// increment the step_id and update the cookie	
-		++step_id;
-		$.cookie('nicomo_marches_step_id', step_id, { expires: 25 });
-		console.log('button step_id=' + step_id);
-		console.log('cookie: ' + $.cookie('nicomo_marches_step_id')); // => "value"
-
+		if(step_id >= data_length -1) {
+			step_id = 0;
+			$.cookie('nicomo_marches_step_id', step_id, { expires: 25 });
+			++part_id;
+			$.cookie('nicomo_marches_part_id', part_id, {expires: 25});
+		} else {
+			// increment the step_id and update the cookie	
+			++step_id;
+			$.cookie('nicomo_marches_step_id', step_id, { expires: 25 });
+		}
 		// update data in page
-		src_initialize(step_id);
+		src_initialize(part_id, step_id);
 	});
 
 	function map_initialize(lat, lng) {
