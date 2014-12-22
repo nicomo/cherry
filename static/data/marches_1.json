@@ -16,7 +16,6 @@
             "Lat": 38.715788, 
             "Lng": -9.158874
         }
-
     },
     {
         "id": 2,
@@ -26,7 +25,6 @@
             "Lat": 38.715421, 
             "Lng": -9.157190
         }
-
     },
     {
         "id": 3,
@@ -36,7 +34,6 @@
             "Lat": 38.714522, 
             "Lng": -9.156397
         }
-
     },
     {
         "id": 4,
@@ -46,7 +43,24 @@
             "Lat": 38.715514,
             "Lng": -9.154495
         }
-
+    },
+    {
+        "id": 5,
+        "km": 1,
+        "txt": "J’ai parcouru un kilomètre, et je suis déjà épuisé. Mais à partir d’ici, ça descend jusqu’au Tage, si je continue dans cette direction, ça ira. J’avais oublié jusqu’à l’existence de cette boutique des tapis d’Arraiolos. J’avais même oublié l’existence d’Arraiolos, en vérité, sa butte sèche et ses énormes remparts qui encerclent et protègent un terre-plein herbeux avec, au milieu, une petite église blanc et bleu sans intérêt. Mes parents avaient acheté quelques-uns de ces tapis dans les années 1940 et 1950, ils couvraient de leurs couleurs vives et de leurs motifs naïfs les coffres en chêne dans lesquels on serrait alcools, cigares et jeux de cartes — je les revois dans l’ancienne cuisine de la maison familiale d’Évora, qu’on avait transformée en fumoir, alignés contre le mur de briques rouges.",
+        "LatLng": {
+            "Lat": 38.717721, 
+            "Lng": -9.151439
+        }
+    },
+    {
+        "id": 6,
+        "km": 1.5,
+        "txt": "La boutique d'antiquités de Manuel Crespo est fermée de grilles. Je me souviens de lui dans les années 2000, la plupart des statuts de sa boutique étaient là pour le décor : il vivait en vérité de la vente d’azulejos à l’unité. Il préférait des carreaux à motif unique, une étoile, un chardon, qu’il allait chercher dans les chantiers de rénovation des quartiers périphériques de la ville. Il les prétendait du XVIIIe siècle et vendait ça aux touristes, souvent des jeunes, qui peuplaient la Pensão Londres de l’autre côté de la rue. Il leur parlait un anglais ou un français scolaire et désuet, les accueillait en vérifiant du pouce et de l’index, par réflexe, la tenue du nœud « double Windsor » qui fermait sa cravate « regimental ». Et il ne dédaignait pas de traverser la rue avec eux pour aller dans leur chambre si l’occasion se présentait. Je me demande quel âge il a, aujourd’hui.",
+        "LatLng": {
+            "Lat": 38.715785,
+            "Lng": -9.146403
+        }
     }
 
 ]
