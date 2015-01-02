@@ -61,6 +61,24 @@
             "Lat": 38.715785,
             "Lng": -9.146403
         }
+    },
+    {
+        "id": 7,
+        "km": 2.1,
+        "txt": "Comme il agréable de pouvoir à nouveau emprunter ces escaliers. Lisbonne, quand on vieillit, devient plate, elle perd son relief, on se fait transporter en taxi vers les quartiers bas, ou sur le sommet de la colline d’en face. La vieillesse ne tasse pas seulement les os, elle écrase progressivement la ville, dont le malade voit de moins en moins clairement les pentes, comme une Afrique en marche arrière, qui se remplirait progressivement de taches blanches, de « terres inconnues » dont on ne sait plus rien, qui sont trop dangereuses pour qu’on s’y aventure. Mais avec des touristes portant Borsalino.",
+        "LatLng": {
+            "Lat": 38.713392, 
+            "Lng": -9.142068
+        }
+    },
+    {
+        "id": 8,
+        "km": 2.5,
+        "txt": "Je venais ici tous les samedis matin. Pas au café Nicola, qui était déjà le lieu snob qu’il est sans doute toujours, juste à côté, au Tabacaria Mónaco. J’achetais un cigare Punch, qu’on tirait de sa boite blanche et or avec, en son centre, le clown de la marque, en bonnet et costume à rayures, à ses pieds un chien à triste mine, bonnet à plumes colorées sur la tête et collerette Renaissance autour du cou. Je coupais le bout du cigare dans la boutique : la guillotine était une petite sculpture en forme de chat, accroupi sur le comptoir et dont on actionnait la queue avant de se pencher vers la statue de cette vieille femme dont la lampe, toujours allumée, attendait le bout de mon cigare. Tandis qu’on me rendait la monnaie, je soufflais une bouffée en direction du plafond, où des hirondelles voletaient autour de fils télégraphiques en trompe-l’œil. Je prenais mon Times Literary Supplement hebdomadaire sous le bras et je m’en allais, laissant le Nicola derrière moi, boire une cerise de l’autre côté de la place.",
+        "LatLng": {
+            "Lat": 38.713217, 
+            "Lng": -9.139497
+        }
     }
 
 ]
