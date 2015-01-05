@@ -74,11 +74,21 @@
     {
         "id": 8,
         "km": 2.5,
-        "txt": "Je venais ici tous les samedis matin. Pas au café Nicola, qui était déjà le lieu snob qu’il est sans doute toujours, juste à côté, au Tabacaria Mónaco. J’achetais un cigare Punch, qu’on tirait de sa boite blanche et or avec, en son centre, le clown de la marque, en bonnet et costume à rayures, à ses pieds un chien à triste mine, bonnet à plumes colorées sur la tête et collerette Renaissance autour du cou. Je coupais le bout du cigare dans la boutique : la guillotine était une petite sculpture en forme de chat, accroupi sur le comptoir et dont on actionnait la queue avant de se pencher vers la statue de cette vieille femme dont la lampe, toujours allumée, attendait le bout de mon cigare. Tandis qu’on me rendait la monnaie, je soufflais une bouffée en direction du plafond, où des hirondelles voletaient autour de fils télégraphiques en trompe-l’œil. Je prenais mon Times Literary Supplement hebdomadaire sous le bras et je m’en allais, laissant le Nicola derrière moi, boire une cerise de l’autre côté de la place.",
+        "txt": "Je venais ici tous les samedis matin. Pas au café Nicola, qui était déjà le lieu snob qu’il est sans doute toujours, mais juste à côté, au Tabacaria Mónaco. J’achetais un cigare Punch, à l'unité : monsieur Crespo ouvrait la belle boite blanche et or avec, en son centre, le clown de la marque, en bonnet et costume à rayures, à ses pieds un chien à triste mine, bonnet à plumes colorées sur la tête et collerette Renaissance autour du cou, il la faisait pivoter vers moi et me laisser choisir mon cigare. J'en coupais immédiatement le bout, dans la boutique même : la guillotine était une petite sculpture en forme de chat, accroupi sur le comptoir et dont on actionnait la queue. Je me penchais ensuite vers une statue de vieille femme dont la lampe, toujours allumée, s'offrait aux cigares des clients. Tandis qu’on me rendait la monnaie, je soufflais une bouffée grise et sèche en direction du plafond, où des hirondelles voletaient autour de fils télégraphiques en trompe-l’œil. Je prenais mon Times Literary Supplement hebdomadaire sous le bras et je m’en allais, laissant le Nicola derrière moi, boire une cerise à l'eau de vie de l’autre côté de la place.",
         "LatLng": {
             "Lat": 38.713217, 
             "Lng": -9.139497
         }
+    },
+    {
+        "id": 9,
+        "km": 3,
+        "txt": "Je descendais jusqu’à la Terrasse du Palais en flânant, mon Times Literary Supplement toujours sous le coude comme une baguette de pain. Je n’avais pas encore regardé la table des matières, j’étais dans le plaisir de l’anticipation des articles qui allaient remplir les trois heures à venir. J’allais au Café des Arcades, en bas de la rue, sur la Place du Commerce. Terrasse du Palais, Place du Commerce, Rue de l’Or, Rue de l’Argent, Rue de l’Arsenal, les ministères de la Défense, de la Marine, de l’Agriculture, de la Justice, la Cour d’appel de Lisbonne. La Banque du Portugal, la rue des Doreurs. À l’angle de la rue du Commerce et de la rue de l’Argent se tenait le siège de la banque BNU. C’est un musée, maintenant. Mon ami, Cristino da Silva, y travaillait. Je le vois encore, extrêmement grand, maigre et beau, coiffé avec le soin d’un jeune garçon que sa mère a préparé pour quelque cérémonie, debout derrière l’immense comptoir de marbre de la banque, une vague qui ondulait comme une corolle couvrant tout le rez-de-chaussée de l’immeuble. J’avais rencontré Cristino au tennis-club d’Estoril, en un temps où les raquettes étaient maintenues par des presses, deux trapèzes qu’on vissait ensemble, de part et d’autre du cordage en boyaux, avec des boulons papillons. Ce qui, rétrospectivement, pourrait vous faire croire que nous n’étions pas réellement à Lisbonne, mais dans une sorte de jardin portugais des Fizzi-Contini. Rien ne serait plus faux.",
+        "LatLng": {
+            "Lat": 38.709224, 
+            "Lng": -9.137185
+        }
     }
 
+    
 ]
