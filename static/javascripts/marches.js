@@ -70,8 +70,6 @@ $( document ).ready(function() {
 			} else if ((part_id < marcheurs.length -1) && (step_id >= data.length -1)) {
 				// change button
 				$('#marches_next_icon').hide();
-				console.log(marcheurs[my_part_id+1]);
-
 				$('#marches_next_marcheur').html('<p>'+marcheurs[my_part_id+1]+'</p>').show();
 			} else {
 				$('#marches_next_marcheur').hide();
@@ -113,5 +111,13 @@ $( document ).ready(function() {
         var panorama = new google.maps.StreetViewPanorama(document.getElementById('pano'),panoramaOptions);
         map.setStreetView(panorama);
 	}
+
+
+	// toggle of txt + maps to see background image
+	$('#marches_h2').click(function() {
+		$('#txt_maps').toggle("slow", function() {
+			// Animation complete
+		});
+	});
 
 });
