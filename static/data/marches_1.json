@@ -106,6 +106,15 @@
             "Lat": 38.711245,
             "Lng": -9.127966
         }
+    },
+    {
+        "id": 12,
+        "km": 4.5,
+        "txt": "Je ne suis pas mécontent de quitter l’Alfama, je n’ai jamais aimé ce quartier. Non pas parce qu’il est populaire, mais parce que c’est au cœur de Lisbonne une sorte de village arriéré tenu par les curés et les matrones. Je préfère les ouvriers, les hommes qui mangent des omelettes et des œufs entre deux travaux, qui portent et qui poussent, qui s’appellent et s’invectivent. Mais il n’y a plus non plus d’ouvriers ici. Ils sont tous morts, comme mon précepteur, monsieur Hampton, et notre cuisinière, mademoiselle Rosine. Il reste le fleuve, et sur ma gauche le Panthéon National et ses locataires — comme dans le film avec Peter O’Toole dont j’ai déjà parlé, ce sont, parmi les Portugais morts, les mieux logés : quelques Présidents de la République sans intérêt, quelques écrivains, dont le poète Guerra Junqueiro que mon père, qui avait toujours les goûts avancés de la génération d’avant la sienne, aimait tant, et les deux femmes que j’ai le plus aimées, Amália Rodrigues et Sophia de Mello Breyner Andresen. J’aime l’idée qu’elles sont bien logées dans l’au-delà, et aussi l’idée qu’elles surveillent le fleuve.",
+        "LatLng": {
+            "Lat": 38.712241,
+            "Lng": -9.124062
+        }
     }
 
     
