@@ -119,10 +119,19 @@
     {
         "id": 13,
         "km": 5,
-        "txt": "La surveillance du fleuve ne demande pourtant plus beaucoup d’attention : la zone portuaire ressemble maintenant à un parking de supermarché, où des navires de la compagnie Boxline alignent des containers uniformes en piles ordonnées, qui n’attendent plus que les roues d’un semi-remorque pour les porter vers les zones commerciales, où on les ouvrira pour y prendre les plus petites boîtes de marchandises, qu’on vendra dans des magasins eux-mêmes en forme de boîte. Dante a pensé l’enfer comme cercle et spirale descendante. Si l’on doit le penser aujourd’hui — sans nécessité aucune — on trouve des analogies avec ces formes standardisées. La boîte a mangé le monde de jadis, que l’intelligence des machines digère maintenant. C’est pour cela aussi que je veux aller au Parc des Nations, et y aller en longeant le fleuve : parce que je n’y ai aucun souvenir, que je n’y allais jamais du temps que je marchais, et aussi parce que j’aime la propreté.",
+        "txt": "La surveillance du fleuve ne demande pourtant plus beaucoup d’attention : la zone portuaire ressemble maintenant à un parking de supermarché, où des navires de la compagnie Boxline alignent des containers uniformes en piles ordonnées, qui n’attendent plus que les roues d’un semi-remorque pour les porter vers les zones commerciales, où on les ouvrira pour y prendre les plus petites boîtes de marchandises, qu’on vendra dans des magasins eux-mêmes en forme de boîte. Dante a pensé l’enfer comme cercle et spirale descendante. Si l’on doit le penser aujourd’hui — sans nécessité aucune — on trouve des analogies avec ces formes standardisées. La boîte a mangé le monde de jadis, que l’intelligence des machines digère maintenant. J'ai choisi d'aller au Parc des Nations, et d'y aller en longeant le fleuve précisement parce que je n’y ai aucun souvenir, que je n’y allais jamais du temps que je marchais, et aussi parce que j’aime la propreté.",
         "LatLng": {
             "Lat": 38.715631,
             "Lng": -9.120211
+        }
+    },
+    {
+        "id": 14,
+        "km": 6,
+        "txt": "Le monde des boites n’a pas de graduation. J’ai toujours appartenu aux classes supérieures, celles des clubs de tennis, des promenades à Cintra et des domaines familiaux dans l’Alentejo, mais j’ai très souvent pris mes amants dans les classes inférieures à la mienne : ils avaient leur chambre dans les maisons à un étage des petites rues coincées entre le Campo Pequeno et les entrepôts d’autobus, les deux petites marches pour accéder au seuil, les décorations du béton coffré et les étroites fenêtres de salle de bain protégées de barreaux à motifs de fleurs, peints en blanc. Tout cela a disparu : vous vivez aujourd’hui dans la boite ou en dehors, et le long du fleuve, entre les voies ferrées et l’autoroute, on a construit un trottoir pavé de pierres lentement taillées à la main et positionnées une à une par quelque ouvrier fantôme.",
+        "LatLng": {
+            "Lat": 38.722387,
+            "Lng": -9.113653
         }
     }
 
