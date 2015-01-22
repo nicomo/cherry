@@ -128,13 +128,21 @@
     {
         "id": 14,
         "km": 6,
-        "txt": "Le monde des boites n’a pas de graduation. J’ai toujours appartenu aux classes supérieures, celles des clubs de tennis, des promenades à Cintra et des domaines familiaux dans l’Alentejo, mais j’ai très souvent pris mes amants dans les classes inférieures à la mienne : ils avaient leur chambre dans les maisons à un étage des petites rues coincées entre le Campo Pequeno et les entrepôts d’autobus, les deux petites marches pour accéder au seuil, les décorations du béton coffré et les étroites fenêtres de salle de bain protégées de barreaux à motifs de fleurs, peints en blanc. Tout cela a disparu : vous vivez aujourd’hui dans la boite ou en dehors, et le long du fleuve, entre les voies ferrées et l’autoroute, on a construit un trottoir pavé de pierres lentement taillées à la main et positionnées une à une par quelque ouvrier fantôme.",
+        "txt": "Le monde des boites n’a pas de gradations. J’ai toujours appartenu aux classes supérieures, celles des clubs de tennis, des promenades à Cintra et des domaines familiaux dans l’Alentejo, mais j’ai très souvent pris mes amants dans les classes inférieures à la mienne : ils avaient leur chambre dans les maisons à un étage des petites rues coincées entre le Campo Pequeno et les entrepôts d’autobus, au Nord de la ville; je me souviens des deux petites marches pour accéder au seuil, des décorations du béton coffré et des étroites fenêtres de salle de bain protégées de barreaux, à motifs de fleurs, peints en blanc. Tout cela a disparu : nous ne vivons plus aujourd’hui le long d'une échelle, mais dans la boite ou en dehors, et le long du fleuve, entre les voies ferrées et l’autoroute, on a construit un trottoir pavé de pierres lentement taillées à la main, et positionnées une à une, à grands frais, par quelque ouvrier fantôme.",
+        "LatLng": {
+            "Lat": 38.722387,
+            "Lng": -9.113653
+        }
+    },
+    {
+        "id": 15,
+        "km": 7,
+        "txt": "Quand il y avait jadis de la sagesse, du bonheur, du désir, de l’angoisse, il y a maintenant des nombres : indices, marqueurs, ratios de peur, pourcentages d’amour, l’information a remplacé tant la connaissance que la culture. On ne marche plus, d’ailleurs, on parcourt des kilomètres ; et le calme qu’on en tire, un chiffre le capture tout entier. L’homosexualité du Lisbonne des années 1950 et 1960 ne se mesurait pas encore. On marchait pour ainsi dire à l’aveugle le long du quai, dans les odeurs de vase du Tage, dans l’oubli agencé de la sanction et dans l’incompréhension de l’avenir, qui devait advenir sans que personne nous l’ait offert. Il ne fallait pas lutter, on nous offrit, trop tard pour moi, le Nouveau Monde en même temps qu’on annihilait le monde qui m’avait bercé jusqu’ici. Il reste des peintures, des silos, des couloirs de bus sans bus et des rues sans personne.",
         "LatLng": {
             "Lat": 38.722387,
             "Lng": -9.113653
         }
     }
-
 
 
     
