@@ -16,8 +16,8 @@ $( document ).ready(function() {
 		console.log("no cookie");
 		part_id = 0
 		step_id = 0;
-		$.cookie('nicomo_marches_part_id', part_id, { expires: 20 });		
-		$.cookie('nicomo_marches_step_id', step_id, { expires: 20 });
+		$.cookie('nicomo_marches_part_id', part_id, { path: '/marches', expires: 20 });		
+		$.cookie('nicomo_marches_step_id', step_id, { path: '/marches', expires: 20 });
 	};
 
 	// init page content for 1st time
@@ -44,11 +44,13 @@ $( document ).ready(function() {
 				'background-size': 'cover'
 			});
 
-			// insert name of character (hardcoded, could not be bothered...)
+			// insert name of character
 			
-			var marcheurs = ["Jean", "João"];
+			var marcheurs = ["Jean, Charleville-Mézières", "João, Lisbonne"];
+			console.log('marcheur length: ' + marcheurs.length + ' / partid: ' + my_part_id);
+
 			$('#marcheur').html(marcheurs[my_part_id]);
-			
+			console.log(marcheurs[parseInt(my_part_id)+1]);
 
 			// kilometer value in title
 			var km = data[my_step_id].km;
@@ -70,7 +72,7 @@ $( document ).ready(function() {
 			} else if ((part_id < marcheurs.length -1) && (step_id >= data.length -1)) {
 				// change button
 				$('#marches_next_icon').hide();
-				$('#marches_next_marcheur').html('<p>'+marcheurs[my_part_id+1]+'</p>').show();
+				$('#marches_next_marcheur').html('<p>'+marcheurs[parseInt(my_part_id)+1]+'</p>').show();
 			} else {
 				$('#marches_next_marcheur').hide();
 				$('#marches_next_icon').show();
@@ -82,13 +84,13 @@ $( document ).ready(function() {
 	$("#marches_next").on('touchstart click', function(){
 		if(step_id >= data_length -1) {
 			step_id = 0;
-			$.cookie('nicomo_marches_step_id', step_id, { expires: 25 });
+			$.cookie('nicomo_marches_step_id', step_id, { path: '/marches', expires: 25 });
 			++part_id;
-			$.cookie('nicomo_marches_part_id', part_id, {expires: 25});
+			$.cookie('nicomo_marches_part_id', part_id, { path: '/marches', expires: 25});
 		} else {
 			// increment the step_id and update the cookie	
 			++step_id;
-			$.cookie('nicomo_marches_step_id', step_id, { expires: 25 });
+			$.cookie('nicomo_marches_step_id', step_id, { path: '/marches', expires: 25 });
 		}
 		// update data in page
 		src_initialize(part_id, step_id);

@@ -158,12 +158,18 @@ nav#main-nav {
 }
 
 /* line 60, ../../cherrypass/sass/_layout.scss */
+.home-section-more.marches_menu {
+  padding: 1em;
+  border-top: 1px solid #ddd;
+}
+
+/* line 65, ../../cherrypass/sass/_layout.scss */
 .main-content {
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-/* line 65, ../../cherrypass/sass/_layout.scss */
+/* line 70, ../../cherrypass/sass/_layout.scss */
 figure, .marches_map {
   margin-top: 1em;
   margin-bottom: 1em;
@@ -173,7 +179,7 @@ figure, .marches_map {
   box-shadow: 0px 0px 5px #dddddd;
 }
 
-/* line 72, ../../cherrypass/sass/_layout.scss */
+/* line 77, ../../cherrypass/sass/_layout.scss */
 #marches_txt {
   border: 1px solid #dddddd;
   -webkit-box-shadow: 0px 0px 5px #dddddd;
@@ -181,13 +187,13 @@ figure, .marches_map {
   box-shadow: 0px 0px 5px #dddddd;
 }
 
-/* line 77, ../../cherrypass/sass/_layout.scss */
+/* line 82, ../../cherrypass/sass/_layout.scss */
 .page-intro {
   overflow: hidden;
 }
 
 @media screen and (min-width: 960px) {
-  /* line 81, ../../cherrypass/sass/_layout.scss */
+  /* line 86, ../../cherrypass/sass/_layout.scss */
   .page-intro figure {
     float: left;
     max-width: 50%;
@@ -196,28 +202,28 @@ figure, .marches_map {
 }
 
 @media screen and (min-width: 960px) {
-  /* line 89, ../../cherrypass/sass/_layout.scss */
+  /* line 94, ../../cherrypass/sass/_layout.scss */
   .page-intro p {
     margin: 1em;
   }
 }
 
-/* line 95, ../../cherrypass/sass/_layout.scss */
+/* line 100, ../../cherrypass/sass/_layout.scss */
 .content-img {
   max-width: 100%;
 }
 
-/* line 99, ../../cherrypass/sass/_layout.scss */
+/* line 104, ../../cherrypass/sass/_layout.scss */
 figcaption {
   padding: 0.444em;
 }
 
-/* line 104, ../../cherrypass/sass/_layout.scss */
+/* line 109, ../../cherrypass/sass/_layout.scss */
 .section-header {
   margin: 1em 0;
 }
 
-/* line 108, ../../cherrypass/sass/_layout.scss */
+/* line 113, ../../cherrypass/sass/_layout.scss */
 .section-header-txt {
   float: left;
 }
@@ -233,29 +239,29 @@ html#marches {
   	-o-background-size: cover;
   	background-size: cover;
 }*/
-/* line 124, ../../cherrypass/sass/_layout.scss */
+/* line 129, ../../cherrypass/sass/_layout.scss */
 #marches_maps {
   float: right;
 }
 
-/* line 128, ../../cherrypass/sass/_layout.scss */
+/* line 133, ../../cherrypass/sass/_layout.scss */
 #marches_txt {
   float: left;
   width: 60%;
   margin-right: 1em;
 }
 
-/* line 134, ../../cherrypass/sass/_layout.scss */
+/* line 139, ../../cherrypass/sass/_layout.scss */
 #marches_next {
   text-align: center;
 }
 
-/* line 138, ../../cherrypass/sass/_layout.scss */
+/* line 143, ../../cherrypass/sass/_layout.scss */
 #marches_next img {
   width: 3em;
 }
 
-/* line 142, ../../cherrypass/sass/_layout.scss */
+/* line 147, ../../cherrypass/sass/_layout.scss */
 footer {
   border-top: 1px solid #dddddd;
   text-align: right;
@@ -356,25 +362,30 @@ p {
 }
 
 /* line 91, ../../cherrypass/sass/_typography.scss */
+.home-section-more.marches_menu p {
+  margin: 0px;
+}
+
+/* line 95, ../../cherrypass/sass/_typography.scss */
 figcaption {
   font-family: "Lato", Helvetica, sans-serif;
   font-size: 0.555em;
   text-align: right;
 }
 
-/* line 97, ../../cherrypass/sass/_typography.scss */
+/* line 101, ../../cherrypass/sass/_typography.scss */
 li {
   padding-bottom: 0.555em;
   padding-left: 1.249em;
   text-indent: -1.249em;
 }
 
-/* line 104, ../../cherrypass/sass/_typography.scss */
+/* line 108, ../../cherrypass/sass/_typography.scss */
 .symbol {
   font-size: 2.25em;
 }
 
-/* line 108, ../../cherrypass/sass/_typography.scss */
+/* line 112, ../../cherrypass/sass/_typography.scss */
 .symbol, a.symbol:before {
   font-family: 'Mono Social Icons Font';
   -webkit-text-rendering: optimizeLegibility;
@@ -389,29 +400,29 @@ li {
   font-smoothing: antialiased;
 }
 
-/* line 123, ../../cherrypass/sass/_typography.scss */
+/* line 127, ../../cherrypass/sass/_typography.scss */
 a.symbol:before {
   content: attr(title);
   margin-right: 0.2em;
   font-size: 130%;
 }
 
-/* line 129, ../../cherrypass/sass/_typography.scss */
+/* line 133, ../../cherrypass/sass/_typography.scss */
 a {
   text-decoration: none;
 }
 
-/* line 133, ../../cherrypass/sass/_typography.scss */
+/* line 137, ../../cherrypass/sass/_typography.scss */
 .date {
   font-style: italic;
 }
 
-/* line 137, ../../cherrypass/sass/_typography.scss */
+/* line 141, ../../cherrypass/sass/_typography.scss */
 .title {
   font-style: italic;
 }
 
-/* line 141, ../../cherrypass/sass/_typography.scss */
+/* line 145, ../../cherrypass/sass/_typography.scss */
 footer p {
   font-size: 0.832em;
   font-style: italic;
