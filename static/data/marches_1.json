@@ -137,15 +137,29 @@
     {
         "id": 15,
         "km": 7,
-        "txt": "Quand il y avait jadis de la sagesse, du bonheur, du désir, de l’angoisse, il y a maintenant des nombres : indices, marqueurs, ratios de peur, pourcentages d’amour, l’information a remplacé tant la connaissance que la culture. On ne marche plus, d’ailleurs, on parcourt des kilomètres ; et le calme qu’on en tire, un chiffre le capture tout entier. L’homosexualité du Lisbonne des années 1950 et 1960 ne se mesurait pas encore. On marchait pour ainsi dire à l’aveugle le long du quai, dans les odeurs de vase du Tage, dans l’oubli agencé de la sanction et dans l’incompréhension de l’avenir, qui devait advenir sans que personne nous l’ait offert. Il ne fallait pas lutter, on nous offrit, trop tard pour moi, le Nouveau Monde en même temps qu’on annihilait le monde qui m’avait bercé jusqu’ici. Il reste des peintures, des silos, des couloirs de bus sans bus et des rues sans personne.",
+        "txt": "Quand il y avait jadis de la sagesse, du bonheur, du désir, de l’angoisse, il y a maintenant des nombres : indices, marqueurs, ratios de peur, pourcentages de respirabilité de l’air, l’information a remplacé tant la connaissance que la culture. On ne marche plus, d’ailleurs, on parcourt des distances ; et le calme qu’on en tire, un chiffre le capture tout entier — sans ironie. L’homosexualité du Lisbonne des années 1950 et 1960 ne se mesurait pas encore. On marchait pour ainsi dire à l’aveugle le long du quai, dans les odeurs de vase du Tage, dans l’oubli agencé de la sanction et dans l’incompréhension de l’avenir, qui devait advenir sans que personne nous l’ait offert. Il ne fallait pas lutter, on nous offrit, trop tard pour moi, le Nouveau Monde en même temps qu’on injectait dans l’ancienne société des seringues entières de résine et de cire d’abeille. Il reste des peintures, des silos, des couloirs de bus sans bus et des rues sans personne.",
         "LatLng": {
             "Lat": 38.722387,
             "Lng": -9.113653
         }
+    },
+    {
+        "id": 16,
+        "km": 8,
+        "txt": "On entrepose là toute l’Afrique : le Nil mis en boîte par les Néerlandais. L’Afrique, mais pas les Africains. Ni l’Inde, qu’on trouve pourtant au bout de cette avenue, qui semble un chemin de nulle part, comme un sentier à six voies qui s’enfoncerait dans la forêt, dont on imagine qu’il n’aura bientôt plus que cinq voies, puis quatre, trois, deux, une, puis un envahissement d’herbe, puis plus rien. Une forêt exotique. Et de fait, on s’enfonce à la fois dans notre passé colonial — dans l’Empire jamais passé de notre pays, bavard sur sa tristesse et incapable de dire sa honte — et dans un vert océan. J’aime l’aquarium justement pour ça. Voir l’empire des océans mis en boîte, y passer une heure dans la pénombre.",
+        "LatLng": {
+            "Lat": 38.729040,
+            "Lng": -9.106839
+        }
+    },
+    {
+        "id": 17,
+        "km": 9,
+        "txt": "Voilà, exactement, ce monsieur a raison : il court. En sens inverse, mais peu importe, il a compris. Et j’aime particulièrement qu’il ait choisi de venir courir précisément ici, entre les entrepôts et l’autoroute, parmi les mauvaises herbes. Si j’avais quarante ans de moins, je ferais sans doute la même chose : mettre du carburant dans ce personnage publicitaire du joggeur à oreillettes et téléphone portable, le découper dans un catalogue, le coller dans une photographie de banlieue industrielle. Mais peu importe. Je divague. Entre les herbes. Je disais : l’aquarium. J’aimerais pouvoir y mourir, comme une bonne plaisanterie : « le petit-fils de l’Amiral du Portugal s’effondre à l’Océonarium de Lisbonne. » Je serais ainsi immanquablement logé, pour quelques semaines au moins, dans la suite voisine de celle de Peter O’Toole.",
+        "LatLng": {
+            "Lat": 38.737435,
+            "Lng": -9.102774
+        }
     }
-
-
-    
-
     
 ]
