@@ -155,10 +155,19 @@
     {
         "id": 17,
         "km": 9,
-        "txt": "Voilà, exactement, ce monsieur a raison : il court. En sens inverse, mais peu importe, il a compris. Et j’aime particulièrement qu’il ait choisi de venir courir précisément ici, entre les entrepôts et l’autoroute, parmi les mauvaises herbes. Si j’avais quarante ans de moins, je ferais sans doute la même chose : mettre du carburant dans ce personnage publicitaire du joggeur à oreillettes et téléphone portable, le découper dans un catalogue, le coller dans une photographie de banlieue industrielle. Mais peu importe. Je divague. Entre les herbes. Je disais : l’aquarium. J’aimerais pouvoir y mourir, comme une bonne plaisanterie : « le petit-fils de l’Amiral du Portugal s’effondre à l’Océonarium de Lisbonne. » Je serais ainsi immanquablement logé, pour quelques semaines au moins, dans la suite voisine de celle de Peter O’Toole.",
+        "txt": "Voilà, exactement, ce monsieur a raison : il court. En sens inverse, mais peu importe, il a compris. Et j’aime particulièrement qu’il ait choisi de venir courir ici, entre les entrepôts et l’autoroute, parmi les mauvaises herbes. Si j’avais quarante ans de moins, je ferais sans doute la même chose : mettre du carburant dans ce personnage publicitaire du joggeur à oreillettes et téléphone portable, le découper dans un catalogue, le coller dans une photographie de banlieue industrielle. Je divague moi aussi, mais peu importe : je vaguabonde entre les herbes. Je disais donc : l’aquarium. J’aimerais pouvoir y mourir, comme une bonne plaisanterie : « décès du petit-fils de l’Amiral du Portugal à l’Océonarium de Lisbonne. » Je serais ainsi immanquablement logé, pour quelques semaines au moins, dans la suite voisine de celle de Peter O’Toole, au second étage du luxueux hôtel des morts.",
         "LatLng": {
             "Lat": 38.737435,
             "Lng": -9.102774
+        }
+    },
+    {
+        "id": 18,
+        "km": 10,
+        "txt": "Dix kilomètres. Les douleurs mécaniques, l’impossibilité de la course, la peine à marcher, la difficulté à voir et conduire ne forment pas la partie principale de la souffrance de l’âge, qui consiste bien plutôt, et très étymologiquement, en un cholestérol de l’âme, une bile solide et alcoolisée qui encrasse les parois de l’esprit. L’image de Cristino da Silva est épaisse en moi, je le vois qui court le long de la ligne blanche du court de tennis, avec une précision extraordinaire, je sens en moi les vibrations de son souffle quand il tape dans la balle. Mais cette route le long de laquelle je marche ? Elle ne mène nulle part, elle n’a aucune importance en dehors de son rôle de tension mécanique : un fil tendu vers le rêve flou de l’aquarium où mon corps flottera bientôt. Je sais que l’aquarium m'attend là tout prêt, à un ou deux kilomètres. Mais je ne parviens plus à en avoir envie : la fatigue niche en moi, et me contraindra bientôt à l’abandon.",
+        "LatLng": {
+            "Lat": 38.744006,
+            "Lng": -9.098079
         }
     }
     
