@@ -47,7 +47,7 @@
     {
         "id": 5,
         "km": 0.45,
-        "txt": "La Place Ducale, du Duc Charles de Charles-Ville, se trouve à droite en remontant la rue — là place du frère de l’architecte de la place des Vosges, ne manque-t-on pas de vous expliquer. Cette ville n’est importante que par ces exercices de six degrés de séparation. Sur la place Ducale, j’ai connu une statue monumentale de Charles de Gonzague, pommeau de canne pris dans la glace de l’hiver ardennais — mais on y a réinstallé depuis, paraît-il, une réplique de la petite fontaine qui s’y tenait jusqu’à la fin du XIXe siècle, la fontaine qu’Arthur connu, l’Arthur-fontaine. Et Charles a déménagé je ne sais où. Sa place reste, au bout de la rue du Petit Bois, allez-y voir. Je vous attendrai à l’Archange, le premier bar, d’ailleurs, que je vois en France entièrement aux couleurs de la Brasserie Nationale Luxembourgeoise Bofferding, qu’on brasse à 100 km de là. Je m’en vais goûter, je vous attends. Visitez.",
+        "txt": "La Place Ducale, du Duc Charles de Charles-Ville, se trouve à droite en remontant la rue — la place du frère de l’architecte de la place des Vosges, ne manque-t-on pas de vous expliquer. Cette ville n’est importante que par ces exercices de six degrés de séparation. Sur la place Ducale, j’ai connu une statue monumentale de Charles de Gonzague, pommeau de canne pris dans la glace de l’hiver ardennais — mais on y a réinstallé depuis, paraît-il, une réplique de la petite fontaine qui s’y tenait jusqu’à la fin du XIXe siècle, la fontaine qu’Arthur connu, l’Arthur-fontaine. Et Charles a déménagé je ne sais où. Sa place reste, au bout de la rue du Petit Bois, allez-y voir. Je vous attendrai à l’Archange, le premier bar, d’ailleurs, que je vois en France entièrement aux couleurs de la Brasserie Nationale Luxembourgeoise Bofferding, qu’on brasse à 100 km de là. Je m’en vais goûter, je vous attends. Visitez.",
         "LatLng": {
             "Lat": 49.772356,
             "Lng": 4.725822
@@ -56,7 +56,7 @@
     {
         "id": 6,
         "km": 0.45,
-        "txt": "Ce « Leader Price, première marque européenne », n’existait pas lors de mon dernier passage. Il a pris la place du Monoprix, qui lui-même usurpait les locaux des Magasins Réunis. Dans un bâtiment qu’on avait déjà défiguré, dans les années 1970, avec une façade métallique. On devine encore un peu de la façade du grand magasin du XIXè siècle. Les vitres passées au blanc, couvertes de papier opaque : le magasin ne regarde pas la rue. Comme ces boites de fer-blanc qui s’alignent le long des routes des banlieues de la ville, j’en croiserai d’autres sur mon chemin. On fait donc une boite de fer en centre-ville : on a passé au blanc d’Espagne les yeux énucléés du magasin. Tiens, d’ailleurs, la rue Forest dont je suis parti est devenue Avenue Forest : cette ville est blessée, mais se hausse du col.",
+        "txt": "Ce « Leader Price, première marque européenne », n’existait pas lors de mon dernier passage. Il a pris la place du Monoprix, qui lui-même usurpait les locaux des Magasins Réunis. Dans un bâtiment qu’on avait déjà défiguré, dans les années 1970, avec une façade métallique. On devine encore un peu de la façade du grand magasin du XIXè siècle. Les vitres couvertes de papier opaque : le magasin ne regarde pas la rue. Comme ces boites métalliques qui s’alignent le long des routes des banlieues de la ville, j’en croiserai d’autres sur mon chemin. On fait donc une boite de fer en centre-ville : on a passé au blanc d’Espagne les yeux énucléés du magasin. Tiens, d’ailleurs, la rue Forest dont je suis parti est devenue Avenue Forest : cette ville est blessée, mais se hausse du col.",
         "LatLng": {
             "Lat": 49.769565,
             "Lng": 4.724106
@@ -65,7 +65,7 @@
     {
         "id": 7,
         "km": 1.1,
-        "txt": "Il a neigé. Il y a des travaux sur le square de la gare. Mes arrières-grands-parents y tenaient, paraît-il, le débit de tabac. Je n’ai jamais vérifié. On me parlait des foules qui venaient, par le train du matin, des petites vallées environnantes, le long de la Meuse ou de la Semoy. Les trains qui se remplissent aujourd’hui sont sans doute plutôt ceux qui quittent la ville. Vers Reims et Paris. Pas foule dans les rues. Il y a plus de voitures que d’habitants — tous, voitures et habitants, ont leur identité masquée, floutée, perdue. Un monsieur avec son bonnet enfoncé sur les oreilles devant la Caisse d’Allocations Familiales. Une Renault Clio, une Citröen que je ne reconnais pas, une Ford. Une dame avec un grand sac une dizaine de mètres derrière lui. Un courageux cycliste devant le bar. Vert lui aussi, mais Heineken cette fois.",
+        "txt": "Il a neigé. Il y a des travaux sur le square de la gare. Mes arrières-grands-parents y tenaient, paraît-il, le débit de tabac. Je n’ai jamais vérifié. On me parlait des foules qui venaient, par le train du matin, des petites vallées environnantes, le long de la Meuse ou de la Semoy. Les trains qui se remplissent aujourd’hui quittent plutôt la ville. Vers Reims et Paris. Pas foule dans les rues. Il y a plus de voitures que d’habitants — tous, voitures et habitants, montrent ici un visage masqué, flouté, une identité perdue. Un monsieur avec son bonnet enfoncé sur les oreilles devant la Caisse d’Allocations Familiales. Une Renault Clio, une Citröen que je ne reconnais pas, une Ford. Une dame avec un grand sac une dizaine de mètres derrière lui. Un courageux cycliste devant le bar. Vert lui aussi, mais Heineken cette fois.",
         "LatLng": {
             "Lat": 49.767277,
             "Lng": 4.722894
@@ -92,7 +92,7 @@
     {
         "id": 10,
         "km": 2.3,
-        "txt": "« Anadolu Kebab », en provenance d'Eskiehir, Turkey — 550 heures de marches d’ici, dit Google Maps, par le Luxembourg, l’Allemagne, l’Autriche, la Hongrie, la Serbie, la Bulgarie, on entre en Turquie à moins de 100 mètres de la frontière Grecque, sans jamais y entrer, le long de la rivière rouge et folle, Erythropotamos, qui marque la frontière, dans les arbres, un serpentin d’une dizaine de mètres entre les trois pays. « Nan’s Kebab » (Kebab, chez Nan) n’indique pas sa localisation. Comme « Ginseng — Chinois et Asiatique », un restaurant de partout et de nulle part. Et déjà le « faubourg », celui de la boulangerie, celui du bistrot un peu plus loin — Kronenbourg. « Charlotte Couture » a fermé, et je me demande ce qu’on a fait de la Charlotte en question.",
+        "txt": "« Anadolu Kebab », en provenance d'Eskiehir, Turkey — 550 heures de marches d’ici, dit Google Maps, par le Luxembourg, l’Allemagne, l’Autriche, la Hongrie, la Serbie, la Bulgarie, on entre en Turquie à moins de 100 mètres de la frontière Grecque, sans jamais y entrer, le long de la rivière rouge et folle, Erythropotamos, qui marque la frontière, dans les arbres, un serpentin de quelques brassées de large entre les trois pays. « Nan’s Kebab » (Kebab, chez Nan) ne dit pas d'où il vient. Comme « Ginseng — Chinois et Asiatique », un restaurant de partout et de nulle part. Et déjà le « faubourg », celui de la boulangerie, celui du bistrot un peu plus loin — Kronenbourg. « Charlotte Couture » a fermé, et je me demande ce qu’on a fait de la Charlotte en question.",
         "LatLng": {
             "Lat": 49.758145,
             "Lng": 4.717460
@@ -119,7 +119,7 @@
     {
         "id": 13,
         "km": 3.8,
-        "txt": "« Prix-Les-M. — Centre ». Difficile de dire de quel centre il s’agit : on parle en vérité d’un ancien village, rattrapé par le faubourg dont je sors, et devenu proche banlieue. Le centre en question, j’imagine, consiste en une rue principale où il y avait, jadis, la seule boulangerie du village. Une vieille peau mal aimable y vendait des malabars et des baguettes de la veille. Quand on voulait un gâteau, où ne serait-ce qu’une tarte au sucre, il fallait commander. Son mari sortait alors de son arrière-boutique pour promettre d’un grognement qu’il ferait bien le gâteau escompté. Mais pas avant 11 heures. Peut-être midi. Puis cette maison, à l’angle du village et de la route qu’empruntent ceux qui, sortant du boulot, rentrent chez eux, dans les villages des environs, devint boulangerie. Un jeune s’est installé. Il y a des places de parking, des baguettes du jour.",
+        "txt": "« Prix-Les-M. — Centre ». Difficile de dire de quel centre il s’agit : on parle en vérité d’un ancien village, rattrapé par le faubourg dont je sors, et devenu proche banlieue. Le centre en question, j’imagine, consiste en une rue principale où il y avait, jadis, la seule boulangerie du village. Une vieille peau mal aimable y vendait des malabars et des baguettes de la veille. Quand on voulait un gâteau, où ne serait-ce qu’une tarte au sucre, il fallait commander. Son mari sortait alors de son arrière-boutique pour promettre d’un grognement qu’il ferait bien le gâteau escompté. Demain. Pour 11 heures. Ou midi. Puis cette maison, à l’angle du village et de la route qu’empruntent ceux qui, sortant du boulot, rentrent chez eux, dans les villages des environs, devint boulangerie. Un jeune y a installé son ambition. Il y a des places de parking, des baguettes du jour.",
         "LatLng": {
             "Lat": 49.755172,
             "Lng": 4.699962
@@ -128,7 +128,7 @@
     {
         "id": 14,
         "km": 4.5,
-        "txt": "Ma première ferme, dont je me contenterai volontiers, a un aspect extérieur incroyablement propre. Fenêtres et portes neuves, avec encore des étiquettes collées sur l’intérieur. Dans l’appentis, un pick-up truck. Il y a bien un tracteur garé, immobile, dans le hangar au fond de la cour, mais en dehors de cela le vide a là son royaume : difficile de dire avec certitude si l’exploitation tourne encore. Un homme passe devant le tracteur, il téléphone. Pas de bêtes, pas de foin. Pas d’odeurs. Le trottoir, ici, a cédé la place à un simple bas-côté.",
+        "txt": "Ma première ferme, dont je me contenterai volontiers, comme mon rond-point, a un aspect extérieur incroyablement propre. Fenêtres et portes neuves, avec encore des étiquettes collées sur l’intérieur des vitres. Dans l’appentis, un pick-up truck. Il y a bien un tracteur garé, immobile, dans le hangar au fond de la cour, mais en dehors de cela, difficile de dire avec certitude si l’exploitation tourne encore. Un homme passe devant le tracteur, il téléphone. Pas de bêtes, pas de foin. Pas d’odeurs. Le trottoir, ici, a cédé la place à un simple bas-côté.",
         "LatLng": {
             "Lat": 49.750514,
             "Lng": 4.693262
@@ -137,7 +137,7 @@
     {
         "id": 15,
         "km": 5.2,
-        "txt": "L’absurde maison bourgeoise de mon frère. Tellement prétentieux qu’il ne prend pas la peine de se cacher derrière un haut mur, il vous éloigne tout simplement d’une petite barrière blanche, de quelques arbres et d’une bonne étendue de pelouse. Il doit avoir atteint la retraite maintenant. Et continuer de se lever à 6 h en toute saison. Je me souviens qu’il allait, en attendant que le café coule, faire son relevé de bénévole pour Météo France, avec son petit équipement, le thermomètre, le pluviomètre, le carnet dans son abri en bois, sur l’arrière de la maison, surplombant la ville qui s’étend au nord. M’a toujours emmerdé, le premier de la classe. Je vais au moins pisser sur sa clôture avant de continuer ma route.",
+        "txt": "L’absurde maison bourgeoise de mon frère. Tellement prétentieux qu’il ne prend pas la peine de se cacher derrière un haut mur, il vous éloigne tout simplement d’une petite barrière blanche, de quelques arbres et d’une bonne étendue de pelouse. Il doit avoir atteint la retraite maintenant. Et continuer de se lever à 6 h en toute saison. Je me souviens qu’il allait, en attendant que le café coule, faire son relevé de bénévole pour Météo France, avec son petit équipement, le thermomètre, le pluviomètre, le carnet dans son abri en bois, sur l’arrière de la maison, surplombant la ville qui s’étend au nord. M’a toujours emmerdé, le premier de la classe. Je vais au moins pisser sur sa clôture avant de continuer ma route, je lui dois bien ça, en hommage.",
         "LatLng": {
             "Lat": 49.746449, 
             "Lng": 4.686800
@@ -155,7 +155,7 @@
     {
         "id": 17,
         "km": 6.3,
-        "txt": "La maison Delteil. Il avait sa petite barrière blanche lui aussi, et un portail de la même couleur. J’allais là couper la pelouse avec le tracteur de mon père, et tailler les arbres pour me faire un peu d’argent de poche. Il doit avoir passé l’arme à gauche, et les héritiers ont sans doute quitté la région : on a tout fermé, on rase tout pour faire quoi ? Une quatre voies ? Plus besoin de pisser sur sa clôture en tout cas, on l’a fait pour moi, on l’a écrabouillé, le père Delteil. En montant dans le champ un peu plus haut, il y avait un terrain de tennis. Et pendant longtemps des pancartes, un fantasme de construction de golf qui n’a jamais abouti à rien.",
+        "txt": "La maison Delteil. Il avait sa petite barrière blanche lui aussi, et un portail de la même couleur. J’y allais couper la pelouse avec le tracteur de mon père, et tailler les arbres pour me faire un peu d’argent de poche. Il doit avoir passé l’arme à gauche, et les héritiers ont sans doute quitté la région : on a tout fermé, on rase tout pour faire quoi ? Une quatre voies ? Plus besoin de pisser sur sa clôture en tout cas, on l’a fait pour moi, on l’a écrabouillé, le père Delteil. En montant dans le champ un peu plus haut, il y avait un terrain de tennis. Et pendant longtemps des pancartes, un fantasme de construction de golf qui n’a jamais abouti.",
         "LatLng": {
             "Lat": 49.741776, 
             "Lng": 4.674222
@@ -182,7 +182,7 @@
     {
         "id": 20,
         "km": 8.1,
-        "txt": "Le premier village qu’on rencontre à la sortie de la ville s’appelle Warnécourt — prononcez Ouarnécour, un groupe de grosses fermes de réforme, solides comme les Percherons qu’elles n’abritent plus, et toujours personne dans les rues, ni hommes, ni bêtes, quelques voitures garées, pas de circulation, seulement les anciennes fermes en belle pierre jaune des carrières locales, qui ont vu passer plusieurs centaines de mois d’avril comme celui-ci, il fait beau, pas trop chaud, parfait pour marcher. À droite, en contrebas, je me souviens de l’église et, à quelques kilomètres à peine un autre village, Neuville-les-Thys, où j’allais parfois jouer au foot. Nous portions le maillot bleu outremer de l’Écosse, avec le lion rampant dans un blason de poitrine et le nom d’une entreprise locale de peinture en blanc et rouge dans le dos. Il me fallait une demi-heure avec ma mobylette pour aller à l’entraînement.",
+        "txt": "Le premier village qu’on rencontre à la sortie de la ville s’appelle Warnécourt — prononcez Ouarnécour, un ensemble de grosses fermes de réforme, solides comme les Percherons qu’elles n’abritent plus, et toujours personne dans les rues, ni hommes, ni bêtes, quelques voitures garées, pas de circulation, seulement les anciennes fermes en belle pierre jaune des carrières locales, qui ont vu passer plusieurs centaines de mois d’avril comme celui-ci, il fait beau, pas trop chaud, parfait pour marcher. À droite, en contrebas, je me souviens de l’église et, à quelques kilomètres à peine un autre village, Neuville-les-Thys, où j’allais parfois jouer au foot. Nous portions le maillot bleu outremer de l’Écosse, avec le lion rampant dans un blason de poitrine et le nom d’une entreprise locale de peinture en blanc et rouge dans le dos. Il me fallait une demi-heure pour aller à l’entraînement avec ma mobylette.",
         "LatLng": {
             "Lat": 49.731942, 
             "Lng": 4.654439
@@ -191,7 +191,7 @@
     {
         "id": 21,
         "km": 8.2,
-        "txt": "Quand nous partîmes pour de bon, tirant tout droit dans la côte, Jean-Marc conduisait. Lui seul avait le permis. Et une Ami 8, récupérée à la casse et bricolée chez son frère qui tenait un garage. Elle sentait l’huile et l’humidité. Nous nous tassâmes à cinq, toutes fenêtres ouvertes — avec la ventilation en panne, si l’on fermait la buée qu’on faisait là-dedans empêchait d’y voir à dix mètres. On chantait pour se réchauffer. Dans la côte, l’Ami roulait moins vite qu’un tracteur, mais arrivé en haut, sur le plateau, nous n’avions plus aucune raison de nous retourner. La campagne m’a toujours emmerdée, je détestais les paysans.",
+        "txt": "Quand nous partîmes pour de bon, tirant tout droit dans la côte, Jean-Marc conduisait. Lui seul avait le permis. Et une Ami 8, récupérée à la casse et bricolée chez son frère qui tenait un garage. Elle sentait l’huile et l’humidité. Nous nous tassâmes à cinq, toutes fenêtres ouvertes — avec la ventilation en panne, si l’on fermait, la buée qu’on faisait là-dedans empêchait d’y voir à dix mètres. On chantait pour se réchauffer. Dans la côte, l’Ami roulait moins vite qu’un tracteur, mais arrivé en haut, sur le plateau, nous n’avions plus aucune raison de nous retourner. La campagne m’a toujours emmerdée, je détestais les paysans.",
         "LatLng": {
             "Lat": 49.731942, 
             "Lng": 4.654439
@@ -209,7 +209,7 @@
     {
         "id": 23,
         "km": 10.8,
-        "txt": "Le ciel arrivé sur le plateau respirait bleu comme il fait toujours, un aplat de futur par-dessus les bosquets, les fermes restaient dissimulées dans notre histoire et entre les arbres, on les voit, elles nous tirent en arrière, mais on ne veut pas s’arrêter, pas même pour penser à ceux qui y vivent. On a peur de grandir sur ce bord de route. On part.",
+        "txt": "Le ciel arrivé sur le plateau respirait bleu comme il fait toujours, un aplat de futur par-dessus les bosquets, les fermes restaient dissimulées dans notre histoire et entre les arbres, on les voit, elles nous tirent en arrière, on ne veut donc pas s’y arrêter, pas même pour penser à ceux qui y vivent. On a peur de grandir sur ce bord de route. On part.",
         "LatLng": {
             "Lat": 49.713616,
             "Lng": 4.632593
