@@ -46,7 +46,7 @@ $( document ).ready(function() {
 
 			// insert name of character
 			
-			var marcheurs = ["Jean, Charleville-Mézières", "João, Lisbonne"];
+			var marcheurs = ["Jean, Charleville-Mézières", "João, Lisbonne", "Jan, Magadan"];
 			console.log('marcheur length: ' + marcheurs.length + ' / partid: ' + my_part_id);
 
 			$('#marcheur').html(marcheurs[my_part_id]);
