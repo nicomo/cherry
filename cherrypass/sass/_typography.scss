@@ -59,10 +59,16 @@ h2, #marches_next_marcheur {
   font-size: 1.5em;
 }
 
-html#marches h2, #marches_txt, #marches_next  {
+#marches_header, #marches_txt, #marches_next  {
   background-color: rgba(250,250,250,0.75);
   padding: 0.666em;
   margin-bottom: 1em;
+}
+
+#marches_show, #marches_hide {
+  font-family: $font-sans;
+  font-size: 1.5em;
+  text-align: center;
 }
 
 h3 {

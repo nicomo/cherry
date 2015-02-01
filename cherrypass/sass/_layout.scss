@@ -114,17 +114,13 @@ figcaption {
 	float: left;
 }
 
-/*
-* HANDLED BY JQUERY IN marches.js
-*
-html#marches {
-	//background: url(../images/marches_img/marches_1_1.png) no-repeat center center fixed; 
-	// set by jquery
-	-webkit-background-size: cover;
-  	-moz-background-size: cover;
-  	-o-background-size: cover;
-  	background-size: cover;
-}*/
+#marches_h2 {
+	float: left;
+}
+
+#marches_hide {
+	display:none;
+}
 
 #marches_maps {
 	float: right;

@@ -116,10 +116,18 @@ $( document ).ready(function() {
 
 
 	// toggle of txt + maps to see background image
-	$('#marches_h2').click(function() {
+	$('#marches_header').click(function() {
 		$('#txt_maps').toggle("slow", function() {
 			// Animation complete
 		});
+
+		if ($('#marches_show').is(":visible")) {
+			$('#marches_show').css("display","none");
+			$('#marches_hide').css("display","block");
+		} else {
+			$('#marches_show').css("display","block");
+			$('#marches_hide').css("display","none");
+		};
 	});
 
 });
