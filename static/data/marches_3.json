@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "km": 0,
+        "txt": "Le vieux monsieur Leys tenait ce salon de coiffure, qu’il ouvrait un ou deux jours par semaine. Il y recevait ses amis, des retraités comme lui, et discutait en leur coupant les cheveux. Un peu de sport, beaucoup de politique et parfois aussi des femmes, comme font les septuagénaires. Sa famille avait des liens de cousinade, à un degré de séparation indéterminé, avec la famille de ma grand-mère maternelle. Ces juifs orthodoxes parisiens avaient ainsi accueilli le rejeton d’une vieille famille socialiste israélienne venu à Paris finir sa thèse d’informatique à l’école des Télécoms : un arrière-grand-oncle polonais qui avait appartenu au Bund dans les années 1900 faisait office de lien.",
+        "LatLng": {
+            "Lat": 48.887754,
+            "Lng": 2.392281
+        }
+    },
+    {
+        "id": 1,
+        "km": 0.1,
+        "txt": "Monsieur Leys et sa fille, qui travaillait comme institutrice à l’école Pierre et Marie Curie, dans la ville Communiste de Bagnolet, de l’autre côté du boulevard périphérique, m’avaient aidé à trouver un petit appartement d’une pièce, au numéro 5, dans la même rue que le salon de coiffure, à 100 mètres, sur l’autre trottoir. Lorsque je sortais de l’immeuble pour me promener, je tournais rarement à gauche vers le salon de coiffure, la station de métro et le centre de Paris, mais plutôt à droite, vers l’intérieur du quartier.",
+        "LatLng": {
+            "Lat": 48.886762, 
+            "Lng": 2.392709
+        }
+    },
+    {
+        "id": 2,
+        "km": 0.5,
+        "txt": "Mon premier appartement, étudiant à Paris ! J’aurais dû rayonner de vie et d’énergie. Mais la première promenade dont je me souviens clairement — ou les promenades, confondues en une seule dans ma mémoire — eut lieu non pas un joli jour de printemps comme aujourd’hui, mais une fin d’après-midi d’hiver, la nuit déjà tombée, de gros flocons tombant lentement sur la ville pétrifiée. Une fine couche de neige commençait à recouvrir les voitures garées le long du supermarché cacher.",
+        "LatLng": {
+            "Lat": 48.884691, 
+            "Lng": 2.392035
+        }
+    },
+    {
+        "id": 3,
+        "km": 0.6,
+        "txt": "Je montais la rue d’Alsace-Lorraine, de ces rues qu’on a percées dans le Paris des faubourgs des années 1880, et nommées avec la ferveur patriotique du temps. Du côté droit de la pente subsistaient quelques-uns des immeubles d’origine, en brique rouge, à trois niveaux, plus une mansarde. À gauche, des barres d’HLM sans âge. Entre les deux, de ces grands bacs à poubelle, verts par ironie, qu’on trouve partout à Paris, aussi nombreux que les crottes de chien, et, souvent, des enfants portant kippa sortant de la piscine Georges Hermant. Que je n’ai jamais fréquenté, pendant les deux ans où j’ai habité ici.",
+        "LatLng": {
+            "Lat": 48.883428, 
+            "Lng": 2.392192
+        }
+    },
+    {
+        "id": 4,
+        "km": 0.8,
+        "txt": "En haut de la rue se trouvait la minuscule station de métro Danube, presque toujours vide, dont j’avais lu qu’elle reposait sur de hauts piliers fichés, sous terre, au fond d’une carrière de gypse. J’aimais l’idée de ce tube enterré et porté tout à la fois, une contradiction qui correspondait bien à mon état, bloqué par Paris, enterré et porté tout à la fois, soufflant un air lourd de froid en denses nuages à travers mon écharpe, jetant un œil au passage à la grossière paysanne à corset, l’air revêche, qui faisait sa moisson sous la neige silencieuse, au centre de la place, avec la même attitude à la fois résignée et agressive que les soldats et les mères nourricières des monuments de la Première Guerre mondiale.",
+        "LatLng": {
+            "Lat": 48.882153, 
+            "Lng": 2.393210
+        }
+    }
+
+
+
+
+
+
+    
+]
+
+
