@@ -34,6 +34,11 @@ $( document ).ready(function() {
 			data_length = data.length;
 
 			// background image
+			var viewportWidth = $(window).width();
+			console.log('viewportWidth: ' + viewportWidth);
+
+
+
 			var img_url = '../static/images/marches_img/marches_' + my_part_id + '_' + my_step_id + '.png';
 			console.log(img_url);
 			$('html#marches').css({
@@ -46,11 +51,12 @@ $( document ).ready(function() {
 
 			// insert name of character
 			
-			var marcheurs = ["Jean, Charleville-Mézières", "João, Lisbonne", "Jan, Magadan"];
+			var marcheurs = ["Jean, Charleville",
+				"João, Lisbonne",
+				"Jan, Magadan"];
 			console.log('marcheur length: ' + marcheurs.length + ' / partid: ' + my_part_id);
 
 			$('#marcheur').html(marcheurs[my_part_id]);
-			console.log(marcheurs[parseInt(my_part_id)+1]);
 
 			// kilometer value in title
 			var km = data[my_step_id].km;
