@@ -22,7 +22,7 @@ nav#main-nav {
 
 .site-width {
         position: relative;
-        width: 100%;
+      //  width: 100%;
         max-width: 1200px;
         margin: 0 auto;
         clear: left;
@@ -82,7 +82,6 @@ figure, .marches_map {
   background-color: rgba(250,250,250,0.75);
   padding: 0.666em;
   margin-bottom: 1em;
-  margin-right: 1em;
 }
 
 #marches_txt {
@@ -131,10 +130,6 @@ figcaption {
 
 #marches_hide {
 	display:none;
-}
-
-#marches_maps {
-	width: 21em;
 }
 
 #marches_txt {
