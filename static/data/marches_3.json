@@ -2,7 +2,7 @@
     {
         "id": 0,
         "km": 0,
-        "txt": "Le vieux monsieur Leys tenait ce salon de coiffure, qu’il ouvrait un ou deux jours par semaine. Il y recevait ses amis, des retraités comme lui, et discutait en leur coupant les cheveux. Un peu de sport, beaucoup de politique et parfois aussi des femmes, comme font les septuagénaires. Sa famille avait des liens de cousinade, à un degré de séparation indéterminé, avec la famille de ma grand-mère maternelle. Ces juifs orthodoxes parisiens avaient ainsi accueilli le rejeton d’une vieille famille socialiste israélienne venu à Paris finir sa thèse d’informatique à l’école des Télécoms : un arrière-grand-oncle polonais qui avait appartenu au Bund dans les années 1900 faisait office de lien.",
+        "txt": "Le vieux monsieur Leys tenait ce salon de coiffure, qu’il ouvrait un ou deux jours par semaine. Il y recevait ses amis, des retraités comme lui, et discutait en leur coupant les cheveux. Un peu de sport, beaucoup de politique et parfois aussi des femmes, comme font les septuagénaires. Sa famille avait des liens de cousinade, à un degré de séparation indéterminé, avec la famille de ma grand-mère maternelle. Ces juifs orthodoxes parisiens avaient ainsi accueilli le rejeton d’une vieille famille socialiste israélienne venu à Paris finir sa thèse à la Sorbonne : un arrière-grand-oncle polonais qui avait appartenu au Bund dans les années 1900 faisait office de lien.",
         "LatLng": {
             "Lat": 48.887754,
             "Lng": 2.392281
@@ -43,11 +43,40 @@
             "Lat": 48.882153, 
             "Lng": 2.393210
         }
+    },
+    {
+        "id": 5,
+        "km": 1.1,
+        "txt": "Je montais encore, jusqu’à la rue Mouzaïa. J’empruntais cette petite rue privée, piétonne, pavée à l’ancienne, où des garçons en culottes courtes portaient sans doute, dans les années 1950 encore, des bidons de lait, où de jeunes femmes à robes fleuries, un sac de toile jeté sur l’épaule, vaquent à des occupations qu’on ne peut pas même imaginer. Un Paris éternellement à la Doisneau, figé dans le noir et blanc, qui étouffe, le Paris qui a une boule dans la gorge. En me retournant, je pouvais voir la neige se poser silencieusement dans les trous laissés par mes pas. Mais je continue plus haut, traversant une autre de ces villas.",
+        "LatLng": {
+            "Lat": 48.880273,
+            "Lng": 2.394176
+        }
+    },
+    {
+        "id": 6,
+        "km": 1.3,
+        "txt": "À peine quitté cet îlot trop Français, trop Parisien, riche et profond, qui me fait penser à Gide, sa vaste maison à quelques kilomètres de là, sa Normandie, son goût, son talent, son austère morale, son excentricité, sa pléiade — et dont on se demande bien à quoi, comme Gœthe, il a dû renoncer — à peine quitté cette île, donc, on trouvait les grandes barres d’immeubles de la rue Compans et du quartier de la Place des fêtes. Des Africains en robe poussaient leur cadis et, dans mon souvenir, il y avait toujours une jeune femme roumaine, ou rom, ou juste perdue, assise devant la porte du supermarché low-cost. Elle restait assise là des heures sur le sol, un mince carton sous ses fesses. Je n’ai jamais eu aucune idée du nombre de personnes qui vivent dans ces immeubles. Ceux qui y habitent y restent et, quand ils ont besoin d’en sortir, vont juste à côté au parc des Buttes Chaumont.",
+        "LatLng": {
+            "Lat": 48.879163,
+            "Lng": 2.392424
+        }
+    },
+    {
+        "id": 7,
+        "km": 2,
+        "txt": "Il m’arrivait, en entrant dans le parc enneigé, d’enlever mes prothèses auditives. La surdité devenait soudainement dure et concrète comme une pierre. Je ne marchais plus dans une réalité améliorée où un algorithme sélectionnait pour moi les sons, diminuant le brouhaha d’enfants jouant dans le lointain, augmentant le bruit d’une automobile passant à proximité, j’avançais au contraire désormais dans un parc monochrome, uniforme dans sa réalité. Je n’avais pas envie de fuir, mais de percevoir Paris, comme un écho dans une cave, ou un reflet, dont je pourrais progressivement m'approcher. Par ruse. Aux Buttes Chaumont, de vieilles dames asiatiques faisaient du Taïchi, des familles promènaient leurs enfants et des groupes de jeunes arabes du quartier faisaient du footing.",
+        "LatLng": {
+            "Lat": 48.879459, 
+            "Lng": 2.384180
+        }
     }
 
 
 
 
+
+Ma thèse portait sur les doléances du Peuple de France au Roi Louis IX et à son administration, son rapport à l'usure et aux Juifs. 
 
 
     
