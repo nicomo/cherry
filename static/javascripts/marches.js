@@ -33,14 +33,17 @@ $( document ).ready(function() {
 			
 			data_length = data.length;
 
-			// background image
+			// background image : big or small depending on viewport.
 			var viewportWidth = $(window).width();
 			console.log('viewportWidth: ' + viewportWidth);
+			
+			if (viewportWidth > 960) {
+				var img_url = '../static/images/marches_img/marches_' + my_part_id + '_' + my_step_id + '_big.png';
+			} else {
+				var img_url = '../static/images/marches_img/marches_' + my_part_id + '_' + my_step_id + '.png';
+			}
+			console.log('img_url: '+ img_url);
 
-
-
-			var img_url = '../static/images/marches_img/marches_' + my_part_id + '_' + my_step_id + '.png';
-			console.log(img_url);
 			$('html#marches').css({
 				'background': 'url("' + img_url + '") no-repeat center center fixed',
 				'-webkit-background-size': 'cover',
