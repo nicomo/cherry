@@ -56,7 +56,8 @@ $( document ).ready(function() {
 			
 			var marcheurs = ["Jean, Charleville",
 				"João, Lisbonne",
-				"Jan, Magadan"];
+				"Jan, Magadan",
+				"Joel, Paris"];
 			console.log('marcheur length: ' + marcheurs.length + ' / partid: ' + my_part_id);
 
 			$('#marcheur').html(marcheurs[my_part_id]);
