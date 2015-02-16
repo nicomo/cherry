@@ -2,7 +2,7 @@
     {
         "id": 0,
         "km": 0,
-        "txt": "Dans la baie d’Amakhtonskiy, en juin, il y a encore beaucoup de glace. Même en 2015. Ni les barrières en fer forgé et les lampadaires à trois lampes le long du quai, ni le début de l’été ne peuvent faire oublier où l’on est. D’ailleurs en levant les yeux vers la colline qui domine la ville à l’ouest, à ma droite, on devine la station de radio « dragon ». Elle est constituée d’énormes panneaux métalliques, presque entièrement rouillés, incurvés, rectangulaires, orange et gris, au dos hérissé de tubulures, qui surplombent la ville.",
+        "txt": "Dans la baie d’Amakhtonskiy, en juin, il y a encore beaucoup de glace. Même en 2015. Ni les barrières en fer forgé et les lampadaires à trois lampes le long du quai, ni le début de l’été ne peuvent faire oublier où l’on se trouve. D’ailleurs en levant les yeux vers la colline qui domine la ville à l’ouest, à ma droite, on devine la station de radio « dragon », constituée d’énormes panneaux métalliques, presque entièrement rouillés, incurvés, rectangulaires, orange et gris, au dos hérissé de tubulures, qui surplombent la ville.",
         "LatLng": {
             "Lat": 59.556427, 
             "Lng": 150.779065
@@ -65,7 +65,7 @@
     {
         "id": 7,
         "km": 5.5,
-        "txt": "Je me demande ce qu’il aurait éprouvé, Jan, en voyant ici un cycliste, un mariage. Rien ? Il ne faut pas rester à Magadan bien longtemps pour ne plus rien éprouver, sans doute. 1939 inscrit sur la colonne : encore cette date. En 1939, Magadan, de campement pour les militaires, les tchékistes et leurs familles, devint soudain une ville. Jan est arrivé en 1944. La nature s’étend au-delà de cette marque : elle a englouti tout un siècle. Et aujourd’hui encore, Magadan semble une ville en dehors du monde, un rêve de béton craquelé et déglingué au milieu d’une nature immense et belle, inaccessible, comme de l’autre côté d’une cloche de verre.",
+        "txt": "Je me demande ce qu’il aurait éprouvé, Jan, en voyant ici un cycliste, un mariage. Rien ? Il ne faut pas rester à Magadan bien longtemps pour ne plus rien éprouver, sans doute. 1939 inscrit sur la colonne : encore cette date. En 1939, Magadan, de campement pour les militaires, les tchékistes et leurs familles, devint soudain une ville. Jan arriva en 1944. La nature s’étend au-delà de cette marque : elle a englouti tout un siècle. Et aujourd’hui encore, Magadan semble une ville en dehors du monde, un rêve de béton craquelé et déglingué au milieu d’une nature immense et belle, inaccessible, comme de l’autre côté d’une cloche de verre.",
         "LatLng": {
             "Lat": 59.595288, 
             "Lng": 150.846885
