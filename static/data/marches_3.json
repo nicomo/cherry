@@ -29,7 +29,7 @@
     {
         "id": 3,
         "km": 0.6,
-        "txt": "Je montais la rue d’Alsace-Lorraine, de ces rues qu’on a percées dans le Paris des faubourgs des années 1880, et nommées avec la ferveur patriotique du temps. Du côté droit de la pente subsistaient quelques-uns des immeubles d’origine, en brique rouge, à trois niveaux, plus une mansarde. À gauche, des barres d’HLM sans âge. Entre les deux, de ces grands bacs à poubelle, verts par ironie, qu’on trouve partout à Paris, aussi nombreux que les crottes de chien, et, souvent, des enfants portant kippa sortant de la piscine Georges Hermant. Que je n’ai jamais fréquenté, pendant les deux ans où j’ai habité ici.",
+        "txt": "Je montais la rue d’Alsace-Lorraine, de ces rues qu’on a percées dans le Paris des faubourgs des années 1880, et nommées avec la ferveur patriotique du temps. Du côté droit de la pente subsistaient quelques-uns des immeubles d’origine, en brique rouge, à trois niveaux, plus une mansarde. À gauche, des barres d’HLM sans âge. Entre les deux, de ces grands bacs à poubelle, verts par ironie, qu’on trouve partout à Paris, aussi nombreux que les crottes de chien, et, souvent, des enfants portant kippa sortant de la piscine Georges Hermant. Que je n’ai jamais fréquenté, pendant les trois ans où j’ai habité ici.",
         "LatLng": {
             "Lat": 48.883428, 
             "Lng": 2.392192
@@ -65,21 +65,67 @@
     {
         "id": 7,
         "km": 2,
-        "txt": "Il m’arrivait, en entrant dans le parc enneigé, d’enlever mes prothèses auditives. La surdité devenait soudainement dure et concrète comme une pierre. Je ne marchais plus dans une réalité améliorée où un algorithme sélectionnait pour moi les sons, diminuant le brouhaha d’enfants jouant dans le lointain, augmentant le bruit d’une automobile passant à proximité, j’avançais au contraire désormais dans un parc monochrome, uniforme dans sa réalité. Je n’avais pas envie de fuir, mais de percevoir Paris, comme un écho dans une cave, ou un reflet, dont je pourrais progressivement m'approcher. Par ruse. Aux Buttes Chaumont, de vieilles dames asiatiques faisaient du Taïchi, des familles promènaient leurs enfants et des groupes de jeunes arabes du quartier faisaient du footing.",
+        "txt": "Il m’arrivait, en entrant dans le parc enneigé, d’enlever mes prothèses auditives. La surdité rendait soudainement mon environnement dur et concret comme une pierre. Je ne marchais plus dans une réalité améliorée où un algorithme sélectionnait pour moi les sons, diminuant le brouhaha d’enfants jouant dans le lointain, augmentant le bruit d’une automobile passant à proximité, j’avançais désormais dans un parc monochrome, uniforme dans sa réalité. Je n’avais pas envie de fuir et, temporairement, je pouvais me couper de Paris et percevoir la ville comme un écho dans une cave, ou un reflet, dont je pourrais progressivement m’approcher. Par ruse. Aux Buttes Chaumont, de vieilles dames asiatiques faisaient du Taïchi, des familles promenaient leurs enfants et des groupes de jeunes arabes du quartier faisaient du footing. Mais je n’ai jamais croisé les frères Kouachi, je ne pense pas.",
         "LatLng": {
             "Lat": 48.879459, 
             "Lng": 2.384180
         }
+    },
+    {
+        "id": 8,
+        "km": 2.5,
+        "txt": "Ma thèse d’Histoire portait sur les doléances du Peuple de France au Roi Louis IX et à son administration, son rapport à l’usure et aux Juifs. Le Roi, qui se préparait à partir en Croisade, voulait s’assurer le salut de son âme, mais après plusieurs saisies, se retrouvait propriétaire, par l’intermédiaire des Juifs spoliés, des dettes de ses sujets. Il lui fallait se débarrasser à tout prix de ces biens mal acquis, et apporter réparation à ceux qu’il avait ainsi lésés. L’administration locale se charge de toutes les restitutions inférieures à cinq sous. Le Roi s’occupe des affaires plus importantes : il faut aller le voir. En marchant sans doute.",
+        "LatLng": {
+            "Lat": 48.878690, 
+            "Lng": 2.376685 
+        }
+    },
+    {
+        "id": 9,
+        "km": 3,
+        "txt": "Sur les bancs de la Sorbonne aussi, il m’arrivait de retirer mes prothèses auditives. Je restais alors quelques minutes à regarder l’enseignant, jeune ou vieux, debout sur son estrade, ânonner sa leçon. Je le transformais ainsi en pantin, parfois mobile, parfois figé. Ma petite amie, étudiante dans une école d’art, toujours gaie, se moquait de leurs mines sérieuses et m’accompagnait parfois dans les amphithéâtres où, faisant mine de prendre à mes côtés des notes sur l’administration du Royaume de France au XIIIe siècle, elle me passait des cahiers couverts de textes et dessins érotiques. Des doléances. Je vins ici une fois avec mon ami, Place du Colonel Fabien, au siège du Parti Communiste. Voir un défilé Prada.",
+        "LatLng": {
+            "Lat": 48.877916, 
+            "Lng": 2.370622
+        }
+    },
+    {
+        "id": 10,
+        "km": 4,
+        "txt": "Je trouvais frappant, dans ces enquêtes médiévales, de voir à quel point le peuple, qui réclamait contre les usuriers, les dommages de guerre, les administrateurs locaux, acceptait le poids de la domination royale. Le peuple, en vérité, ne se rebelle pas contre les puissants, il attaque ceux qui, devenus faibles et, donc, inutiles, continuent de bénéficier des avantages de leur ancienne position. On regrette moins l’écart entre les politiques et nous, qui attendons l’autobus, baskets aux pieds, oreilles dégarnies ou le voile sur la tête, le regard perdu par-dessus les motos, les papiers gras, les publicités — on rejette moins leur distance que leur impuissance : s’ils n’ont aucun pouvoir, qu’ils prennent le bus, comme tout un chacun.",
+        "LatLng": {
+            "Lat": 48.869941, 
+            "Lng": 2.370878
+        }
+    },
+    {
+        "id": 11,
+        "km": 3.5,
+        "txt": "Mon amie, qui sans doute m'aimait bien et appréciait sinon mon intelligence au moins ma culture — ou, moins charitablement, mes prétentions intellectuelles — mon amie, donc, ne comprenait pas la passivité dans laquelle je m'enlisais. Elle voulait bien m'accompagner dans mes marches parisiennes, mais se demandait toujours un peu où nous allions. S'il s'agissait d'une exposition, d'un spectacle, un film ; ou rien du tout, juste une errance. Elle se comportait réellement comme une adulte et mon adolescence à moi ne me quittait que très lentement, par bribes infimes et écailles de serpent laissées sur les trottoirs parisiens. À ce rythme, il me faudrait des années et, d’ailleurs, je ne pensais pas qu’elle aurait la patience d’attendre : un signe supplémentaire de mon immaturité.",
+        "LatLng": {
+            "Lat": 48.867140, 
+            "Lng": 2.368223
+        }
+    },
+    {
+        "id": 12,
+        "km": 4,
+        "txt": "Je faisais preuve avec mon amie d’une douceur tout à fait déplacée. Pour tout dire, je faisais l’enfant. Je m’en aperçus bien plus tard, après qu’elle m’eût quitté, en voyant un film japonais, Unagi — L’Anguille. Le héros a pour habitude de partir à la pêche de nuit. Un billet anonyme l’incite, un certain soir, à ne pas partir en mer, mais plutôt à revenir sur ses pas : il trouve sa femme au lit avec un autre homme. Après l’avoir assassinée à coup de couteau, il se livre à la police. Bien après sa sortie de prison, installé dans un salon de coiffure, aussi isolé et protégé que possible, un de ses anciens camarades de prison, ivrogne et maître chanteur, lui dit enfin ses quatre vérités : il n’a pas tué sa femme parce qu’elle le trompait, mais parce qu’un homme la faisait jouir quand lui n’avait jamais su se comporter autrement que comme un enfant.",
+        "LatLng": {
+            "Lat": 48.863041, 
+            "Lng": 2.371394
+        }
+    },
+    {
+        "id": 13,
+        "km": 4.5,
+        "txt": "J’ai achevé ma thèse sur la politique anti-juive de Louis IX après trois ans de séjour, dans la torpeur et sans rien comprendre de Paris, ni de l’occasion que la ville m’avait donnée de devenir adulte. Puis je suis parti. Je n’ai pas tout à fait marché cinq kilomètres. Il m’en faudra autant pour rentrer à mon appartement, mais voilà l’adresse : rue Nicolas Appert. Il y a des policiers dans la rue. Les locaux de Charlie Hebdo se trouvaient seconde porte à gauche, au deuxième étage.",
+        "LatLng": {
+            "Lat": 48.859286, 
+            "Lng": 2.370104
+        }
     }
-
-
-
-
-
-Ma thèse portait sur les doléances du Peuple de France au Roi Louis IX et à son administration, son rapport à l'usure et aux Juifs. 
-
-
-    
+   
 ]
 
 
