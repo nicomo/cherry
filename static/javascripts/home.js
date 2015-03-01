@@ -19,4 +19,8 @@ $( document ).ready(function() {
 		$.cookie("nicomo_marches_part_id", 4, { path: '/marches', expires: 20 });		
 		$.cookie('nicomo_marches_step_id', 0, { path: '/marches', expires: 20 });
 	});
+	$("#marches_menu_5").on('click touch', function () {
+		$.cookie("nicomo_marches_part_id", 5, { path: '/marches', expires: 20 });		
+		$.cookie('nicomo_marches_step_id', 0, { path: '/marches', expires: 20 });
+	});
 });

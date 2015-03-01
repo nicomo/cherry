@@ -58,7 +58,8 @@ $( document ).ready(function() {
 				"João, Lisbonne",
 				"Jan, Magadan",
 				"Joel, Paris",
-				"Jane, New York"];
+				"Jane, New York",
+				"Jaufré, Saipan"];
 			console.log('marcheur length: ' + marcheurs.length + ' / partid: ' + my_part_id);
 
 			$('#marcheur').html(marcheurs[my_part_id]);
