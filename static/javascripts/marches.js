@@ -119,7 +119,7 @@ $( document ).ready(function() {
             position: mapCenter,
             pov: {
                 heading: 190,
-                pitch: 10
+                pitch: 0
             }
         };
         var panorama = new google.maps.StreetViewPanorama(document.getElementById('pano'),panoramaOptions);
