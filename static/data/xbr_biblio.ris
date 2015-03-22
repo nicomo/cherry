@@ -271,9 +271,9 @@ KW  - Great Britain
 KW  - Historiography
 KW  - History
 KW  - History and criticism
+KW  - Travelers' writings, English
 KW  - Travel in literature
 KW  - Travel writing
-KW  - Travelers' writings, English
 KW  - Women and literature
 KW  - Women authors History and criticism
 KW  - Women travelers
@@ -890,18 +890,6 @@ KW  - by
 KW  - by-essays
 ER  - 
 
-TY  - JOUR
-TI  - Self-Confrontation and the Writer
-AU  - Brooke-Rose, Christine
-T2  - New Literary History
-DA  - 1977///
-PY  - 1977
-VL  - 9
-IS  - 1
-SP  - 129
-EP  - 36
-ER  - 
-
 TY  - PCOMM
 TI  - A Novel Theory
 AU  - Brooke-Rose, Christine
@@ -1405,6 +1393,21 @@ PY  - 1976
 ER  - 
 
 TY  - JOUR
+TI  - The composition of Christine Brooke-Rose’s Thru: An afterlife of May ’68
+AU  - Darlington, Joseph
+T2  - Journal of European Studies
+AB  - Christine Brooke-Rose’s 1975 novel Thru stands as one of the quintessential texts of postmodernism, both in its incomparable metatextual complexity and its reputation for conceptual excess. This paper traces the turbulent history of the novel’s construction. Fleeing from a collapsing marriage, illness and a dismissive literary establishment, Brooke-Rose left Britain to undertake a lecturing position at the University of Paris VIII, Vincennes, a hotbed of post-May ’68 student insurrection. Militantly a-political, Brooke-Rose remained detached from the situation, writing Thru as a satire of poststructuralist theory, until, in 1974, her own position was threatened by political machinations. The resulting disillusionment makes its way into the final text of Thru which, in turn, spells the end of her fiction writing career for nine years. This paper aims to place Thru in its historical context; a context not only resonant in terms of Brooke-Rose’s works, but for postmodernism in general.
+DA  - 2015/03//
+PY  - 2015
+DO  - 10.1177/0047244114553769
+VL  - 45
+IS  - 1
+SP  - 49
+EP  - 64
+SN  - 00472441
+ER  - 
+
+TY  - JOUR
 TI  - Where Have All the Lovers Gone?
 AU  - Brooke-Rose, Christine
 T2  - London Magazine
@@ -1503,8 +1506,8 @@ SP  - 235
 PB  - Dalkey Archive Press
 SN  - 1564783235
 ST  - In transit
-KW  - Air travel
 KW  - Airports
+KW  - Air travel
 KW  - Gender identity
 ER  - 
 
@@ -1883,14 +1886,6 @@ PB  - M. Joseph
 N1  - Letter to a magistrate / Andrew Adam -- The troglodyte / Christine Brooke-Rose -- Give me your hand, throw me a line / Jane Brown -- Una nimity / Jennifer Dawson -- Friday's child / Isobel English -- Even a baby can do it /Kathleen Farrell -- The dear demesne / Gabriel Fielding --The example of Lipi Lippmann / Dan Jacobson -- It's all inpictures / Joyce Jeronty -- The new man / Doris Lessing --Coming into his kingdom / John McGahern -- The end of the street / Olivia Manning -- The test / William Mayne -- Thetree / Tessa Meredith -- The childhood of a vampire / JohnRechy -- A solid house / Jean Rhys -- Where liberty lies /William Samson -- The story of Annie Holsworth / Frank Smyth -- Red-dirt marihuana / Terry Southern -- The potlatch of Esmeralda / Frank Tuohy -- The letters / Patrick White
 N1  - Short stories
 KW  - Short stories
-ER  - 
-
-TY  - JOUR
-TI  - Lettres d'Angleterre
-AU  - Brooke-Rose, Christine
-T2  - Nouvelle Revue Française
-DA  - 1967/07//
-PY  - 1967
 ER  - 
 
 TY  - JOUR
@@ -2480,14 +2475,6 @@ SP  - 225
 EP  - 233
 KW  - by
 KW  - by-essays
-ER  - 
-
-TY  - PCOMM
-TI  - An Interview with Christine Brooke-Rose
-AU  - Brooke-Rose, Christine
-DA  - 1976///
-PY  - 1976
-M3  - Contemporary Literature
 ER  - 
 
 TY  - ELEC
