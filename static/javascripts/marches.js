@@ -37,13 +37,8 @@ $( document ).ready(function() {
 			var viewportWidth = $(window).width();
 			console.log('viewportWidth: ' + viewportWidth);
 			
-			if (viewportWidth > 960) {
-				var img_url = '../static/images/marches_img/marches_' + my_part_id + '_' + my_step_id + '_big.png';
-			} else {
-				var img_url = '../static/images/marches_img/marches_' + my_part_id + '_' + my_step_id + '.png';
-			}
-			console.log('img_url: '+ img_url);
-
+			var img_url = '../static/images/marches_img/marches_' + my_part_id + '_' + my_step_id + '.png';
+			
 			$('html#marches').css({
 				'background': 'url("' + img_url + '") no-repeat center center fixed',
 				'-webkit-background-size': 'cover',
@@ -59,7 +54,8 @@ $( document ).ready(function() {
 				"Jan, Magadan",
 				"Joel, Paris",
 				"Jane, New York",
-				"Jaufré, Saipan"];
+				"Jaufré, Saipan",
+				"Jefferson, Manaus"];
 			console.log('marcheur length: ' + marcheurs.length + ' / partid: ' + my_part_id);
 
 			$('#marcheur').html(marcheurs[my_part_id]);
