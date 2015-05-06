@@ -73,6 +73,11 @@ $( document ).ready(function() {
 			var lng = data[my_step_id].LatLng.Lng;
 			map_initialize(lat,lng);
 
+			// reveal text and maps after delay
+			$('#txt_maps').delay(1000).slideToggle("slow", function() {
+				// Animation complete
+			});
+
 			// if at the end of this particular walk
 			if ((part_id >= marcheurs.length -1) && (step_id >= data.length -1)) {
 				// hides button
@@ -100,6 +105,9 @@ $( document ).ready(function() {
 			++step_id;
 			$.cookie('nicomo_marches_step_id', step_id, { path: '/marches', expires: 25 });
 		}
+		$('#txt_maps').slideToggle("fast", function() {
+			// Animation complete
+		});
 		// update data in page
 		src_initialize(part_id, step_id);
 	});
@@ -125,7 +133,7 @@ $( document ).ready(function() {
 
 	// toggle of txt + maps to see background image
 	$('#marches_header').click(function() {
-		$('#txt_maps').toggle("slow", function() {
+		$('#txt_maps').slideToggle("slow", function() {
 			// Animation complete
 		});
 
