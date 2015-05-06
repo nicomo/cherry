@@ -74,7 +74,7 @@ $( document ).ready(function() {
 			map_initialize(lat,lng);
 
 			// reveal text and maps after delay
-			$('#txt_maps').delay(1000).slideToggle("slow", function() {
+			$('#txt_maps').delay(2500).slideToggle("slow", function() {
 				// Animation complete
 			});
 
