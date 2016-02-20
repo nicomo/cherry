@@ -20,8 +20,6 @@ $( document ).ready(function() {
 
 });
 
-
-
 function src_initialize(my_part_id, my_step_id) {
 
   //
@@ -65,20 +63,6 @@ function src_initialize(my_part_id, my_step_id) {
     initMap(lat, lng);
 
     // NEXT
-
-    // if at the end of this particular walk
-
-
-
-
-
-//TODO 
-// si on est au bout : url bouton marche_ part_id +1 + changer l'intitulé du bouton "Nom, Lieu" avec part_id +1
-// si on n'est pas au bout: bouton "avancer" -> step_id += 1.my_step_id
-
-
-
-
     if (my_step_id >= data.length -1) {
 
       // we're at the end of this walk: move on to next walk, step 0
@@ -91,15 +75,13 @@ function src_initialize(my_part_id, my_step_id) {
       $("#avancer").text(avancer_txt).attr('href', next_url);
 
     } else {
+      // we stay in this walk, next step
       my_step_id++;
       console.log(my_step_id);
       Cookies.set('nicomo_marches_step_id', my_step_id, { expires: 20, path: '' });
+      src_initialize(my_part_id, my_step_id);
       
     }
-  
-
-
-
   });
 }
 
