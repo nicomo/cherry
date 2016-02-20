@@ -1,0 +1,120 @@
+[
+    {
+        "id": 0,
+        "km": 0,
+        "txt": "Dans la baie d’Amakhtonskiy, en juin, il y a encore beaucoup de glace. Même en 2015. Ni les barrières en fer forgé et les lampadaires à trois lampes le long du quai, ni le début de l’été ne peuvent faire oublier où l’on se trouve. D’ailleurs en levant les yeux vers la colline qui domine la ville à l’ouest, à ma droite, on devine la station de radio « dragon », constituée d’énormes panneaux métalliques, presque entièrement rouillés, incurvés, rectangulaires, orange et gris, au dos hérissé de tubulures, qui surplombent la ville.",
+        "LatLng": {
+            "Lat": 59.556427, 
+            "Lng": 150.779065
+        }
+    },
+    {
+        "id": 1,
+        "km": 0.75,
+        "txt": "Cadeaux du monde — rue Nouvelle, 31, un complexe de divertissement familial « Nagaevskaya ». Nagaevskaya inscrit en très gros sur la façade, légèrement bombé : difficile de dire si l’endroit a déjà ouvert ses portes. Je me demande ce qu’on y fait, ce qu’on y vend. Le chauffeur de taxi qui m’a déposé m’a aussi parlé d’une nouvelle sculpture, installée récemment en bordure de la mer, du côté de l’ancien sémaphore, un immense mammouth, quatre mètres de haut, aux yeux de boulons et à la laine de ressorts. Je ne l’ai pas vue : quand on arrive ici, on ne choisit pas ce qu’on va voir.",
+        "LatLng": {
+            "Lat": 59.558288,
+            "Lng": 150.791432
+        }
+    },
+    {
+        "id": 2,
+        "km": 1.25,
+        "txt": "Une chapelle, dédiée à Saint George — le Victorieux. Sur le côté, assis, un clochard avec ses deux chiens et un bâton, qui garde la tête baissée. Tout le monde, dans ces parages, semble attendre Dioclétien en silence, dans la souffrance des lames qui lacèrent la chair, avec à ses pieds le monstre de toutes les vies antérieures à celle-ci, un dragon plein de puces, moqué par les pigeons.",
+        "LatLng": {
+            "Lat": 59.561475,
+            "Lng": 150.800061
+        }
+    },
+    {
+        "id": 3,
+        "km": 2.25,
+        "txt": "À vol d’oiseau, on doit vraiment avoir le sentiment que ces deux avions de chasse filent le long de la rivière, qu’ils piquent pour attaquer. Quoi ou qui ? Nul n’en sait rien, et cela n’a vraisemblablement aucune importance. Il n’y a pas de trottoir qui vaille : le froid détruit tout. Des queues d’avions et des morceaux d’hélices ornent le paysage, des guirlandes bordent la route et l’on a installé jusqu’ici, tout au long de la Perspective Lénine, ces lampadaires déjà vus en bord de mer.",
+        "LatLng": {
+            "Lat": 59.569527, 
+            "Lng": 150.809863
+        }
+    },
+    {
+        "id": 4,
+        "km": 2.75,
+        "txt": "Ici finit la Perspective Lénine et commence, de l’autre côté du rond-point, l’autoroute de la Kolyma. En me retournant, derrière les citernes d’essence de la station-service, je devine les dômes en oignon de la cathédrale, que le Patriarche de toutes les Russies a inauguré il y a peu. Le bâtiment, même d’ici, semble immense. On l’a installé, m’a dit mon chauffeur de taxi, à la place d’une grandiose statue de Lénine, le long de l’avenue jadis utilisée pour les défilés militaires et autres discours des autorités soviétiques.",
+        "LatLng": {
+            "Lat": 59.573577,  
+            "Lng": 150.814802
+        }
+    },
+    {
+        "id": 5,
+        "km": 3.75,
+        "txt": "Je n’aurais sans doute pas fait ce voyage du vivant de mon grand-père. Il aurait trouvé cela absurde. Venir voir quoi ? La couche d’asphalte dont on a recouvert la piste de terre et d’os ? Le délabrement des bases militaires abandonnées ? Il ne reste rien ici, exactement comme l’on voulut les criminels : une sculpture en béton installée du temps de Ielstine, « masque du chagrin », perdue quelque part sur une colline avoisinante, se craquelle déjà : ceux qui l’ont érigée, à titre privé, ont honte pour les autres. Il y a là comme une division du travail : aux uns la construction de l’horreur, aux autres la honte. Les hangars de l’armée ont pourri et cédé, comme tout ici, à la corruption.",
+        "LatLng": {
+            "Lat": 59.580669, 
+            "Lng": 150.823497
+        }
+    },
+    {
+        "id": 6,
+        "km": 4.75,
+        "txt": "Mon grand-père s’appelait Jan, comme moi. Il aimait passionnément la bicyclette. Il avait remporté, dans la catégorie amateur, l’épreuve de vitesse des championnats du monde de cyclisme sur piste, au vélodrome Vigorelli, à Milan, en 1939. Il avait assisté à la course pour la médaille de Bronze professionnelle, remportée par l’Allemand Albert Richter (qui courait avec un maillot sans croix gammée, juste le vieil aigle impérial). La finale devait opposer le Belge Scherens à un compatriote néerlandais, Arie van Vliet. Ils chutèrent tous les deux. Ils devaient concourir à nouveau le lendemain, 1er septembre 1939. On annula l’épreuve. Je ne crois pas que mon grand-père n’ait jamais eu l’occasion de remonter sur un vélo.",
+        "LatLng": {
+            "Lat": 59.591119,
+            "Lng": 150.835351
+        }
+    },
+    {
+        "id": 7,
+        "km": 5.5,
+        "txt": "Je me demande ce qu’il aurait éprouvé, Jan, en voyant ici un cycliste, un mariage. Rien ? Il ne faut pas rester à Magadan bien longtemps pour ne plus rien éprouver, sans doute. 1939 inscrit sur la colonne : encore cette date. En 1939, Magadan, de campement pour les militaires, les tchékistes et leurs familles, devint soudain une ville. Jan arriva en 1944. La nature s’étend au-delà de cette marque : elle a englouti tout un siècle. Et aujourd’hui encore, Magadan semble une ville en dehors du monde, un rêve de béton craquelé et déglingué au milieu d’une nature immense et belle, inaccessible, comme de l’autre côté d’une cloche de verre.",
+        "LatLng": {
+            "Lat": 59.595288, 
+            "Lng": 150.846885
+        }
+    },
+    {
+        "id": 8,
+        "km": 6.5,
+        "txt": "Je préfère rebrousser chemin en coupant à travers champs. L’autoroute, peuplée de 4x4 japonais avec le volant à droite, de vieux camions KamAZ et de camionnettes sans pot d’échappement, fait un bruit assourdissant. Et puis les camions se déportent sur le bas côté quand on les double : je ne voudrais pas finir sous les roues d’un chauffeur de camion ivre de vodka. Le chemin, à peu près sec, qui longe la centrale électrique semble préférable.",
+        "LatLng": {
+            "Lat": 59.595288, 
+            "Lng": 150.846885
+        }
+    },
+    {
+        "id": 9,
+        "km": 7.5,
+        "txt": "Je marche maintenant sur « l’autoroute de contournement » de Magadan. Les poteaux électriques ont à leur base une construction de troncs et de pierres, haute d’un peu moins d’un mètre, dans laquelle ils sont fichés. On ne peut rien planter en terre, ici, même en été. Tout le long de cette route, on trouve à droite des tas de terre, espacés de dix mètres environ : je ne sais pas à quoi ils servent. Et des camions KamAZ, comme partout. La ville, à quelques kilomètres, n’a qu’une existence fantomatique, et l’on évolue en fait, toujours déjà, dans une sorte de carrière d’extraction à ciel ouvert. Ma présence ici n’a pas beaucoup de sens. J’ai rendez-vous demain avec le directeur du Musée, pour commencer mon reportage radio. On m’a dit qu’il montait une exposition sur « la Kolyma, terre de pionniers », et qu’il cherchait à réhabiliter l’œuvre de Berzine.",
+        "LatLng": {
+            "Lat": 59.580325, 
+            "Lng": 150.836087
+        }
+    },
+    {
+        "id": 10,
+        "km": 8.5,
+        "txt": "Magadan appartient à ceux qui se lèvent, marchent et agissent. Celui qui ne peut quitter sa couche agonise : on incorpore ses os à la route. Même aujourd'hui, le philosophe agonise. Si Platon avait dû gratter son pare-brise chaque matin, neuf mois de l’année, s’il avait dû conserver en permanence une pelle dans son coffre pour dégager la neige, il n’aurait vraisemblablement pas écrit l’Apologie de Socrate. Il aurait pensé, certainement. Et, allez savoir, pensé plus profondément encore. Mais je crois qu’il n’aurait rien écrit, sinon quelques notes en travers d’un carnet corné, noirci, crasseux laissé dans la boite à gants du 4x4.",
+        "LatLng": {
+            "Lat": 59.572064, 
+            "Lng": 150.840708
+        }
+    },
+    {
+        "id": 11,
+        "km": 9.6,
+        "txt": "Je n’ai aucune raison de parler de Jan au directeur du musée : la radio publique néerlandaise, NPO Radio 1, m’envoie ici pour un reportage sur le Goulag, je ne fais pas un pélerinage personnel. Après-demain, je rencontre un groupes d'anciens prisonniers, qui s’occupent de la section locale de l’association Mémorial. Il habite un immeuble du centre-ville de Magadan. Aujourd’hui, j’ai rendez-vous avec Sergueï, un homme d’affaires qui doit m’emmener vers le nord, visiter un élevage de rennes. Sergueï habite une petite maison dans un lotissement au bout de ce chemin qui bifurque vers la gauche.",
+        "LatLng": {
+            "Lat": 59.564794, 
+            "Lng": 150.844144
+        }
+    },
+    {
+        "id": 12,
+        "km": 10.5,
+        "txt": "Voilà sa maison. Verte, en bois, sur des fondations de béton peint en orange. Par rapport à ses voisines, une maison extraordinairement soignée. On devine, après le petit escalier qui monte au perron, son petit chien marron et blanc, caché derrière un bouleau, parmi les bâches qui tiennent ses salades sous serre. Je vais sortir mon magnétophone : je veux enregistrer le bruit du portail métallique, presque coquet, quand je vais frapper dessus, les aboiements du chien et la porte de la maison qui s’ouvre pour m’accueillir. Cette petite datcha, et les autres dans ces quelques huit ou dix allées appartenaient jadis aux officiers du NKVD.",
+        "LatLng": {
+            "Lat": 59.564657, 
+            "Lng": 150.854077
+        }
+    }
+    
+]

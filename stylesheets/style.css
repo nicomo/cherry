@@ -1,0 +1,45 @@
+html, body {
+  height: 100%; 
+  margin: 0; 
+  padding: 0;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+.content-grid, .content-footer {
+  max-width: 1200px;
+}
+
+.mdl-textfield {
+  padding-right: 10px;
+}
+.mdl-textfield__input {
+  display: inline-block;
+}
+
+#marches_txt {
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 1em;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  max-width: 35em;
+}
+
+
+#map, #pano {
+  float: left;
+  height: 200px;
+  width: 100%;
+}
+
+@media (min-width: 1200px) {
+  #map, #pano {
+    float: left;
+    height: 500px;
+    width: 49%;
+}
+}
