@@ -94,11 +94,10 @@ function src_initialize(my_part_id, my_step_id) {
       Cookies.remove('nicomo_marches_step_id');
     } else {
       // we stay in this walk, next step
-      my_step_id++;
-      console.log('next-else, my_step_id: ' + my_step_id);
-      Cookies.set('nicomo_marches_step_id', my_step_id, { expires: 20, path: '' });
-
       $('#avancer').on('touchstart click', function(){
+        my_step_id++;
+        console.log('next-else, my_step_id: ' + my_step_id);
+        Cookies.set('nicomo_marches_step_id', my_step_id, { expires: 20, path: '' });
         src_initialize(my_part_id, my_step_id);  
       });
     
