@@ -4,8 +4,6 @@ $( document ).ready(function() {
   var part_id = document.getElementById('marche_id').value;
   var step_id;
   var data_length;
-  var liste_marches = ["Charleville-Mézières", "Lisbonne", "Magadan", "Paris", "New York", "Saipan", "Manaus"];
-  var liste_marcheurs = ["Jean", "João", "Jan", "Joel", "Jane", "Jaufré", "Jefferson"];
 
   // we use a cookie to know at which step we're at in this particular walk
   if (Cookies.get('nicomo_marches_step_id')) {
@@ -18,15 +16,15 @@ $( document ).ready(function() {
   
 
   // init page content for 1st time
-  src_initialize(part_id, step_id, marche, marcheur);
+  src_initialize(part_id, step_id);
 
 });
 
-function src_initialize(my_part_id, my_step_id, liste_marches, liste_marcheurs) {
+function src_initialize(my_part_id, my_step_id) {
 
-  //
-  // TODO READ JSON JUST ONCE RATHER THAN EACH TIME AROUND
-  //
+  
+  var liste_marches = ["Charleville-Mézières", "Lisbonne", "Magadan", "Paris", "New York", "Saipan", "Manaus"];
+  var liste_marcheurs = ["Jean", "João", "Jan", "Joel", "Jane", "Jaufré", "Jefferson"];
   var json_file = '../assets/json/marches_' + my_part_id +'.json';
   console.log(json_file);
   var marche = liste_marches[my_part_id];
@@ -88,7 +86,7 @@ function src_initialize(my_part_id, my_step_id, liste_marches, liste_marcheurs) 
       Cookies.set('nicomo_marches_step_id', my_step_id, { expires: 20, path: '' });
 
       $('#avancer').on('touchstart click', function(){
-        src_initialize(my_part_id, my_step_id, liste_marches, liste_marcheurs);  
+        src_initialize(my_part_id, my_step_id);  
       });
     
     }
