@@ -14,7 +14,8 @@ $( document ).ready(function() {
     step_id = 0;   
     Cookies.set('nicomo_marches_step_id', step_id, { expires: 20, path: '' });
   };
-
+  
+  console.log("liste_marcheurs - 0: " + liste_marcheurs[my_part_id]);
   // init page content for 1st time
   src_initialize(part_id, step_id);
 
@@ -27,10 +28,13 @@ function src_initialize(my_part_id, my_step_id) {
   //
   var json_file = '../assets/json/marches_' + my_part_id +'.json';
   console.log(json_file);
+  console.log(liste_marcheurs);
+  console.log(liste_marches);
   // read our data in json file
   $.getJSON(json_file, function(data) {
 
     data_length = data.length;
+    console.log('data_length: ' + data_length);
     
     // set background image
     var img_url = '../assets/images/marches_' + my_part_id + '_' + my_step_id + '.png';
