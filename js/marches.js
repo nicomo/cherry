@@ -2,10 +2,11 @@ $( document ).ready(function() {
 
   // let's set the id and cookie for this page's content
   var part_id = document.getElementById('marche_id').value;
-  var step_id;
+  var step_id = 0;
   var data_length;
 
   // we use a cookie to know at which step we're at in this particular walk
+  /*
   if (Cookies.get('nicomo_marches_step_id')) {
     step_id = Cookies.get('nicomo_marches_step_id');
   } else {
@@ -13,6 +14,8 @@ $( document ).ready(function() {
     Cookies.set('nicomo_marches_step_id', step_id, { expires: 20, path: '' });
   };
 
+
+*/
   // hide/show map
   $( "#map_hideshow" ).click(function() {
     if ($( ".gmap-content" ).css( 'visibility' ) == 'visible') {
@@ -25,9 +28,6 @@ $( document ).ready(function() {
 
   });
 
-
-
-  
   // init page content for 1st time
   src_initialize(part_id, step_id);
 
@@ -95,14 +95,14 @@ function src_initialize(my_part_id, my_step_id) {
         console.log(avancer_txt);
         var next_url = 'http://www.nicolasmorin.com/marches/marche_' + my_part_id + '.html';
         $("#avancer").text(avancer_txt).attr('href', next_url);
-        Cookies.remove('nicomo_marches_step_id');
+        // Cookies.remove('nicomo_marches_step_id');
       }
     } else {
       // we stay in this walk, next step
       $('#avancer').on('touchstart click', function(){
         my_step_id++;
         console.log('next-else, my_step_id: ' + my_step_id);
-        Cookies.set('nicomo_marches_step_id', my_step_id, { expires: 20, path: '' });
+        // Cookies.set('nicomo_marches_step_id', my_step_id, { expires: 20, path: '' });
         src_initialize(my_part_id, my_step_id);  
       });
     
@@ -110,8 +110,6 @@ function src_initialize(my_part_id, my_step_id) {
 
   });
 }
-
-
 
 // google map
 function initMap(my_lat, my_lng) {
