@@ -15,9 +15,14 @@ $( document ).ready(function() {
 
   // hide/show map
   $( "#map_hideshow" ).click(function() {
-    $( "#gmap-content" ).toggle( "slow", function() {
-      // Animation complete.
-    });
+    if ($( ".gmap-content" ).css( 'visibility' ) == 'visible') {
+      $( ".gmap-content" ).css( 'visibility', 'hidden');
+      $("#map_hideshow").text("Afficher la carte");
+    } else {
+      $( ".gmap-content" ).css( 'visibility', 'visible');
+      $("#map_hideshow").text("Masquer la carte");
+    }
+
   });
 
 
