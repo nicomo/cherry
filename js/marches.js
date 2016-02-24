@@ -81,7 +81,7 @@ function src_initialize(my_part_id, my_step_id) {
     initMap(lat, lng);
 
     // NEXT
-    if (my_step_id >= data.length) {
+    if (my_step_id == data.length -1) {
       console.log('fini');
       // we're at the end of this walk: move on to next walk, step 0
       my_part_id++;
@@ -91,7 +91,7 @@ function src_initialize(my_part_id, my_step_id) {
       console.log(avancer_txt);
       var next_url = 'http://www.nicolasmorin.com/marches/marche_' + my_part_id + '.html';
       $("#avancer").text(avancer_txt).attr('href', next_url);
-      Cookies.set('nicomo_marches_step_id', 0, { expires: 20, path: '' });
+      Cookies.remove('nicomo_marches_step_id');
     } else {
       // we stay in this walk, next step
       my_step_id++;
