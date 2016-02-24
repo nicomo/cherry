@@ -12,9 +12,17 @@ $( document ).ready(function() {
     step_id = 0;   
     Cookies.set('nicomo_marches_step_id', step_id, { expires: 20, path: '' });
   };
-  
-  
 
+  // hide/show map
+  $( "#map_hideshow" ).click(function() {
+    $( "#gmap-content" ).toggle( "slow", function() {
+      // Animation complete.
+    });
+  });
+
+
+
+  
   // init page content for 1st time
   src_initialize(part_id, step_id);
 
@@ -68,17 +76,17 @@ function src_initialize(my_part_id, my_step_id) {
     initMap(lat, lng);
 
     // NEXT
-    if (my_step_id >= data.length -1) {
-
+    if (my_step_id >= data.length) {
+      console.log('fini');
       // we're at the end of this walk: move on to next walk, step 0
       my_part_id++;
-      Cookies.set('nicomo_marches_step_id', 0, { expires: 20, path: '' });
+      console.log('my-part-id now: ' + my_part_id);
       // we change the text of the button and its url
       var avancer_txt = liste_marcheurs[my_part_id] + ', ' + liste_marches[my_part_id];
       console.log(avancer_txt);
       var next_url = 'http://www.nicolasmorin.com/marches/marche_' + my_part_id + '.html';
       $("#avancer").text(avancer_txt).attr('href', next_url);
-
+      Cookies.set('nicomo_marches_step_id', 0, { expires: 20, path: '' });
     } else {
       // we stay in this walk, next step
       my_step_id++;
@@ -93,6 +101,8 @@ function src_initialize(my_part_id, my_step_id) {
 
   });
 }
+
+
 
 // google map
 function initMap(my_lat, my_lng) {
