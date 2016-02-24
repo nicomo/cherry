@@ -15,21 +15,23 @@ $( document ).ready(function() {
     Cookies.set('nicomo_marches_step_id', step_id, { expires: 20, path: '' });
   };
   
-  console.log("liste_marcheurs - 0: " + liste_marcheurs[my_part_id]);
+  var marche = liste_marches[part_id];
+  var marcheur = liste_marcheurs[part_id];
+
   // init page content for 1st time
-  src_initialize(part_id, step_id);
+  src_initialize(part_id, step_id, marche, marcheur);
 
 });
 
-function src_initialize(my_part_id, my_step_id) {
+function src_initialize(my_part_id, my_step_id, marche, marcheur) {
 
   //
   // TODO READ JSON JUST ONCE RATHER THAN EACH TIME AROUND
   //
   var json_file = '../assets/json/marches_' + my_part_id +'.json';
   console.log(json_file);
-  console.log(liste_marcheurs);
-  console.log(liste_marches);
+  console.log(marcheur);
+  console.log(marche);
   // read our data in json file
   $.getJSON(json_file, function(data) {
 
@@ -49,9 +51,9 @@ function src_initialize(my_part_id, my_step_id) {
 
     // TITLE
     // name of character
-    $('#marcheur').html(liste_marcheurs[my_part_id]);
+    $('#marcheur').html(marcheur);
     // city
-    $('#marche').html(liste_marches[my_part_id]);
+    $('#marche').html(marche);
     // kilometer 
     var km = data[my_step_id].km;
     $('#km').html(km);
@@ -83,7 +85,7 @@ function src_initialize(my_part_id, my_step_id) {
       my_step_id++;
       console.log(my_step_id);
       Cookies.set('nicomo_marches_step_id', my_step_id, { expires: 20, path: '' });
-      src_initialize(my_part_id, my_step_id);
+      src_initialize(my_part_id, my_step_id, marche, marcheur);
       
     }
   });
