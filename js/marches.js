@@ -25,7 +25,7 @@ function src_initialize(my_part_id, my_step_id) {
   //
   // TODO READ JSON JUST ONCE RATHER THAN EACH TIME AROUND
   //
-  var json_file = 'marches_' + my_part_id +'.json';
+  var json_file = '../assets/json/marches_' + my_part_id +'.json';
   console.log(json_file);
   // read our data in json file
   $.getJSON(json_file, function(data) {
