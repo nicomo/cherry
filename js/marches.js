@@ -82,16 +82,21 @@ function src_initialize(my_part_id, my_step_id) {
 
     // NEXT
     if (my_step_id == data.length -1) {
-      console.log('fini');
       // we're at the end of this walk: move on to next walk, step 0
-      my_part_id++;
-      console.log('my-part-id now: ' + my_part_id);
-      // we change the text of the button and its url
-      var avancer_txt = liste_marcheurs[my_part_id] + ', ' + liste_marches[my_part_id];
-      console.log(avancer_txt);
-      var next_url = 'http://www.nicolasmorin.com/marches/marche_' + my_part_id + '.html';
-      $("#avancer").text(avancer_txt).attr('href', next_url);
-      Cookies.remove('nicomo_marches_step_id');
+
+      // if this is the very last walk, hide the next button
+      if (my_part_id = liste_marches.length) {
+        $("#avancer").hide();
+      } else { // else we change the button to point to next walk
+        my_part_id++;
+        console.log('my-part-id now: ' + my_part_id);
+        // we change the text of the button and its url
+        var avancer_txt = liste_marcheurs[my_part_id] + ', ' + liste_marches[my_part_id];
+        console.log(avancer_txt);
+        var next_url = 'http://www.nicolasmorin.com/marches/marche_' + my_part_id + '.html';
+        $("#avancer").text(avancer_txt).attr('href', next_url);
+        Cookies.remove('nicomo_marches_step_id');
+      }
     } else {
       // we stay in this walk, next step
       $('#avancer').on('touchstart click', function(){
