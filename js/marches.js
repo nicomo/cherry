@@ -15,23 +15,24 @@ $( document ).ready(function() {
     Cookies.set('nicomo_marches_step_id', step_id, { expires: 20, path: '' });
   };
   
-  var marche = liste_marches[part_id];
-  var marcheur = liste_marcheurs[part_id];
+  
 
   // init page content for 1st time
   src_initialize(part_id, step_id, marche, marcheur);
 
 });
 
-function src_initialize(my_part_id, my_step_id, marche, marcheur) {
+function src_initialize(my_part_id, my_step_id, liste_marches, liste_marcheurs) {
 
   //
   // TODO READ JSON JUST ONCE RATHER THAN EACH TIME AROUND
   //
   var json_file = '../assets/json/marches_' + my_part_id +'.json';
   console.log(json_file);
-  console.log(marcheur);
+  var marche = liste_marches[my_part_id];
+  var marcheur = liste_marcheurs[my_part_id];
   console.log(marche);
+  console.log(marcheur);
   // read our data in json file
   $.getJSON(json_file, function(data) {
 
@@ -83,11 +84,15 @@ function src_initialize(my_part_id, my_step_id, marche, marcheur) {
     } else {
       // we stay in this walk, next step
       my_step_id++;
-      console.log(my_step_id);
+      console.log('next-else, my_step_id: ' + my_step_id);
       Cookies.set('nicomo_marches_step_id', my_step_id, { expires: 20, path: '' });
-      src_initialize(my_part_id, my_step_id, marche, marcheur);
-      
+
+      $('#avancer').on('touchstart click', function(){
+        src_initialize(my_part_id, my_step_id, liste_marches, liste_marcheurs);  
+      });
+    
     }
+
   });
 }
 
