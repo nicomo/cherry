@@ -7,8 +7,8 @@ $( document ).ready(function() {
 	var numyears = Math.floor(secondsleft / 31536000);
 	var nummonths= Math.floor((secondsleft % 31536000) / 2628000);
 	var numdays = Math.floor(((secondsleft % 31536000) % 2628000) / 86400);
-	var mssg = numyears + ' years ' + nummonths + ' months ' + numdays + ' days left.';
+	var mssg = numyears + ' years ' + nummonths + ' months ' + numdays + ' days left';
 	var gradientStop = document.getElementById('linGStop1');
-	gradientStop.setAttribute('offset',percentlived);
+	gradientStop.setAttribute('offset',percentlived + '%');
 	$('#mementoMssg').html(mssg);
-}
+});
