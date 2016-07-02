@@ -97,7 +97,7 @@ $( document ).ready(function() {
           if (item.hasOwnProperty('title')) {
             html += "\"" + item.title + "\" ";
           };
-        } else if (item.type === "webpage" || item.type === 'interview') {
+        } else if (item.type === "webpage" || item.type === 'interview' || item.type === 'post-weblog') {
           html += "<span class=xbr_title>" + item.title + ".</span>";
         }
 
