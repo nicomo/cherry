@@ -1459,17 +1459,6 @@
 		}
 	},
 	{
-		"id": 608,
-		"type": "webpage",
-		"title": "Guide rapide pour débuter",
-		"URL": "http://zotero.org/support/quick_start_guide",
-		"author": [
-			{
-				"literal": "Center for History and New Media"
-			}
-		]
-	},
-	{
 		"id": 53,
 		"type": "book",
 		"title": "Go When You See the Green Man Walking",
@@ -1992,7 +1981,7 @@
 				"given": ""
 			}
 		],
-		"accessed": {
+		"issued": {
 			"date-parts": [
 				[
 					"2015",
