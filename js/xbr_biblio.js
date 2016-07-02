@@ -70,7 +70,7 @@ $( document ).ready(function() {
           if (item.hasOwnProperty('title')) {
             html += "&nbsp;" + item.title + ".";
           };
-        } else if (item.type === "chapter" || item.type === 'article-magazine' || item.type === 'article-newspaper' || item.type === 'article-journal') {
+        } else if (item.type === "chapter" || item.type === 'article-magazine' || item.type === 'article-newspaper' || item.type === 'article-journal' || item.type === 'post-weblog') {
           if (item.hasOwnProperty('title')) {
             html += "&ldquo;" + item.title + "&rdquo; in ";
           };
