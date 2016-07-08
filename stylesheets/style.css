@@ -9,6 +9,12 @@ a {
   text-decoration: none;
 }
 
+a[target="_blank"]:after {
+  font-family: FontAwesome;
+  content: "\f08e";
+  margin: 0 3px 0 5px;
+}
+
 .content-grid, .content-footer {
   max-width: 1200px;
 }
@@ -34,6 +40,7 @@ a {
 .mdl-mini-footer__link-list li {
   margin-right: 10px;
 }
+
 #marches-title, #marches_txt {
   background-color: rgba(255, 255, 255, 0.75);
   padding: 1em;
