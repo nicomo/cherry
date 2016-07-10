@@ -41,6 +41,66 @@ a[target="_blank"]:after {
   margin-right: 10px;
 }
 
+.mdl-card {
+  margin-left: 2em;
+  width: 30em;
+}
+
+.about1-image-mdl-card {
+  height: 12.5em;
+  background: url('../assets/images/about1.png') center / cover;
+}
+
+.about2-image-mdl-card {
+  height: 12.5em;
+  background: url('../assets/images/about2.png') center / cover;
+}
+
+.about3-image-mdl-card {
+  height: 12.5em;
+  background: url('../assets/images/about3.jpg') center / cover;
+}
+
+.about4-image-mdl-card {
+  height: 12.5em;
+  background: url('../assets/images/about4.jpg') center / cover;
+}
+
+.about5-image-mdl-card {
+  height: 12.5em;
+  background: url('../assets/images/about5.png') center / cover;
+}
+
+.about6-image-mdl-card {
+  height: 12.5em;
+  background: url('../assets/images/about6.png') center / cover;
+}
+
+.about7-image-mdl-card {
+  height: 12.5em;
+  background: url('../assets/images/about7.png') center / cover;
+}
+
+.about8-image-mdl-card {
+  height: 12.5em;
+  background: url('../assets/images/about8.png') center / cover;
+}
+
+.about9-image-mdl-card {
+  height: 12.5em;
+  background: url('../assets/images/about9.jpg') center / cover;
+}
+
+.about10-image-mdl-card {
+  height: 12.5em;
+  background: url('../assets/images/about10.png') center / cover;
+}
+
+.about11-image-mdl-card {
+  height: 12.5em;
+  background: url('../assets/images/about11.jpg') center / cover;
+}
+
 #marches-title, #marches_txt {
   background-color: rgba(255, 255, 255, 0.75);
   padding: 1em;
