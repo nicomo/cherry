@@ -42,7 +42,7 @@ a[target="_blank"]:after {
 }
 
 .mdl-card {
-  margin-left: 2em;
+  margin-left: 0.5em;
   width: 30em;
 }
 
@@ -122,10 +122,15 @@ a[target="_blank"]:after {
 
 
 @media (min-width: 1200px) {
-
+  
+  .mdl-card {
+    margin-left: 2em;
+    width: 30em;
+  }
   #map, #pano {
     float: left;
     height: 500px;
     width: 49%;
   }
+
 }
