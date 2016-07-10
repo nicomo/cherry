@@ -1,9 +1,9 @@
 function showdetails(detailid) {
 	$('.about-detail').each(function(index){
 		if ($(this).attr("id") === detailid) {
-			$(this).show(200)
+			$(this).show(400)
 		} else {
-			$(this).hide(400)
+			$(this).hide()
 		}
 	});
 }
