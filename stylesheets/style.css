@@ -101,6 +101,11 @@ a[target="_blank"]:after {
   background: url('../assets/images/about11.jpg') center / cover;
 }
 
+.about12-image-mdl-card {
+  height: 12.5em;
+  background: url('../assets/images/about12.jpg') center / cover;
+}
+
 #marches-title, #marches_txt {
   background-color: rgba(255, 255, 255, 0.75);
   padding: 1em;
@@ -127,6 +132,7 @@ a[target="_blank"]:after {
     margin-left: 2em;
     width: 30em;
   }
+  
   #map, #pano {
     float: left;
     height: 500px;
